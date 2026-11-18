@@ -1,15 +1,25 @@
-node_modules/
-.next/
-.venv/
-__pycache__/
+# Variables de entorno (¡NUNCA subas tus contraseñas!)
 .env
-.pgdata/
-*.log
-.pytest_cache/
-
-.next-production/
-
-.qa/
-
 .env.local
 .env.*.local
+
+# Entornos virtuales de Python
+.venv/
+venv/
+env/
+__pycache__/
+*.pyc
+
+# Archivos de Node.js y Next.js
+node_modules/
+.next/
+out/
+npm-debug.log*
+
+# Archivos de datos pesados (No los necesitamos en GitHub, el modelo .pkl ya tiene el conocimiento)
+artifacts/
+*.csv
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db

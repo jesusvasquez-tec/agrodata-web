@@ -1,0 +1,1842 @@
+{
+  "PAPA": [
+    {
+      "DEPARTAMENTO": "LA LIBERTAD",
+      "DISTRITO": "AGALLPAMPA",
+      "PRODUCTO": "PAPA",
+      "valor_promedio": 27.2447,
+      "registros": 102,
+      "estabilidad": 5.244,
+      "score": 0.8266
+    },
+    {
+      "DEPARTAMENTO": "AREQUIPA",
+      "DISTRITO": "TIABAYA",
+      "PRODUCTO": "PAPA",
+      "valor_promedio": 27.0592,
+      "registros": 48,
+      "estabilidad": 6.0942,
+      "score": 0.7992
+    },
+    {
+      "DEPARTAMENTO": "HUANUCO",
+      "DISTRITO": "CHINCHAO",
+      "PRODUCTO": "PAPA",
+      "valor_promedio": 24.6652,
+      "registros": 93,
+      "estabilidad": 4.0065,
+      "score": 0.7964
+    },
+    {
+      "DEPARTAMENTO": "HUANUCO",
+      "DISTRITO": "SAN PABLO DE PILLAO",
+      "PRODUCTO": "PAPA",
+      "valor_promedio": 24.4442,
+      "registros": 93,
+      "estabilidad": 4.0844,
+      "score": 0.7889
+    },
+    {
+      "DEPARTAMENTO": "LA LIBERTAD",
+      "DISTRITO": "MACHE",
+      "PRODUCTO": "PAPA",
+      "valor_promedio": 26.1623,
+      "registros": 101,
+      "estabilidad": 5.6873,
+      "score": 0.788
+    },
+    {
+      "DEPARTAMENTO": "AREQUIPA",
+      "DISTRITO": "LA JOYA",
+      "PRODUCTO": "PAPA",
+      "valor_promedio": 26.6615,
+      "registros": 48,
+      "estabilidad": 6.1574,
+      "score": 0.7877
+    },
+    {
+      "DEPARTAMENTO": "LA LIBERTAD",
+      "DISTRITO": "OTUZCO",
+      "PRODUCTO": "PAPA",
+      "valor_promedio": 26.1704,
+      "registros": 102,
+      "estabilidad": 5.7521,
+      "score": 0.7865
+    },
+    {
+      "DEPARTAMENTO": "AREQUIPA",
+      "DISTRITO": "MAJES",
+      "PRODUCTO": "PAPA",
+      "valor_promedio": 26.5123,
+      "registros": 48,
+      "estabilidad": 6.148,
+      "score": 0.7843
+    },
+    {
+      "DEPARTAMENTO": "LA LIBERTAD",
+      "DISTRITO": "SALPO",
+      "PRODUCTO": "PAPA",
+      "valor_promedio": 25.9255,
+      "registros": 102,
+      "estabilidad": 5.7611,
+      "score": 0.7802
+    },
+    {
+      "DEPARTAMENTO": "AREQUIPA",
+      "DISTRITO": "SANTA RITA DE SIGUAS",
+      "PRODUCTO": "PAPA",
+      "valor_promedio": 26.6188,
+      "registros": 48,
+      "estabilidad": 6.6818,
+      "score": 0.7725
+    }
+  ],
+  "YUCA": [
+    {
+      "DEPARTAMENTO": "LIMA",
+      "DISTRITO": "SAN VICENTE DE CAÑETE",
+      "PRODUCTO": "YUCA",
+      "valor_promedio": 28.3935,
+      "registros": 48,
+      "estabilidad": 8.7637,
+      "score": 0.7602
+    },
+    {
+      "DEPARTAMENTO": "ICA",
+      "DISTRITO": "INDEPENDENCIA",
+      "PRODUCTO": "YUCA",
+      "valor_promedio": 24.4776,
+      "registros": 48,
+      "estabilidad": 5.1852,
+      "score": 0.7601
+    },
+    {
+      "DEPARTAMENTO": "LIMA",
+      "DISTRITO": "SUPE",
+      "PRODUCTO": "YUCA",
+      "valor_promedio": 28.5805,
+      "registros": 48,
+      "estabilidad": 8.9518,
+      "score": 0.7597
+    },
+    {
+      "DEPARTAMENTO": "LIMA",
+      "DISTRITO": "BARRANCA",
+      "PRODUCTO": "YUCA",
+      "valor_promedio": 28.3978,
+      "registros": 47,
+      "estabilidad": 8.9888,
+      "score": 0.7542
+    },
+    {
+      "DEPARTAMENTO": "ICA",
+      "DISTRITO": "ALTO LARAN",
+      "PRODUCTO": "YUCA",
+      "valor_promedio": 22.4241,
+      "registros": 48,
+      "estabilidad": 3.7882,
+      "score": 0.7471
+    },
+    {
+      "DEPARTAMENTO": "ICA",
+      "DISTRITO": "CHINCHA BAJA",
+      "PRODUCTO": "YUCA",
+      "valor_promedio": 22.4486,
+      "registros": 48,
+      "estabilidad": 3.8312,
+      "score": 0.7465
+    },
+    {
+      "DEPARTAMENTO": "LIMA",
+      "DISTRITO": "NUEVO IMPERIAL",
+      "PRODUCTO": "YUCA",
+      "valor_promedio": 27.5837,
+      "registros": 48,
+      "estabilidad": 8.5537,
+      "score": 0.7459
+    },
+    {
+      "DEPARTAMENTO": "LIMA",
+      "DISTRITO": "IMPERIAL",
+      "PRODUCTO": "YUCA",
+      "valor_promedio": 27.3302,
+      "registros": 48,
+      "estabilidad": 8.3622,
+      "score": 0.7448
+    },
+    {
+      "DEPARTAMENTO": "ICA",
+      "DISTRITO": "EL CARMEN",
+      "PRODUCTO": "YUCA",
+      "valor_promedio": 22.3622,
+      "registros": 48,
+      "estabilidad": 3.8864,
+      "score": 0.7429
+    },
+    {
+      "DEPARTAMENTO": "LIMA",
+      "DISTRITO": "SAN LUIS",
+      "PRODUCTO": "YUCA",
+      "valor_promedio": 27.4049,
+      "registros": 48,
+      "estabilidad": 8.5282,
+      "score": 0.7422
+    }
+  ],
+  "MAIZ AMARILLO DURO": [
+    {
+      "DEPARTAMENTO": "LIMA",
+      "DISTRITO": "PATIVILCA",
+      "PRODUCTO": "MAIZ AMARILLO DURO",
+      "valor_promedio": 10.5749,
+      "registros": 48,
+      "estabilidad": 2.9736,
+      "score": 0.4772
+    },
+    {
+      "DEPARTAMENTO": "LIMA",
+      "DISTRITO": "BARRANCA",
+      "PRODUCTO": "MAIZ AMARILLO DURO",
+      "valor_promedio": 10.1338,
+      "registros": 48,
+      "estabilidad": 2.7835,
+      "score": 0.4715
+    },
+    {
+      "DEPARTAMENTO": "LIMA",
+      "DISTRITO": "SUPE",
+      "PRODUCTO": "MAIZ AMARILLO DURO",
+      "valor_promedio": 9.9905,
+      "registros": 48,
+      "estabilidad": 2.6971,
+      "score": 0.4703
+    },
+    {
+      "DEPARTAMENTO": "LIMA",
+      "DISTRITO": "PARAMONGA",
+      "PRODUCTO": "MAIZ AMARILLO DURO",
+      "valor_promedio": 10.1033,
+      "registros": 48,
+      "estabilidad": 2.8036,
+      "score": 0.4702
+    },
+    {
+      "DEPARTAMENTO": "LIMA",
+      "DISTRITO": "SUPE PUERTO",
+      "PRODUCTO": "MAIZ AMARILLO DURO",
+      "valor_promedio": 9.8908,
+      "registros": 48,
+      "estabilidad": 2.6815,
+      "score": 0.4682
+    },
+    {
+      "DEPARTAMENTO": "LA LIBERTAD",
+      "DISTRITO": "GUADALUPITO",
+      "PRODUCTO": "MAIZ AMARILLO DURO",
+      "valor_promedio": 9.6714,
+      "registros": 48,
+      "estabilidad": 2.6189,
+      "score": 0.4645
+    },
+    {
+      "DEPARTAMENTO": "ANCASH",
+      "DISTRITO": "SANTA",
+      "PRODUCTO": "MAIZ AMARILLO DURO",
+      "valor_promedio": 10.1904,
+      "registros": 48,
+      "estabilidad": 3.1563,
+      "score": 0.4628
+    },
+    {
+      "DEPARTAMENTO": "ANCASH",
+      "DISTRITO": "CHIMBOTE",
+      "PRODUCTO": "MAIZ AMARILLO DURO",
+      "valor_promedio": 10.1723,
+      "registros": 48,
+      "estabilidad": 3.1447,
+      "score": 0.4627
+    },
+    {
+      "DEPARTAMENTO": "LIMA",
+      "DISTRITO": "VEGUETA",
+      "PRODUCTO": "MAIZ AMARILLO DURO",
+      "valor_promedio": 8.6616,
+      "registros": 48,
+      "estabilidad": 1.9198,
+      "score": 0.4585
+    },
+    {
+      "DEPARTAMENTO": "LIMA",
+      "DISTRITO": "IMPERIAL",
+      "PRODUCTO": "MAIZ AMARILLO DURO",
+      "valor_promedio": 8.9822,
+      "registros": 48,
+      "estabilidad": 2.2204,
+      "score": 0.4583
+    }
+  ],
+  "FRIJOL": [
+    {
+      "DEPARTAMENTO": "LIMA",
+      "DISTRITO": "LURIGANCHO",
+      "PRODUCTO": "FRIJOL",
+      "valor_promedio": 10.6482,
+      "registros": 48,
+      "estabilidad": 3.6841,
+      "score": 0.4599
+    },
+    {
+      "DEPARTAMENTO": "AREQUIPA",
+      "DISTRITO": "UCHUMAYO",
+      "PRODUCTO": "FRIJOL",
+      "valor_promedio": 8.901,
+      "registros": 48,
+      "estabilidad": 2.5023,
+      "score": 0.4487
+    },
+    {
+      "DEPARTAMENTO": "AREQUIPA",
+      "DISTRITO": "CAYMA",
+      "PRODUCTO": "FRIJOL",
+      "valor_promedio": 10.4168,
+      "registros": 48,
+      "estabilidad": 4.2611,
+      "score": 0.4387
+    },
+    {
+      "DEPARTAMENTO": "LIMA",
+      "DISTRITO": "NUEVO IMPERIAL",
+      "PRODUCTO": "FRIJOL",
+      "valor_promedio": 7.4873,
+      "registros": 102,
+      "estabilidad": 1.7242,
+      "score": 0.4348
+    },
+    {
+      "DEPARTAMENTO": "AREQUIPA",
+      "DISTRITO": "MAJES",
+      "PRODUCTO": "FRIJOL",
+      "valor_promedio": 9.7872,
+      "registros": 55,
+      "estabilidad": 3.8514,
+      "score": 0.4342
+    },
+    {
+      "DEPARTAMENTO": "LIMA",
+      "DISTRITO": "IMPERIAL",
+      "PRODUCTO": "FRIJOL",
+      "valor_promedio": 7.6376,
+      "registros": 84,
+      "estabilidad": 1.916,
+      "score": 0.4333
+    },
+    {
+      "DEPARTAMENTO": "LIMA",
+      "DISTRITO": "ZUÑIGA",
+      "PRODUCTO": "FRIJOL",
+      "valor_promedio": 6.9475,
+      "registros": 93,
+      "estabilidad": 1.2974,
+      "score": 0.433
+    },
+    {
+      "DEPARTAMENTO": "LIMA",
+      "DISTRITO": "QUILMANA",
+      "PRODUCTO": "FRIJOL",
+      "valor_promedio": 7.2625,
+      "registros": 102,
+      "estabilidad": 1.5897,
+      "score": 0.4329
+    },
+    {
+      "DEPARTAMENTO": "AREQUIPA",
+      "DISTRITO": "TIABAYA",
+      "PRODUCTO": "FRIJOL",
+      "valor_promedio": 10.0517,
+      "registros": 48,
+      "estabilidad": 4.1609,
+      "score": 0.4324
+    },
+    {
+      "DEPARTAMENTO": "LIMA",
+      "DISTRITO": "SAN VICENTE DE CAÑETE",
+      "PRODUCTO": "FRIJOL",
+      "valor_promedio": 7.6563,
+      "registros": 68,
+      "estabilidad": 2.0322,
+      "score": 0.4307
+    }
+  ],
+  "RYE GRASS": [
+    {
+      "DEPARTAMENTO": "AREQUIPA",
+      "DISTRITO": "CAYARANI",
+      "PRODUCTO": "RYE GRASS",
+      "valor_promedio": 8.4724,
+      "registros": 21,
+      "estabilidad": 2.0254,
+      "score": 0.451
+    },
+    {
+      "DEPARTAMENTO": "APURIMAC",
+      "DISTRITO": "COTABAMBAS",
+      "PRODUCTO": "RYE GRASS",
+      "valor_promedio": 3.3652,
+      "registros": 22,
+      "estabilidad": 0.7421,
+      "score": 0.3597
+    },
+    {
+      "DEPARTAMENTO": "APURIMAC",
+      "DISTRITO": "CHALLHUAHUACHO",
+      "PRODUCTO": "RYE GRASS",
+      "valor_promedio": 3.0831,
+      "registros": 25,
+      "estabilidad": 0.5495,
+      "score": 0.358
+    },
+    {
+      "DEPARTAMENTO": "JUNIN",
+      "DISTRITO": "HUACRAPUQUIO",
+      "PRODUCTO": "RYE GRASS",
+      "valor_promedio": 2.5843,
+      "registros": 21,
+      "estabilidad": 0.2305,
+      "score": 0.3543
+    },
+    {
+      "DEPARTAMENTO": "HUANUCO",
+      "DISTRITO": "LA UNION",
+      "PRODUCTO": "RYE GRASS",
+      "valor_promedio": 2.4873,
+      "registros": 21,
+      "estabilidad": 0.1428,
+      "score": 0.3542
+    },
+    {
+      "DEPARTAMENTO": "CUSCO",
+      "DISTRITO": "CCORCA",
+      "PRODUCTO": "RYE GRASS",
+      "valor_promedio": 4.9506,
+      "registros": 21,
+      "estabilidad": 2.8962,
+      "score": 0.3408
+    },
+    {
+      "DEPARTAMENTO": "APURIMAC",
+      "DISTRITO": "ANDARAPA",
+      "PRODUCTO": "RYE GRASS",
+      "valor_promedio": 2.8984,
+      "registros": 21,
+      "estabilidad": 1.155,
+      "score": 0.3371
+    },
+    {
+      "DEPARTAMENTO": "HUANUCO",
+      "DISTRITO": "MARIAS",
+      "PRODUCTO": "RYE GRASS",
+      "valor_promedio": 2.7546,
+      "registros": 21,
+      "estabilidad": 1.1174,
+      "score": 0.3346
+    },
+    {
+      "DEPARTAMENTO": "APURIMAC",
+      "DISTRITO": "TAMBOBAMBA",
+      "PRODUCTO": "RYE GRASS",
+      "valor_promedio": 2.3341,
+      "registros": 34,
+      "estabilidad": 1.1795,
+      "score": 0.3226
+    },
+    {
+      "DEPARTAMENTO": "APURIMAC",
+      "DISTRITO": "PACHACONAS",
+      "PRODUCTO": "RYE GRASS",
+      "valor_promedio": 2.3168,
+      "registros": 34,
+      "estabilidad": 1.1829,
+      "score": 0.322
+    }
+  ],
+  "MANZANA": [
+    {
+      "DEPARTAMENTO": "AREQUIPA",
+      "DISTRITO": "CABANACONDE",
+      "PRODUCTO": "MANZANA",
+      "valor_promedio": 6.7559,
+      "registros": 21,
+      "estabilidad": 2.2911,
+      "score": 0.4015
+    },
+    {
+      "DEPARTAMENTO": "AREQUIPA",
+      "DISTRITO": "SANTA RITA DE SIGUAS",
+      "PRODUCTO": "MANZANA",
+      "valor_promedio": 6.4468,
+      "registros": 21,
+      "estabilidad": 2.0921,
+      "score": 0.3993
+    },
+    {
+      "DEPARTAMENTO": "AREQUIPA",
+      "DISTRITO": "YANQUE",
+      "PRODUCTO": "MANZANA",
+      "valor_promedio": 6.6248,
+      "registros": 21,
+      "estabilidad": 2.2584,
+      "score": 0.3992
+    },
+    {
+      "DEPARTAMENTO": "AREQUIPA",
+      "DISTRITO": "ICHUPAMPA",
+      "PRODUCTO": "MANZANA",
+      "valor_promedio": 6.6633,
+      "registros": 21,
+      "estabilidad": 2.2929,
+      "score": 0.3992
+    },
+    {
+      "DEPARTAMENTO": "AREQUIPA",
+      "DISTRITO": "MADRIGAL",
+      "PRODUCTO": "MANZANA",
+      "valor_promedio": 6.6433,
+      "registros": 21,
+      "estabilidad": 2.2989,
+      "score": 0.3986
+    },
+    {
+      "DEPARTAMENTO": "AREQUIPA",
+      "DISTRITO": "SAMUEL PASTOR",
+      "PRODUCTO": "MANZANA",
+      "valor_promedio": 6.1282,
+      "registros": 21,
+      "estabilidad": 2.2665,
+      "score": 0.3867
+    },
+    {
+      "DEPARTAMENTO": "LIMA",
+      "DISTRITO": "ALLAUCA",
+      "PRODUCTO": "MANZANA",
+      "valor_promedio": 6.5064,
+      "registros": 30,
+      "estabilidad": 3.5958,
+      "score": 0.3603
+    },
+    {
+      "DEPARTAMENTO": "LIMA",
+      "DISTRITO": "YAUYOS",
+      "PRODUCTO": "MANZANA",
+      "valor_promedio": 6.4446,
+      "registros": 30,
+      "estabilidad": 3.6541,
+      "score": 0.3572
+    },
+    {
+      "DEPARTAMENTO": "AYACUCHO",
+      "DISTRITO": "LOS MOROCHUCOS",
+      "PRODUCTO": "MANZANA",
+      "valor_promedio": 2.3333,
+      "registros": 21,
+      "estabilidad": 0.3091,
+      "score": 0.346
+    },
+    {
+      "DEPARTAMENTO": "AYACUCHO",
+      "DISTRITO": "SAISA",
+      "PRODUCTO": "MANZANA",
+      "valor_promedio": 2.3255,
+      "registros": 21,
+      "estabilidad": 0.3134,
+      "score": 0.3457
+    }
+  ],
+  "PALTA": [
+    {
+      "DEPARTAMENTO": "AREQUIPA",
+      "DISTRITO": "ATICO",
+      "PRODUCTO": "PALTA",
+      "valor_promedio": 4.8332,
+      "registros": 21,
+      "estabilidad": 1.6904,
+      "score": 0.3704
+    },
+    {
+      "DEPARTAMENTO": "AREQUIPA",
+      "DISTRITO": "CHAPARRA",
+      "PRODUCTO": "PALTA",
+      "valor_promedio": 4.1727,
+      "registros": 45,
+      "estabilidad": 1.9884,
+      "score": 0.3461
+    },
+    {
+      "DEPARTAMENTO": "AREQUIPA",
+      "DISTRITO": "CHUQUIBAMBA",
+      "PRODUCTO": "PALTA",
+      "valor_promedio": 4.0522,
+      "registros": 45,
+      "estabilidad": 1.9779,
+      "score": 0.3434
+    },
+    {
+      "DEPARTAMENTO": "AREQUIPA",
+      "DISTRITO": "TORO",
+      "PRODUCTO": "PALTA",
+      "valor_promedio": 4.1222,
+      "registros": 45,
+      "estabilidad": 2.0587,
+      "score": 0.3429
+    },
+    {
+      "DEPARTAMENTO": "AREQUIPA",
+      "DISTRITO": "PAMPACOLCA",
+      "PRODUCTO": "PALTA",
+      "valor_promedio": 4.1502,
+      "registros": 45,
+      "estabilidad": 2.0894,
+      "score": 0.3428
+    },
+    {
+      "DEPARTAMENTO": "AREQUIPA",
+      "DISTRITO": "TIPAN",
+      "PRODUCTO": "PALTA",
+      "valor_promedio": 4.1901,
+      "registros": 45,
+      "estabilidad": 2.1302,
+      "score": 0.3427
+    },
+    {
+      "DEPARTAMENTO": "AREQUIPA",
+      "DISTRITO": "CHARCANA",
+      "PRODUCTO": "PALTA",
+      "valor_promedio": 4.0485,
+      "registros": 45,
+      "estabilidad": 2.0008,
+      "score": 0.3427
+    },
+    {
+      "DEPARTAMENTO": "AREQUIPA",
+      "DISTRITO": "ACARI",
+      "PRODUCTO": "PALTA",
+      "valor_promedio": 4.0709,
+      "registros": 45,
+      "estabilidad": 2.0204,
+      "score": 0.3427
+    },
+    {
+      "DEPARTAMENTO": "AREQUIPA",
+      "DISTRITO": "HUANCARQUI",
+      "PRODUCTO": "PALTA",
+      "valor_promedio": 4.046,
+      "registros": 45,
+      "estabilidad": 2.0028,
+      "score": 0.3426
+    },
+    {
+      "DEPARTAMENTO": "AREQUIPA",
+      "DISTRITO": "QUECHUALLA",
+      "PRODUCTO": "PALTA",
+      "valor_promedio": 4.2401,
+      "registros": 45,
+      "estabilidad": 2.1798,
+      "score": 0.3426
+    }
+  ],
+  "NARANJA": [
+    {
+      "DEPARTAMENTO": "AREQUIPA",
+      "DISTRITO": "TAPAY",
+      "PRODUCTO": "NARANJA",
+      "valor_promedio": 4.1113,
+      "registros": 21,
+      "estabilidad": 1.0522,
+      "score": 0.3698
+    },
+    {
+      "DEPARTAMENTO": "AREQUIPA",
+      "DISTRITO": "HUAMBO",
+      "PRODUCTO": "NARANJA",
+      "valor_promedio": 4.2756,
+      "registros": 21,
+      "estabilidad": 1.5367,
+      "score": 0.3608
+    },
+    {
+      "DEPARTAMENTO": "AREQUIPA",
+      "DISTRITO": "CHOCO",
+      "PRODUCTO": "NARANJA",
+      "valor_promedio": 4.3411,
+      "registros": 21,
+      "estabilidad": 1.6128,
+      "score": 0.3603
+    },
+    {
+      "DEPARTAMENTO": "AREQUIPA",
+      "DISTRITO": "CABANACONDE",
+      "PRODUCTO": "NARANJA",
+      "valor_promedio": 4.2731,
+      "registros": 21,
+      "estabilidad": 1.6009,
+      "score": 0.359
+    },
+    {
+      "DEPARTAMENTO": "AYACUCHO",
+      "DISTRITO": "SAN MIGUEL",
+      "PRODUCTO": "NARANJA",
+      "valor_promedio": 1.5469,
+      "registros": 21,
+      "estabilidad": 0.182,
+      "score": 0.33
+    },
+    {
+      "DEPARTAMENTO": "LA LIBERTAD",
+      "DISTRITO": "JEQUETEPEQUE",
+      "PRODUCTO": "NARANJA",
+      "valor_promedio": 1.6223,
+      "registros": 21,
+      "estabilidad": 0.2991,
+      "score": 0.3287
+    },
+    {
+      "DEPARTAMENTO": "LA LIBERTAD",
+      "DISTRITO": "CHOCOPE",
+      "PRODUCTO": "NARANJA",
+      "valor_promedio": 1.6507,
+      "registros": 21,
+      "estabilidad": 0.3258,
+      "score": 0.3287
+    },
+    {
+      "DEPARTAMENTO": "LA LIBERTAD",
+      "DISTRITO": "SAN JOSE",
+      "PRODUCTO": "NARANJA",
+      "valor_promedio": 1.6484,
+      "registros": 21,
+      "estabilidad": 0.3539,
+      "score": 0.3279
+    },
+    {
+      "DEPARTAMENTO": "AYACUCHO",
+      "DISTRITO": "AYAHUANCO",
+      "PRODUCTO": "NARANJA",
+      "valor_promedio": 1.445,
+      "registros": 21,
+      "estabilidad": 0.1757,
+      "score": 0.3277
+    },
+    {
+      "DEPARTAMENTO": "LA LIBERTAD",
+      "DISTRITO": "CALAMARCA",
+      "PRODUCTO": "NARANJA",
+      "valor_promedio": 1.6023,
+      "registros": 21,
+      "estabilidad": 0.3187,
+      "score": 0.3277
+    }
+  ],
+  "PACAE O GUABO": [
+    {
+      "DEPARTAMENTO": "AREQUIPA",
+      "DISTRITO": "CABANACONDE",
+      "PRODUCTO": "PACAE O GUABO",
+      "valor_promedio": 4.3971,
+      "registros": 21,
+      "estabilidad": 1.3632,
+      "score": 0.3684
+    },
+    {
+      "DEPARTAMENTO": "AREQUIPA",
+      "DISTRITO": "CHOCO",
+      "PRODUCTO": "PACAE O GUABO",
+      "valor_promedio": 4.2949,
+      "registros": 21,
+      "estabilidad": 1.3143,
+      "score": 0.3672
+    },
+    {
+      "DEPARTAMENTO": "AREQUIPA",
+      "DISTRITO": "BELLA UNION",
+      "PRODUCTO": "PACAE O GUABO",
+      "valor_promedio": 4.0165,
+      "registros": 21,
+      "estabilidad": 1.1023,
+      "score": 0.3661
+    },
+    {
+      "DEPARTAMENTO": "LIMA",
+      "DISTRITO": "NUEVO IMPERIAL",
+      "PRODUCTO": "PACAE O GUABO",
+      "valor_promedio": 3.8314,
+      "registros": 21,
+      "estabilidad": 1.7149,
+      "score": 0.345
+    },
+    {
+      "DEPARTAMENTO": "LIMA",
+      "DISTRITO": "IMPERIAL",
+      "PRODUCTO": "PACAE O GUABO",
+      "valor_promedio": 3.8312,
+      "registros": 21,
+      "estabilidad": 1.7823,
+      "score": 0.3432
+    },
+    {
+      "DEPARTAMENTO": "AYACUCHO",
+      "DISTRITO": "TAMBO",
+      "PRODUCTO": "PACAE O GUABO",
+      "valor_promedio": 2.2082,
+      "registros": 21,
+      "estabilidad": 0.3841,
+      "score": 0.3409
+    },
+    {
+      "DEPARTAMENTO": "AYACUCHO",
+      "DISTRITO": "ORONCCOY",
+      "PRODUCTO": "PACAE O GUABO",
+      "valor_promedio": 2.0643,
+      "registros": 21,
+      "estabilidad": 0.2651,
+      "score": 0.3405
+    },
+    {
+      "DEPARTAMENTO": "AYACUCHO",
+      "DISTRITO": "CHILCAS",
+      "PRODUCTO": "PACAE O GUABO",
+      "valor_promedio": 1.848,
+      "registros": 21,
+      "estabilidad": 0.152,
+      "score": 0.3383
+    },
+    {
+      "DEPARTAMENTO": "AYACUCHO",
+      "DISTRITO": "SANTA ROSA",
+      "PRODUCTO": "PACAE O GUABO",
+      "valor_promedio": 1.9321,
+      "registros": 21,
+      "estabilidad": 0.3026,
+      "score": 0.3363
+    },
+    {
+      "DEPARTAMENTO": "HUANUCO",
+      "DISTRITO": "HONORIA",
+      "PRODUCTO": "PACAE O GUABO",
+      "valor_promedio": 1.839,
+      "registros": 21,
+      "estabilidad": 0.2196,
+      "score": 0.3362
+    }
+  ],
+  "MELOCOTON": [
+    {
+      "DEPARTAMENTO": "AREQUIPA",
+      "DISTRITO": "MAJES",
+      "PRODUCTO": "MELOCOTON",
+      "valor_promedio": 4.0619,
+      "registros": 21,
+      "estabilidad": 1.3158,
+      "score": 0.3614
+    },
+    {
+      "DEPARTAMENTO": "AREQUIPA",
+      "DISTRITO": "CABANACONDE",
+      "PRODUCTO": "MELOCOTON",
+      "valor_promedio": 3.9777,
+      "registros": 21,
+      "estabilidad": 1.2553,
+      "score": 0.361
+    },
+    {
+      "DEPARTAMENTO": "AYACUCHO",
+      "DISTRITO": "LOS MOROCHUCOS",
+      "PRODUCTO": "MELOCOTON",
+      "valor_promedio": 2.0537,
+      "registros": 21,
+      "estabilidad": 0.1533,
+      "score": 0.3433
+    },
+    {
+      "DEPARTAMENTO": "AYACUCHO",
+      "DISTRITO": "LEONCIO PRADO",
+      "PRODUCTO": "MELOCOTON",
+      "valor_promedio": 2.0586,
+      "registros": 21,
+      "estabilidad": 0.1666,
+      "score": 0.343
+    },
+    {
+      "DEPARTAMENTO": "LIMA",
+      "DISTRITO": "SAN BUENAVENTURA",
+      "PRODUCTO": "MELOCOTON",
+      "valor_promedio": 5.0117,
+      "registros": 21,
+      "estabilidad": 2.9468,
+      "score": 0.3409
+    },
+    {
+      "DEPARTAMENTO": "LIMA",
+      "DISTRITO": "AMBAR",
+      "PRODUCTO": "MELOCOTON",
+      "valor_promedio": 4.8777,
+      "registros": 24,
+      "estabilidad": 2.9011,
+      "score": 0.3389
+    },
+    {
+      "DEPARTAMENTO": "MOQUEGUA",
+      "DISTRITO": "QUINISTAQUILLAS",
+      "PRODUCTO": "MELOCOTON",
+      "valor_promedio": 2.9241,
+      "registros": 21,
+      "estabilidad": 1.1864,
+      "score": 0.3369
+    },
+    {
+      "DEPARTAMENTO": "PASCO",
+      "DISTRITO": "YANAHUANCA",
+      "PRODUCTO": "MELOCOTON",
+      "valor_promedio": 1.7806,
+      "registros": 21,
+      "estabilidad": 0.1469,
+      "score": 0.3367
+    },
+    {
+      "DEPARTAMENTO": "LIMA",
+      "DISTRITO": "VIÑAC",
+      "PRODUCTO": "MELOCOTON",
+      "valor_promedio": 3.7671,
+      "registros": 21,
+      "estabilidad": 1.9787,
+      "score": 0.3363
+    },
+    {
+      "DEPARTAMENTO": "AYACUCHO",
+      "DISTRITO": "MORCOLLA",
+      "PRODUCTO": "MELOCOTON",
+      "valor_promedio": 2.0924,
+      "registros": 21,
+      "estabilidad": 0.493,
+      "score": 0.3351
+    }
+  ],
+  "LIMON": [
+    {
+      "DEPARTAMENTO": "LIMA",
+      "DISTRITO": "SAN LUIS",
+      "PRODUCTO": "LIMON",
+      "valor_promedio": 3.3109,
+      "registros": 21,
+      "estabilidad": 0.6496,
+      "score": 0.3609
+    },
+    {
+      "DEPARTAMENTO": "LIMA",
+      "DISTRITO": "HUACHO",
+      "PRODUCTO": "LIMON",
+      "valor_promedio": 3.2715,
+      "registros": 21,
+      "estabilidad": 0.6289,
+      "score": 0.3605
+    },
+    {
+      "DEPARTAMENTO": "LIMA",
+      "DISTRITO": "PACHACAMAC",
+      "PRODUCTO": "LIMON",
+      "valor_promedio": 3.3978,
+      "registros": 21,
+      "estabilidad": 0.7525,
+      "score": 0.3603
+    },
+    {
+      "DEPARTAMENTO": "AYACUCHO",
+      "DISTRITO": "LARAMATE",
+      "PRODUCTO": "LIMON",
+      "valor_promedio": 1.7383,
+      "registros": 21,
+      "estabilidad": 0.1511,
+      "score": 0.3356
+    },
+    {
+      "DEPARTAMENTO": "AYACUCHO",
+      "DISTRITO": "QUEROBAMBA",
+      "PRODUCTO": "LIMON",
+      "valor_promedio": 1.6984,
+      "registros": 21,
+      "estabilidad": 0.2313,
+      "score": 0.3324
+    },
+    {
+      "DEPARTAMENTO": "AYACUCHO",
+      "DISTRITO": "HUACAÑA",
+      "PRODUCTO": "LIMON",
+      "valor_promedio": 1.7283,
+      "registros": 21,
+      "estabilidad": 0.285,
+      "score": 0.3317
+    },
+    {
+      "DEPARTAMENTO": "AYACUCHO",
+      "DISTRITO": "PAICO",
+      "PRODUCTO": "LIMON",
+      "valor_promedio": 1.7276,
+      "registros": 21,
+      "estabilidad": 0.2848,
+      "score": 0.3317
+    },
+    {
+      "DEPARTAMENTO": "AYACUCHO",
+      "DISTRITO": "SAN PEDRO DE PALCO",
+      "PRODUCTO": "LIMON",
+      "valor_promedio": 1.7128,
+      "registros": 21,
+      "estabilidad": 0.2834,
+      "score": 0.3314
+    },
+    {
+      "DEPARTAMENTO": "AYACUCHO",
+      "DISTRITO": "OCAÑA",
+      "PRODUCTO": "LIMON",
+      "valor_promedio": 1.7083,
+      "registros": 21,
+      "estabilidad": 0.2827,
+      "score": 0.3313
+    },
+    {
+      "DEPARTAMENTO": "AYACUCHO",
+      "DISTRITO": "LLAUTA",
+      "PRODUCTO": "LIMON",
+      "valor_promedio": 1.7087,
+      "registros": 21,
+      "estabilidad": 0.2825,
+      "score": 0.3313
+    }
+  ],
+  "MANGO": [
+    {
+      "DEPARTAMENTO": "AREQUIPA",
+      "DISTRITO": "SANTA RITA DE SIGUAS",
+      "PRODUCTO": "MANGO",
+      "valor_promedio": 4.8305,
+      "registros": 21,
+      "estabilidad": 2.3386,
+      "score": 0.3528
+    },
+    {
+      "DEPARTAMENTO": "LIMA",
+      "DISTRITO": "CATAHUASI",
+      "PRODUCTO": "MANGO",
+      "valor_promedio": 4.1378,
+      "registros": 21,
+      "estabilidad": 2.3993,
+      "score": 0.3341
+    },
+    {
+      "DEPARTAMENTO": "HUANCAVELICA",
+      "DISTRITO": "TICRAPO",
+      "PRODUCTO": "MANGO",
+      "valor_promedio": 1.6703,
+      "registros": 21,
+      "estabilidad": 0.2698,
+      "score": 0.3307
+    },
+    {
+      "DEPARTAMENTO": "HUANUCO",
+      "DISTRITO": "HUACAYBAMBA",
+      "PRODUCTO": "MANGO",
+      "valor_promedio": 2.2766,
+      "registros": 21,
+      "estabilidad": 0.8864,
+      "score": 0.329
+    },
+    {
+      "DEPARTAMENTO": "HUANUCO",
+      "DISTRITO": "HONORIA",
+      "PRODUCTO": "MANGO",
+      "valor_promedio": 2.3388,
+      "registros": 21,
+      "estabilidad": 0.9473,
+      "score": 0.3289
+    },
+    {
+      "DEPARTAMENTO": "HUANCAVELICA",
+      "DISTRITO": "SANTIAGO DE CHOCORVOS",
+      "PRODUCTO": "MANGO",
+      "valor_promedio": 1.6377,
+      "registros": 21,
+      "estabilidad": 0.3116,
+      "score": 0.3288
+    },
+    {
+      "DEPARTAMENTO": "PIURA",
+      "DISTRITO": "SANTA CATALINA DE MOSSA",
+      "PRODUCTO": "MANGO",
+      "valor_promedio": 1.8421,
+      "registros": 21,
+      "estabilidad": 0.5553,
+      "score": 0.3273
+    },
+    {
+      "DEPARTAMENTO": "HUANCAVELICA",
+      "DISTRITO": "SAN JUAN",
+      "PRODUCTO": "MANGO",
+      "valor_promedio": 1.6528,
+      "registros": 21,
+      "estabilidad": 0.3941,
+      "score": 0.3269
+    },
+    {
+      "DEPARTAMENTO": "HUANUCO",
+      "DISTRITO": "PILLCO MARCA",
+      "PRODUCTO": "MANGO",
+      "valor_promedio": 2.1879,
+      "registros": 22,
+      "estabilidad": 1.0032,
+      "score": 0.3237
+    },
+    {
+      "DEPARTAMENTO": "LA LIBERTAD",
+      "DISTRITO": "JEQUETEPEQUE",
+      "PRODUCTO": "MANGO",
+      "valor_promedio": 2.2789,
+      "registros": 21,
+      "estabilidad": 1.1087,
+      "score": 0.3231
+    }
+  ],
+  "GRANADILLA": [
+    {
+      "DEPARTAMENTO": "ICA",
+      "DISTRITO": "INDEPENDENCIA",
+      "PRODUCTO": "GRANADILLA",
+      "valor_promedio": 2.9754,
+      "registros": 21,
+      "estabilidad": 0.6885,
+      "score": 0.3516
+    },
+    {
+      "DEPARTAMENTO": "MOQUEGUA",
+      "DISTRITO": "QUINISTAQUILLAS",
+      "PRODUCTO": "GRANADILLA",
+      "valor_promedio": 2.3758,
+      "registros": 21,
+      "estabilidad": 0.1548,
+      "score": 0.3512
+    },
+    {
+      "DEPARTAMENTO": "CUSCO",
+      "DISTRITO": "ECHARATE",
+      "PRODUCTO": "GRANADILLA",
+      "valor_promedio": 3.1864,
+      "registros": 21,
+      "estabilidad": 0.8988,
+      "score": 0.3511
+    },
+    {
+      "DEPARTAMENTO": "LIMA",
+      "DISTRITO": "PARAMONGA",
+      "PRODUCTO": "GRANADILLA",
+      "valor_promedio": 5.9171,
+      "registros": 48,
+      "estabilidad": 3.432,
+      "score": 0.3502
+    },
+    {
+      "DEPARTAMENTO": "LIMA",
+      "DISTRITO": "SUPE",
+      "PRODUCTO": "GRANADILLA",
+      "valor_promedio": 6.0715,
+      "registros": 48,
+      "estabilidad": 3.5927,
+      "score": 0.3496
+    },
+    {
+      "DEPARTAMENTO": "LIMA",
+      "DISTRITO": "NUEVO IMPERIAL",
+      "PRODUCTO": "GRANADILLA",
+      "valor_promedio": 5.9453,
+      "registros": 48,
+      "estabilidad": 3.597,
+      "score": 0.3464
+    },
+    {
+      "DEPARTAMENTO": "LIMA",
+      "DISTRITO": "SAN LORENZO DE QUINTI",
+      "PRODUCTO": "GRANADILLA",
+      "valor_promedio": 5.6049,
+      "registros": 40,
+      "estabilidad": 3.3721,
+      "score": 0.3441
+    },
+    {
+      "DEPARTAMENTO": "LIMA",
+      "DISTRITO": "BARRANCA",
+      "PRODUCTO": "GRANADILLA",
+      "valor_promedio": 5.7793,
+      "registros": 48,
+      "estabilidad": 3.5508,
+      "score": 0.3436
+    },
+    {
+      "DEPARTAMENTO": "LIMA",
+      "DISTRITO": "PATIVILCA",
+      "PRODUCTO": "GRANADILLA",
+      "valor_promedio": 5.72,
+      "registros": 48,
+      "estabilidad": 3.5013,
+      "score": 0.3434
+    },
+    {
+      "DEPARTAMENTO": "ICA",
+      "DISTRITO": "PISCO",
+      "PRODUCTO": "GRANADILLA",
+      "valor_promedio": 2.8162,
+      "registros": 22,
+      "estabilidad": 0.8635,
+      "score": 0.3429
+    }
+  ],
+  "ALFALFA": [
+    {
+      "DEPARTAMENTO": "ICA",
+      "DISTRITO": "EL INGENIO",
+      "PRODUCTO": "ALFALFA",
+      "valor_promedio": 2.559,
+      "registros": 21,
+      "estabilidad": 0.4051,
+      "score": 0.349
+    },
+    {
+      "DEPARTAMENTO": "HUANUCO",
+      "DISTRITO": "CHOLON",
+      "PRODUCTO": "ALFALFA",
+      "valor_promedio": 1.9707,
+      "registros": 21,
+      "estabilidad": 0.1436,
+      "score": 0.3415
+    },
+    {
+      "DEPARTAMENTO": "HUANUCO",
+      "DISTRITO": "SAN BUENAVENTURA",
+      "PRODUCTO": "ALFALFA",
+      "valor_promedio": 1.9695,
+      "registros": 21,
+      "estabilidad": 0.175,
+      "score": 0.3406
+    },
+    {
+      "DEPARTAMENTO": "PUNO",
+      "DISTRITO": "PALCA",
+      "PRODUCTO": "ALFALFA",
+      "valor_promedio": 2.1986,
+      "registros": 21,
+      "estabilidad": 0.6757,
+      "score": 0.3328
+    },
+    {
+      "DEPARTAMENTO": "HUANUCO",
+      "DISTRITO": "JIRCAN",
+      "PRODUCTO": "ALFALFA",
+      "valor_promedio": 1.9292,
+      "registros": 22,
+      "estabilidad": 0.4426,
+      "score": 0.3324
+    },
+    {
+      "DEPARTAMENTO": "LAMBAYEQUE",
+      "DISTRITO": "PUCALA",
+      "PRODUCTO": "ALFALFA",
+      "valor_promedio": 4.0292,
+      "registros": 21,
+      "estabilidad": 2.4101,
+      "score": 0.3312
+    },
+    {
+      "DEPARTAMENTO": "APURIMAC",
+      "DISTRITO": "OCOBAMBA",
+      "PRODUCTO": "ALFALFA",
+      "valor_promedio": 2.6348,
+      "registros": 22,
+      "estabilidad": 1.4074,
+      "score": 0.3238
+    },
+    {
+      "DEPARTAMENTO": "ANCASH",
+      "DISTRITO": "CHETO",
+      "PRODUCTO": "ALFALFA",
+      "valor_promedio": 2.1819,
+      "registros": 21,
+      "estabilidad": 1.0556,
+      "score": 0.3222
+    },
+    {
+      "DEPARTAMENTO": "HUANCAVELICA",
+      "DISTRITO": "PILCHACA",
+      "PRODUCTO": "ALFALFA",
+      "valor_promedio": 2.1196,
+      "registros": 21,
+      "estabilidad": 1.0093,
+      "score": 0.3219
+    },
+    {
+      "DEPARTAMENTO": "LIMA",
+      "DISTRITO": "SUMBILCA",
+      "PRODUCTO": "ALFALFA",
+      "valor_promedio": 7.1594,
+      "registros": 21,
+      "estabilidad": 5.6311,
+      "score": 0.3216
+    }
+  ],
+  "TUNA": [
+    {
+      "DEPARTAMENTO": "AREQUIPA",
+      "DISTRITO": "MADRIGAL",
+      "PRODUCTO": "TUNA",
+      "valor_promedio": 3.0026,
+      "registros": 21,
+      "estabilidad": 0.9731,
+      "score": 0.3446
+    },
+    {
+      "DEPARTAMENTO": "AREQUIPA",
+      "DISTRITO": "ACHOMA",
+      "PRODUCTO": "TUNA",
+      "valor_promedio": 2.9603,
+      "registros": 21,
+      "estabilidad": 1.0403,
+      "score": 0.3417
+    },
+    {
+      "DEPARTAMENTO": "LIMA",
+      "DISTRITO": "CATAHUASI",
+      "PRODUCTO": "TUNA",
+      "valor_promedio": 3.6995,
+      "registros": 21,
+      "estabilidad": 1.7407,
+      "score": 0.3411
+    },
+    {
+      "DEPARTAMENTO": "AREQUIPA",
+      "DISTRITO": "ICHUPAMPA",
+      "PRODUCTO": "TUNA",
+      "valor_promedio": 2.9057,
+      "registros": 21,
+      "estabilidad": 1.0147,
+      "score": 0.3411
+    },
+    {
+      "DEPARTAMENTO": "AREQUIPA",
+      "DISTRITO": "CHIVAY",
+      "PRODUCTO": "TUNA",
+      "valor_promedio": 2.9365,
+      "registros": 21,
+      "estabilidad": 1.0588,
+      "score": 0.3407
+    },
+    {
+      "DEPARTAMENTO": "AREQUIPA",
+      "DISTRITO": "YANQUE",
+      "PRODUCTO": "TUNA",
+      "valor_promedio": 2.9094,
+      "registros": 21,
+      "estabilidad": 1.0456,
+      "score": 0.3403
+    },
+    {
+      "DEPARTAMENTO": "AREQUIPA",
+      "DISTRITO": "COPORAQUE",
+      "PRODUCTO": "TUNA",
+      "valor_promedio": 2.8332,
+      "registros": 21,
+      "estabilidad": 1.0067,
+      "score": 0.3395
+    },
+    {
+      "DEPARTAMENTO": "ICA",
+      "DISTRITO": "INDEPENDENCIA",
+      "PRODUCTO": "TUNA",
+      "valor_promedio": 2.0404,
+      "registros": 21,
+      "estabilidad": 0.407,
+      "score": 0.3361
+    },
+    {
+      "DEPARTAMENTO": "AYACUCHO",
+      "DISTRITO": "LARAMATE",
+      "PRODUCTO": "TUNA",
+      "valor_promedio": 1.8236,
+      "registros": 21,
+      "estabilidad": 0.4139,
+      "score": 0.3306
+    },
+    {
+      "DEPARTAMENTO": "AYACUCHO",
+      "DISTRITO": "SAN PEDRO DE PALCO",
+      "PRODUCTO": "TUNA",
+      "valor_promedio": 1.7949,
+      "registros": 21,
+      "estabilidad": 0.3914,
+      "score": 0.3305
+    }
+  ],
+  "BRAQUEARIA": [
+    {
+      "DEPARTAMENTO": "PASCO",
+      "DISTRITO": "VILLA RICA",
+      "PRODUCTO": "BRAQUEARIA",
+      "valor_promedio": 2.712,
+      "registros": 21,
+      "estabilidad": 0.7528,
+      "score": 0.3434
+    },
+    {
+      "DEPARTAMENTO": "MADRE DE DIOS",
+      "DISTRITO": "INAMBARI",
+      "PRODUCTO": "BRAQUEARIA",
+      "valor_promedio": 2.5175,
+      "registros": 48,
+      "estabilidad": 1.9336,
+      "score": 0.3068
+    },
+    {
+      "DEPARTAMENTO": "MADRE DE DIOS",
+      "DISTRITO": "TAHUAMANU",
+      "PRODUCTO": "BRAQUEARIA",
+      "valor_promedio": 2.5237,
+      "registros": 48,
+      "estabilidad": 1.9514,
+      "score": 0.3065
+    },
+    {
+      "DEPARTAMENTO": "MADRE DE DIOS",
+      "DISTRITO": "LABERINTO",
+      "PRODUCTO": "BRAQUEARIA",
+      "valor_promedio": 2.3942,
+      "registros": 48,
+      "estabilidad": 1.831,
+      "score": 0.3065
+    },
+    {
+      "DEPARTAMENTO": "MADRE DE DIOS",
+      "DISTRITO": "HUEPETUHE",
+      "PRODUCTO": "BRAQUEARIA",
+      "valor_promedio": 2.4623,
+      "registros": 48,
+      "estabilidad": 1.9023,
+      "score": 0.3063
+    },
+    {
+      "DEPARTAMENTO": "MADRE DE DIOS",
+      "DISTRITO": "TAMBOPATA",
+      "PRODUCTO": "BRAQUEARIA",
+      "valor_promedio": 2.4415,
+      "registros": 48,
+      "estabilidad": 1.8828,
+      "score": 0.3063
+    },
+    {
+      "DEPARTAMENTO": "MADRE DE DIOS",
+      "DISTRITO": "MADRE DE DIOS",
+      "PRODUCTO": "BRAQUEARIA",
+      "valor_promedio": 2.4499,
+      "registros": 48,
+      "estabilidad": 1.8921,
+      "score": 0.3062
+    },
+    {
+      "DEPARTAMENTO": "MADRE DE DIOS",
+      "DISTRITO": "IBERIA",
+      "PRODUCTO": "BRAQUEARIA",
+      "valor_promedio": 2.3775,
+      "registros": 48,
+      "estabilidad": 1.8267,
+      "score": 0.3062
+    },
+    {
+      "DEPARTAMENTO": "MADRE DE DIOS",
+      "DISTRITO": "FITZCARRALD",
+      "PRODUCTO": "BRAQUEARIA",
+      "valor_promedio": 2.2892,
+      "registros": 48,
+      "estabilidad": 1.7532,
+      "score": 0.306
+    },
+    {
+      "DEPARTAMENTO": "MADRE DE DIOS",
+      "DISTRITO": "IÑAPARI",
+      "PRODUCTO": "BRAQUEARIA",
+      "valor_promedio": 2.5122,
+      "registros": 48,
+      "estabilidad": 1.9579,
+      "score": 0.306
+    }
+  ],
+  "PASTO ELEFANTE": [
+    {
+      "DEPARTAMENTO": "AYACUCHO",
+      "DISTRITO": "AYNA",
+      "PRODUCTO": "PASTO ELEFANTE",
+      "valor_promedio": 2.4443,
+      "registros": 21,
+      "estabilidad": 0.6081,
+      "score": 0.3407
+    },
+    {
+      "DEPARTAMENTO": "AYACUCHO",
+      "DISTRITO": "CANAYRE",
+      "PRODUCTO": "PASTO ELEFANTE",
+      "valor_promedio": 2.582,
+      "registros": 21,
+      "estabilidad": 0.7915,
+      "score": 0.3391
+    },
+    {
+      "DEPARTAMENTO": "LA LIBERTAD",
+      "DISTRITO": "CHAO",
+      "PRODUCTO": "PASTO ELEFANTE",
+      "valor_promedio": 2.2597,
+      "registros": 21,
+      "estabilidad": 0.5723,
+      "score": 0.3371
+    },
+    {
+      "DEPARTAMENTO": "AYACUCHO",
+      "DISTRITO": "LLOCHEGUA",
+      "PRODUCTO": "PASTO ELEFANTE",
+      "valor_promedio": 2.2969,
+      "registros": 21,
+      "estabilidad": 0.6251,
+      "score": 0.3366
+    },
+    {
+      "DEPARTAMENTO": "AYACUCHO",
+      "DISTRITO": "SANTA ROSA",
+      "PRODUCTO": "PASTO ELEFANTE",
+      "valor_promedio": 2.8096,
+      "registros": 21,
+      "estabilidad": 1.1,
+      "score": 0.3364
+    },
+    {
+      "DEPARTAMENTO": "AYACUCHO",
+      "DISTRITO": "ANCO",
+      "PRODUCTO": "PASTO ELEFANTE",
+      "valor_promedio": 2.2932,
+      "registros": 21,
+      "estabilidad": 0.6535,
+      "score": 0.3357
+    },
+    {
+      "DEPARTAMENTO": "SAN MARTIN",
+      "DISTRITO": "NUEVO PROGRESO",
+      "PRODUCTO": "PASTO ELEFANTE",
+      "valor_promedio": 1.7828,
+      "registros": 21,
+      "estabilidad": 0.1978,
+      "score": 0.3354
+    },
+    {
+      "DEPARTAMENTO": "AYACUCHO",
+      "DISTRITO": "SIVIA",
+      "PRODUCTO": "PASTO ELEFANTE",
+      "valor_promedio": 2.3871,
+      "registros": 21,
+      "estabilidad": 0.7728,
+      "score": 0.3348
+    },
+    {
+      "DEPARTAMENTO": "PIURA",
+      "DISTRITO": "CHALACO",
+      "PRODUCTO": "PASTO ELEFANTE",
+      "valor_promedio": 1.8858,
+      "registros": 21,
+      "estabilidad": 0.3283,
+      "score": 0.3344
+    },
+    {
+      "DEPARTAMENTO": "LA LIBERTAD",
+      "DISTRITO": "VIRU",
+      "PRODUCTO": "PASTO ELEFANTE",
+      "valor_promedio": 2.1464,
+      "registros": 22,
+      "estabilidad": 0.7549,
+      "score": 0.3294
+    }
+  ],
+  "PLATANO": [
+    {
+      "DEPARTAMENTO": "LIMA",
+      "DISTRITO": "SAYAN",
+      "PRODUCTO": "PLATANO",
+      "valor_promedio": 4.2897,
+      "registros": 48,
+      "estabilidad": 2.455,
+      "score": 0.3364
+    },
+    {
+      "DEPARTAMENTO": "LIMA",
+      "DISTRITO": "HUAURA",
+      "PRODUCTO": "PLATANO",
+      "valor_promedio": 4.3234,
+      "registros": 48,
+      "estabilidad": 2.5136,
+      "score": 0.3356
+    },
+    {
+      "DEPARTAMENTO": "LIMA",
+      "DISTRITO": "CARABAYLLO",
+      "PRODUCTO": "PLATANO",
+      "valor_promedio": 4.068,
+      "registros": 21,
+      "estabilidad": 2.2826,
+      "score": 0.3356
+    },
+    {
+      "DEPARTAMENTO": "LIMA",
+      "DISTRITO": "PARAMONGA",
+      "PRODUCTO": "PLATANO",
+      "valor_promedio": 4.251,
+      "registros": 48,
+      "estabilidad": 2.4613,
+      "score": 0.3353
+    },
+    {
+      "DEPARTAMENTO": "LIMA",
+      "DISTRITO": "IMPERIAL",
+      "PRODUCTO": "PLATANO",
+      "valor_promedio": 4.2076,
+      "registros": 21,
+      "estabilidad": 2.4315,
+      "score": 0.335
+    },
+    {
+      "DEPARTAMENTO": "LIMA",
+      "DISTRITO": "MALA",
+      "PRODUCTO": "PLATANO",
+      "valor_promedio": 3.9796,
+      "registros": 45,
+      "estabilidad": 2.2264,
+      "score": 0.3349
+    },
+    {
+      "DEPARTAMENTO": "LIMA",
+      "DISTRITO": "SANTIAGO DE SURCO",
+      "PRODUCTO": "PLATANO",
+      "valor_promedio": 4.2686,
+      "registros": 48,
+      "estabilidad": 2.5027,
+      "score": 0.3346
+    },
+    {
+      "DEPARTAMENTO": "LIMA",
+      "DISTRITO": "SAN ANTONIO",
+      "PRODUCTO": "PLATANO",
+      "valor_promedio": 3.9872,
+      "registros": 45,
+      "estabilidad": 2.2484,
+      "score": 0.3345
+    },
+    {
+      "DEPARTAMENTO": "LIMA",
+      "DISTRITO": "SUPE",
+      "PRODUCTO": "PLATANO",
+      "valor_promedio": 4.2077,
+      "registros": 48,
+      "estabilidad": 2.4585,
+      "score": 0.3343
+    },
+    {
+      "DEPARTAMENTO": "LIMA",
+      "DISTRITO": "LA MOLINA",
+      "PRODUCTO": "PLATANO",
+      "valor_promedio": 4.2814,
+      "registros": 48,
+      "estabilidad": 2.5383,
+      "score": 0.3339
+    }
+  ],
+  "CHIRIMOYA": [
+    {
+      "DEPARTAMENTO": "LIMA",
+      "DISTRITO": "ALLAUCA",
+      "PRODUCTO": "CHIRIMOYA",
+      "valor_promedio": 2.6871,
+      "registros": 24,
+      "estabilidad": 1.2146,
+      "score": 0.3303
+    },
+    {
+      "DEPARTAMENTO": "APURIMAC",
+      "DISTRITO": "JUAN ESPINOZA MEDRANO",
+      "PRODUCTO": "CHIRIMOYA",
+      "valor_promedio": 1.5257,
+      "registros": 21,
+      "estabilidad": 0.2142,
+      "score": 0.3286
+    },
+    {
+      "DEPARTAMENTO": "AYACUCHO",
+      "DISTRITO": "UCHURACCAY",
+      "PRODUCTO": "CHIRIMOYA",
+      "valor_promedio": 1.5323,
+      "registros": 21,
+      "estabilidad": 0.2581,
+      "score": 0.3276
+    },
+    {
+      "DEPARTAMENTO": "APURIMAC",
+      "DISTRITO": "EL ORO",
+      "PRODUCTO": "CHIRIMOYA",
+      "valor_promedio": 2.2308,
+      "registros": 21,
+      "estabilidad": 0.9063,
+      "score": 0.3274
+    },
+    {
+      "DEPARTAMENTO": "LIMA",
+      "DISTRITO": "YAUYOS",
+      "PRODUCTO": "CHIRIMOYA",
+      "valor_promedio": 2.5566,
+      "registros": 24,
+      "estabilidad": 1.2438,
+      "score": 0.3263
+    },
+    {
+      "DEPARTAMENTO": "AYACUCHO",
+      "DISTRITO": "SOCOS",
+      "PRODUCTO": "CHIRIMOYA",
+      "valor_promedio": 1.3937,
+      "registros": 21,
+      "estabilidad": 0.1824,
+      "score": 0.3262
+    },
+    {
+      "DEPARTAMENTO": "AYACUCHO",
+      "DISTRITO": "QUINUA",
+      "PRODUCTO": "CHIRIMOYA",
+      "valor_promedio": 1.4898,
+      "registros": 21,
+      "estabilidad": 0.3005,
+      "score": 0.3254
+    },
+    {
+      "DEPARTAMENTO": "ICA",
+      "DISTRITO": "PARCONA",
+      "PRODUCTO": "CHIRIMOYA",
+      "valor_promedio": 2.1795,
+      "registros": 21,
+      "estabilidad": 0.9369,
+      "score": 0.3253
+    },
+    {
+      "DEPARTAMENTO": "HUANUCO",
+      "DISTRITO": "COLPAS",
+      "PRODUCTO": "CHIRIMOYA",
+      "valor_promedio": 1.4512,
+      "registros": 21,
+      "estabilidad": 0.3252,
+      "score": 0.3238
+    },
+    {
+      "DEPARTAMENTO": "CAJAMARCA",
+      "DISTRITO": "HUAMBOS",
+      "PRODUCTO": "CHIRIMOYA",
+      "valor_promedio": 1.7801,
+      "registros": 21,
+      "estabilidad": 0.6358,
+      "score": 0.3236
+    }
+  ],
+  "CAFE": [
+    {
+      "DEPARTAMENTO": "HUANUCO",
+      "DISTRITO": "HONORIA",
+      "PRODUCTO": "CAFE",
+      "valor_promedio": 0.9643,
+      "registros": 21,
+      "estabilidad": 0.0256,
+      "score": 0.3199
+    },
+    {
+      "DEPARTAMENTO": "HUANUCO",
+      "DISTRITO": "CODO DEL POZUZO",
+      "PRODUCTO": "CAFE",
+      "valor_promedio": 0.9736,
+      "registros": 21,
+      "estabilidad": 0.0396,
+      "score": 0.3197
+    },
+    {
+      "DEPARTAMENTO": "PASCO",
+      "DISTRITO": "CONSTITUCION",
+      "PRODUCTO": "CAFE",
+      "valor_promedio": 0.9921,
+      "registros": 21,
+      "estabilidad": 0.1308,
+      "score": 0.3177
+    },
+    {
+      "DEPARTAMENTO": "HUANCAVELICA",
+      "DISTRITO": "COLCABAMBA",
+      "PRODUCTO": "CAFE",
+      "valor_promedio": 0.8437,
+      "registros": 21,
+      "estabilidad": 0.2289,
+      "score": 0.3115
+    },
+    {
+      "DEPARTAMENTO": "UCAYALI",
+      "DISTRITO": "ALEXANDER VON HUMBOLDT",
+      "PRODUCTO": "CAFE",
+      "valor_promedio": 0.5903,
+      "registros": 21,
+      "estabilidad": 0.0309,
+      "score": 0.3105
+    },
+    {
+      "DEPARTAMENTO": "CAJAMARCA",
+      "DISTRITO": "CHANCAYBAÑOS",
+      "PRODUCTO": "CAFE",
+      "valor_promedio": 0.725,
+      "registros": 21,
+      "estabilidad": 0.2159,
+      "score": 0.3089
+    },
+    {
+      "DEPARTAMENTO": "CAJAMARCA",
+      "DISTRITO": "LA ESPERANZA",
+      "PRODUCTO": "CAFE",
+      "valor_promedio": 0.7139,
+      "registros": 21,
+      "estabilidad": 0.2123,
+      "score": 0.3087
+    },
+    {
+      "DEPARTAMENTO": "CAJAMARCA",
+      "DISTRITO": "SAN ANDRES DE CUTERVO",
+      "PRODUCTO": "CAFE",
+      "valor_promedio": 0.7223,
+      "registros": 21,
+      "estabilidad": 0.2221,
+      "score": 0.3086
+    },
+    {
+      "DEPARTAMENTO": "CAJAMARCA",
+      "DISTRITO": "CHOROS",
+      "PRODUCTO": "CAFE",
+      "valor_promedio": 0.7421,
+      "registros": 21,
+      "estabilidad": 0.2522,
+      "score": 0.3083
+    },
+    {
+      "DEPARTAMENTO": "CAJAMARCA",
+      "DISTRITO": "COCHABAMBA",
+      "PRODUCTO": "CAFE",
+      "valor_promedio": 0.6452,
+      "registros": 21,
+      "estabilidad": 0.1947,
+      "score": 0.3075
+    }
+  ]
+}
