@@ -42,23 +42,29 @@ export function createChatHandler(options: Options = {}) {
     if (timestamp-windowStart >= 60000) { windowStart=timestamp; calls=0; }
     if (calls >= 20) return errorResponse(429,"RATE_LIMIT","Hay demasiadas consultas. Inténtalo de nuevo en un minuto.");
     const providerConfig = options.getModel ? null : getChatProviderConfig();
-    if (!options.getModel && !providerConfig) return errorResponse(503,"AI_NOT_CONFIGURED","Configura el proveedor y su clave/modelo en frontend/.env.local: AI_PROVIDER=deepseek con DEEPSEEK_API_KEY y DEEPSEEK_MODEL, o AI_PROVIDER=openai con OPENAI_API_KEY y OPENAI_MODEL. Reinicia Next.js.");
+    if (!options.getModel && !providerConfig) return errorResponse(503,"AI_NOT_CONFIGURED","Configura el proveedor y su clave/modelo en frontend/.env.local: AI_PROVIDER=groq con GROQ_API_KEY y GROQ_MODEL. Reinicia Next.js.");
     calls++;
     let context: string;
     try { context = await (options.context ?? getChatContext)(messages.filter(m=>m.role==="user").map(m=>m.content).join("\n")); }
-    catch { return errorResponse(503,"CONTEXT_UNAVAILABLE","No se pudieron cargar los datos agrícolas. Revisa los archivos JSON del proyecto."); }
+    catch (e) { 
+      console.error("[chat-context] Error al obtener contexto:", e);
+      return errorResponse(503,"CONTEXT_UNAVAILABLE","No se pudieron cargar los datos agrícolas. Revisa los archivos JSON del proyecto."); 
+    }
     if (context.length > 120000) return errorResponse(422,"CONTEXT_TOO_BROAD","Especifica un cultivo y un departamento para acotar los datos de la consulta.");
     try {
       const model = options.getModel ? options.getModel() : createChatModel(providerConfig!);
       const result = streamText({
         model, system:buildChatSystemPrompt(context), messages,
         maxOutputTokens:900, maxRetries:1, abortSignal:request.signal,
-        timeout:60000, onError:()=>undefined,
+        timeout:60000, onError:(error)=>{console.error("[streamText] Error:", error); return undefined;},
       });
       return result.toUIMessageStreamResponse({
         headers:{"Cache-Control":"no-store","X-Accel-Buffering":"no"},
         onError:()=>"No se pudo completar la respuesta de AgroBot. Comprueba la configuración del proveedor e inténtalo de nuevo.",
       });
-    } catch { return errorResponse(502,"PROVIDER_ERROR","El proveedor de IA no pudo iniciar la respuesta. Inténtalo de nuevo."); }
+    } catch (e) { 
+      console.error("[streamText] Error fatal:", e);
+      return errorResponse(502,"PROVIDER_ERROR","El proveedor de IA no pudo iniciar la respuesta. Inténtalo de nuevo."); 
+    }
   };
 }

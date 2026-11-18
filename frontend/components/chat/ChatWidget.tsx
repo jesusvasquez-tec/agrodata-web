@@ -10,7 +10,7 @@ import { ScrollArea } from "../ui/scroll-area";
 import { ChatMessage } from "./ChatMessage";
 import { ChatInput } from "./ChatInput";
 
-const suggestions=["¿Cuál es el mejor distrito para PAPA?","¿Qué tan preciso es el modelo?","¿Cuál es la proyección para 2027?"];
+const suggestions=["¿Cuál es el mejor distrito para PAPA?","¿Qué cultivos analizan?","¿Qué departamentos cubren?"];
 const transport=new DefaultChatTransport({
   api:"/api/chat",
   fetch:async(input,init)=>{
