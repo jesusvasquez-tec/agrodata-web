@@ -3,12 +3,12 @@ import type { NextConfig } from "next";
 const config: NextConfig = {
   outputFileTracingIncludes: {
     "/api/chat": [
-      "./historial_anual.json",
-      "./historial_departamento.json",
-      "./predicciones_anual.json",
-      "./predicciones_departamento.json",
-      "./scoring_distrito.json",
-      "./metadata.json",
+      "public/historial_anual.json",
+      "public/historial_departamento.json",
+      "public/predicciones_anual.json",
+      "public/predicciones_departamento.json",
+      "public/scoring_distrito.json",
+      "public/metadata.json",
     ],
   },
   async rewrites() {
