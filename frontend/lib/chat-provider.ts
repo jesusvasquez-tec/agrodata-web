@@ -6,8 +6,10 @@ export function getChatProviderConfig() {
   // Groq usa la API compatible con OpenAI
   if (provider === "groq") {
     const apiKey = process.env.GROQ_API_KEY?.trim();
-    const model = process.env.GROQ_MODEL?.trim() || "llama-3.3-70b-versatile";
+    const model = process.env.GROQ_MODEL?.trim() || "openai/gpt-oss-120b";
+    
     if (!apiKey || model.startsWith("sk-")) return null;
+    
     return {
       provider: "groq",
       apiKey,
@@ -19,7 +21,8 @@ export function getChatProviderConfig() {
   if (provider !== "openai" && provider !== "deepseek") return null;
   
   const apiKey = (provider === "deepseek" ? process.env.DEEPSEEK_API_KEY : process.env.OPENAI_API_KEY)?.trim();
-  const model = (provider === "deepseek" ? process.env.DEEPSEEK_MODEL || "deepseek-flash" : process.env.OPENAI_MODEL)?.trim();
+  const fallbackModel = provider === "deepseek" ? "deepseek-flash" : "gpt-4o-mini";
+  const model = (provider === "deepseek" ? process.env.DEEPSEEK_MODEL : process.env.OPENAI_MODEL)?.trim() || fallbackModel;
   
   if (!apiKey || model.startsWith("sk-")) return null;
   
