@@ -1,0 +1,282 @@
+[
+  {
+    "AÑO": 2026,
+    "PRODUCTO": "ALFALFA",
+    "rendimiento_promedio": 3.5475,
+    "produccion_total": 40707.2154,
+    "registros": 11475
+  },
+  {
+    "AÑO": 2026,
+    "PRODUCTO": "BRAQUEARIA",
+    "rendimiento_promedio": 3.6629,
+    "produccion_total": 6824.0663,
+    "registros": 1863
+  },
+  {
+    "AÑO": 2026,
+    "PRODUCTO": "CAFE",
+    "rendimiento_promedio": 0.6423,
+    "produccion_total": 2167.9214,
+    "registros": 3375
+  },
+  {
+    "AÑO": 2026,
+    "PRODUCTO": "CHIRIMOYA",
+    "rendimiento_promedio": 1.7495,
+    "produccion_total": 4660.7415,
+    "registros": 2664
+  },
+  {
+    "AÑO": 2026,
+    "PRODUCTO": "FRIJOL",
+    "rendimiento_promedio": 2.5081,
+    "produccion_total": 39238.2116,
+    "registros": 9738
+  },
+  {
+    "AÑO": 2026,
+    "PRODUCTO": "GRANADILLA",
+    "rendimiento_promedio": 2.2559,
+    "produccion_total": 5258.5409,
+    "registros": 2331
+  },
+  {
+    "AÑO": 2026,
+    "PRODUCTO": "LIMON",
+    "rendimiento_promedio": 1.7361,
+    "produccion_total": 8093.8454,
+    "registros": 4662
+  },
+  {
+    "AÑO": 2026,
+    "PRODUCTO": "MAIZ AMARILLO DURO",
+    "rendimiento_promedio": 5.5345,
+    "produccion_total": 568177.0539,
+    "registros": 7677
+  },
+  {
+    "AÑO": 2026,
+    "PRODUCTO": "MANGO",
+    "rendimiento_promedio": 2.696,
+    "produccion_total": 9559.9698,
+    "registros": 3546
+  },
+  {
+    "AÑO": 2026,
+    "PRODUCTO": "MANZANA",
+    "rendimiento_promedio": 3.1857,
+    "produccion_total": 12386.1746,
+    "registros": 3888
+  },
+  {
+    "AÑO": 2026,
+    "PRODUCTO": "MELOCOTON",
+    "rendimiento_promedio": 2.611,
+    "produccion_total": 10363.1639,
+    "registros": 3969
+  },
+  {
+    "AÑO": 2026,
+    "PRODUCTO": "NARANJA",
+    "rendimiento_promedio": 2.1797,
+    "produccion_total": 12260.6305,
+    "registros": 5625
+  },
+  {
+    "AÑO": 2026,
+    "PRODUCTO": "PACAE O GUABO",
+    "rendimiento_promedio": 1.9445,
+    "produccion_total": 6772.5293,
+    "registros": 3483
+  },
+  {
+    "AÑO": 2026,
+    "PRODUCTO": "PALTA",
+    "rendimiento_promedio": 2.4032,
+    "produccion_total": 19703.6269,
+    "registros": 8199
+  },
+  {
+    "AÑO": 2026,
+    "PRODUCTO": "PAPA",
+    "rendimiento_promedio": 15.6551,
+    "produccion_total": 549781.5054,
+    "registros": 14832
+  },
+  {
+    "AÑO": 2026,
+    "PRODUCTO": "PASTO ELEFANTE",
+    "rendimiento_promedio": 2.9215,
+    "produccion_total": 6757.507,
+    "registros": 2313
+  },
+  {
+    "AÑO": 2026,
+    "PRODUCTO": "PLATANO",
+    "rendimiento_promedio": 1.7079,
+    "produccion_total": 9391.7447,
+    "registros": 5499
+  },
+  {
+    "AÑO": 2026,
+    "PRODUCTO": "RYE GRASS",
+    "rendimiento_promedio": 4.5781,
+    "produccion_total": 14791.8968,
+    "registros": 3231
+  },
+  {
+    "AÑO": 2026,
+    "PRODUCTO": "TUNA",
+    "rendimiento_promedio": 2.0763,
+    "produccion_total": 8726.5638,
+    "registros": 4203
+  },
+  {
+    "AÑO": 2026,
+    "PRODUCTO": "YUCA",
+    "rendimiento_promedio": 15.8712,
+    "produccion_total": 1092154.3276,
+    "registros": 5913
+  },
+  {
+    "AÑO": 2027,
+    "PRODUCTO": "ALFALFA",
+    "rendimiento_promedio": 2.8945,
+    "produccion_total": 44285.3212,
+    "registros": 15300
+  },
+  {
+    "AÑO": 2027,
+    "PRODUCTO": "BRAQUEARIA",
+    "rendimiento_promedio": 3.4217,
+    "produccion_total": 8499.4102,
+    "registros": 2484
+  },
+  {
+    "AÑO": 2027,
+    "PRODUCTO": "CAFE",
+    "rendimiento_promedio": 0.7743,
+    "produccion_total": 3484.4256,
+    "registros": 4500
+  },
+  {
+    "AÑO": 2027,
+    "PRODUCTO": "CHIRIMOYA",
+    "rendimiento_promedio": 1.7762,
+    "produccion_total": 6308.887,
+    "registros": 3552
+  },
+  {
+    "AÑO": 2027,
+    "PRODUCTO": "FRIJOL",
+    "rendimiento_promedio": 2.091,
+    "produccion_total": 43159.0522,
+    "registros": 12984
+  },
+  {
+    "AÑO": 2027,
+    "PRODUCTO": "GRANADILLA",
+    "rendimiento_promedio": 2.3707,
+    "produccion_total": 7368.2907,
+    "registros": 3108
+  },
+  {
+    "AÑO": 2027,
+    "PRODUCTO": "LIMON",
+    "rendimiento_promedio": 1.6651,
+    "produccion_total": 10350.5213,
+    "registros": 6216
+  },
+  {
+    "AÑO": 2027,
+    "PRODUCTO": "MAIZ AMARILLO DURO",
+    "rendimiento_promedio": 3.6033,
+    "produccion_total": 442906.7838,
+    "registros": 10236
+  },
+  {
+    "AÑO": 2027,
+    "PRODUCTO": "MANGO",
+    "rendimiento_promedio": 2.2495,
+    "produccion_total": 10635.6416,
+    "registros": 4728
+  },
+  {
+    "AÑO": 2027,
+    "PRODUCTO": "MANZANA",
+    "rendimiento_promedio": 3.204,
+    "produccion_total": 16609.5206,
+    "registros": 5184
+  },
+  {
+    "AÑO": 2027,
+    "PRODUCTO": "MELOCOTON",
+    "rendimiento_promedio": 2.7581,
+    "produccion_total": 14595.7019,
+    "registros": 5292
+  },
+  {
+    "AÑO": 2027,
+    "PRODUCTO": "NARANJA",
+    "rendimiento_promedio": 1.6992,
+    "produccion_total": 12743.7772,
+    "registros": 7500
+  },
+  {
+    "AÑO": 2027,
+    "PRODUCTO": "PACAE O GUABO",
+    "rendimiento_promedio": 1.9324,
+    "produccion_total": 8973.8962,
+    "registros": 4644
+  },
+  {
+    "AÑO": 2027,
+    "PRODUCTO": "PALTA",
+    "rendimiento_promedio": 1.8825,
+    "produccion_total": 20579.6952,
+    "registros": 10932
+  },
+  {
+    "AÑO": 2027,
+    "PRODUCTO": "PAPA",
+    "rendimiento_promedio": 13.0573,
+    "produccion_total": 564795.6499,
+    "registros": 19776
+  },
+  {
+    "AÑO": 2027,
+    "PRODUCTO": "PASTO ELEFANTE",
+    "rendimiento_promedio": 1.9632,
+    "produccion_total": 6054.5505,
+    "registros": 3084
+  },
+  {
+    "AÑO": 2027,
+    "PRODUCTO": "PLATANO",
+    "rendimiento_promedio": 1.5924,
+    "produccion_total": 11675.685,
+    "registros": 7332
+  },
+  {
+    "AÑO": 2027,
+    "PRODUCTO": "RYE GRASS",
+    "rendimiento_promedio": 3.3484,
+    "produccion_total": 14424.8141,
+    "registros": 4308
+  },
+  {
+    "AÑO": 2027,
+    "PRODUCTO": "TUNA",
+    "rendimiento_promedio": 2.2111,
+    "produccion_total": 12391.1151,
+    "registros": 5604
+  },
+  {
+    "AÑO": 2027,
+    "PRODUCTO": "YUCA",
+    "rendimiento_promedio": 11.8356,
+    "produccion_total": 1105350.2493,
+    "registros": 7884
+  }
+]

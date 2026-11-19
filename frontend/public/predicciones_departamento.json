@@ -1,0 +1,5874 @@
+[
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "ANCASH",
+    "PRODUCTO": "ALFALFA",
+    "rendimiento_promedio": 2.4912,
+    "produccion_total": 4192.7263,
+    "registros": 1683
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "ANCASH",
+    "PRODUCTO": "BRAQUEARIA",
+    "rendimiento_promedio": 6.0291,
+    "produccion_total": 2550.3063,
+    "registros": 423
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "ANCASH",
+    "PRODUCTO": "CAFE",
+    "rendimiento_promedio": 0.3776,
+    "produccion_total": 197.1172,
+    "registros": 522
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "ANCASH",
+    "PRODUCTO": "CHIRIMOYA",
+    "rendimiento_promedio": 1.1284,
+    "produccion_total": 213.2709,
+    "registros": 189
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "ANCASH",
+    "PRODUCTO": "FRIJOL",
+    "rendimiento_promedio": 1.4354,
+    "produccion_total": 2248.6106,
+    "registros": 1386
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "ANCASH",
+    "PRODUCTO": "GRANADILLA",
+    "rendimiento_promedio": 1.6189,
+    "produccion_total": 466.2384,
+    "registros": 288
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "ANCASH",
+    "PRODUCTO": "LIMON",
+    "rendimiento_promedio": 1.175,
+    "produccion_total": 327.8334,
+    "registros": 279
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "ANCASH",
+    "PRODUCTO": "MAIZ AMARILLO DURO",
+    "rendimiento_promedio": 6.0181,
+    "produccion_total": 139508.8412,
+    "registros": 963
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "ANCASH",
+    "PRODUCTO": "MANGO",
+    "rendimiento_promedio": 2.1588,
+    "produccion_total": 544.0272,
+    "registros": 252
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "ANCASH",
+    "PRODUCTO": "MANZANA",
+    "rendimiento_promedio": 1.8841,
+    "produccion_total": 576.5215,
+    "registros": 306
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "ANCASH",
+    "PRODUCTO": "MELOCOTON",
+    "rendimiento_promedio": 1.6649,
+    "produccion_total": 614.3391,
+    "registros": 369
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "ANCASH",
+    "PRODUCTO": "NARANJA",
+    "rendimiento_promedio": 1.837,
+    "produccion_total": 1041.5943,
+    "registros": 567
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "ANCASH",
+    "PRODUCTO": "PACAE O GUABO",
+    "rendimiento_promedio": 1.8424,
+    "produccion_total": 464.2924,
+    "registros": 252
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "ANCASH",
+    "PRODUCTO": "PALTA",
+    "rendimiento_promedio": 2.0369,
+    "produccion_total": 1613.2114,
+    "registros": 792
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "ANCASH",
+    "PRODUCTO": "PAPA",
+    "rendimiento_promedio": 13.9601,
+    "produccion_total": 45668.8341,
+    "registros": 2124
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "ANCASH",
+    "PRODUCTO": "PASTO ELEFANTE",
+    "rendimiento_promedio": 4.164,
+    "produccion_total": 1986.2474,
+    "registros": 477
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "ANCASH",
+    "PRODUCTO": "PLATANO",
+    "rendimiento_promedio": 1.3623,
+    "produccion_total": 919.5816,
+    "registros": 675
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "ANCASH",
+    "PRODUCTO": "RYE GRASS",
+    "rendimiento_promedio": 2.9875,
+    "produccion_total": 1156.1744,
+    "registros": 387
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "ANCASH",
+    "PRODUCTO": "TUNA",
+    "rendimiento_promedio": 1.4224,
+    "produccion_total": 102.4161,
+    "registros": 72
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "ANCASH",
+    "PRODUCTO": "YUCA",
+    "rendimiento_promedio": 18.0037,
+    "produccion_total": 156569.4585,
+    "registros": 810
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "APURIMAC",
+    "PRODUCTO": "ALFALFA",
+    "rendimiento_promedio": 3.0399,
+    "produccion_total": 2270.7726,
+    "registros": 747
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "APURIMAC",
+    "PRODUCTO": "CHIRIMOYA",
+    "rendimiento_promedio": 2.1497,
+    "produccion_total": 735.1983,
+    "registros": 342
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "APURIMAC",
+    "PRODUCTO": "FRIJOL",
+    "rendimiento_promedio": 3.3772,
+    "produccion_total": 1861.5829,
+    "registros": 513
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "APURIMAC",
+    "PRODUCTO": "GRANADILLA",
+    "rendimiento_promedio": 2.2679,
+    "produccion_total": 408.2228,
+    "registros": 180
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "APURIMAC",
+    "PRODUCTO": "LIMON",
+    "rendimiento_promedio": 2.0471,
+    "produccion_total": 534.286,
+    "registros": 261
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "APURIMAC",
+    "PRODUCTO": "MAIZ AMARILLO DURO",
+    "rendimiento_promedio": 3.7408,
+    "produccion_total": 1414.023,
+    "registros": 378
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "APURIMAC",
+    "PRODUCTO": "MANGO",
+    "rendimiento_promedio": 2.642,
+    "produccion_total": 356.6657,
+    "registros": 135
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "APURIMAC",
+    "PRODUCTO": "MANZANA",
+    "rendimiento_promedio": 2.3727,
+    "produccion_total": 1089.0574,
+    "registros": 459
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "APURIMAC",
+    "PRODUCTO": "MELOCOTON",
+    "rendimiento_promedio": 2.1112,
+    "produccion_total": 1311.0336,
+    "registros": 621
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "APURIMAC",
+    "PRODUCTO": "NARANJA",
+    "rendimiento_promedio": 1.9258,
+    "produccion_total": 606.6294,
+    "registros": 315
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "APURIMAC",
+    "PRODUCTO": "PACAE O GUABO",
+    "rendimiento_promedio": 2.0418,
+    "produccion_total": 367.5275,
+    "registros": 180
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "APURIMAC",
+    "PRODUCTO": "PALTA",
+    "rendimiento_promedio": 1.8903,
+    "produccion_total": 1003.7558,
+    "registros": 531
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "APURIMAC",
+    "PRODUCTO": "PAPA",
+    "rendimiento_promedio": 19.3062,
+    "produccion_total": 14913.2561,
+    "registros": 756
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "APURIMAC",
+    "PRODUCTO": "PASTO ELEFANTE",
+    "rendimiento_promedio": 3.5949,
+    "produccion_total": 32.3542,
+    "registros": 9
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "APURIMAC",
+    "PRODUCTO": "PLATANO",
+    "rendimiento_promedio": 2.0434,
+    "produccion_total": 312.6328,
+    "registros": 153
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "APURIMAC",
+    "PRODUCTO": "RYE GRASS",
+    "rendimiento_promedio": 3.0589,
+    "produccion_total": 1238.8633,
+    "registros": 405
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "APURIMAC",
+    "PRODUCTO": "TUNA",
+    "rendimiento_promedio": 1.9277,
+    "produccion_total": 1214.44,
+    "registros": 630
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "APURIMAC",
+    "PRODUCTO": "YUCA",
+    "rendimiento_promedio": 19.361,
+    "produccion_total": 3833.4729,
+    "registros": 198
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "AREQUIPA",
+    "PRODUCTO": "ALFALFA",
+    "rendimiento_promedio": 4.5627,
+    "produccion_total": 3983.2769,
+    "registros": 873
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "AREQUIPA",
+    "PRODUCTO": "CHIRIMOYA",
+    "rendimiento_promedio": 4.0442,
+    "produccion_total": 145.5905,
+    "registros": 36
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "AREQUIPA",
+    "PRODUCTO": "FRIJOL",
+    "rendimiento_promedio": 7.6767,
+    "produccion_total": 6113.773,
+    "registros": 306
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "AREQUIPA",
+    "PRODUCTO": "LIMON",
+    "rendimiento_promedio": 4.7951,
+    "produccion_total": 474.7186,
+    "registros": 99
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "AREQUIPA",
+    "PRODUCTO": "MAIZ AMARILLO DURO",
+    "rendimiento_promedio": 9.8779,
+    "produccion_total": 1155.7162,
+    "registros": 117
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "AREQUIPA",
+    "PRODUCTO": "MANGO",
+    "rendimiento_promedio": 5.1551,
+    "produccion_total": 185.5851,
+    "registros": 36
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "AREQUIPA",
+    "PRODUCTO": "MANZANA",
+    "rendimiento_promedio": 6.8421,
+    "produccion_total": 3017.3483,
+    "registros": 441
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "AREQUIPA",
+    "PRODUCTO": "MELOCOTON",
+    "rendimiento_promedio": 3.6246,
+    "produccion_total": 913.3954,
+    "registros": 252
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "AREQUIPA",
+    "PRODUCTO": "NARANJA",
+    "rendimiento_promedio": 4.5987,
+    "produccion_total": 248.3299,
+    "registros": 54
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "AREQUIPA",
+    "PRODUCTO": "PACAE O GUABO",
+    "rendimiento_promedio": 4.0797,
+    "produccion_total": 403.8933,
+    "registros": 99
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "AREQUIPA",
+    "PRODUCTO": "PALTA",
+    "rendimiento_promedio": 5.6054,
+    "produccion_total": 2118.8568,
+    "registros": 378
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "AREQUIPA",
+    "PRODUCTO": "PAPA",
+    "rendimiento_promedio": 26.2732,
+    "produccion_total": 103983.5936,
+    "registros": 801
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "AREQUIPA",
+    "PRODUCTO": "PLATANO",
+    "rendimiento_promedio": 6.6086,
+    "produccion_total": 118.9543,
+    "registros": 18
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "AREQUIPA",
+    "PRODUCTO": "RYE GRASS",
+    "rendimiento_promedio": 9.0158,
+    "produccion_total": 162.2838,
+    "registros": 18
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "AREQUIPA",
+    "PRODUCTO": "TUNA",
+    "rendimiento_promedio": 2.3433,
+    "produccion_total": 970.1408,
+    "registros": 414
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "AREQUIPA",
+    "PRODUCTO": "YUCA",
+    "rendimiento_promedio": 18.9663,
+    "produccion_total": 2731.1421,
+    "registros": 144
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "AYACUCHO",
+    "PRODUCTO": "ALFALFA",
+    "rendimiento_promedio": 2.8776,
+    "produccion_total": 2874.747,
+    "registros": 999
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "AYACUCHO",
+    "PRODUCTO": "CAFE",
+    "rendimiento_promedio": 0.9198,
+    "produccion_total": 82.7854,
+    "registros": 90
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "AYACUCHO",
+    "PRODUCTO": "CHIRIMOYA",
+    "rendimiento_promedio": 1.5544,
+    "produccion_total": 251.8171,
+    "registros": 162
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "AYACUCHO",
+    "PRODUCTO": "FRIJOL",
+    "rendimiento_promedio": 3.043,
+    "produccion_total": 2601.7596,
+    "registros": 855
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "AYACUCHO",
+    "PRODUCTO": "GRANADILLA",
+    "rendimiento_promedio": 2.4044,
+    "produccion_total": 151.4783,
+    "registros": 63
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "AYACUCHO",
+    "PRODUCTO": "LIMON",
+    "rendimiento_promedio": 1.7109,
+    "produccion_total": 708.3128,
+    "registros": 414
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "AYACUCHO",
+    "PRODUCTO": "MAIZ AMARILLO DURO",
+    "rendimiento_promedio": 3.0854,
+    "produccion_total": 1055.2186,
+    "registros": 342
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "AYACUCHO",
+    "PRODUCTO": "MANGO",
+    "rendimiento_promedio": 2.9267,
+    "produccion_total": 447.787,
+    "registros": 153
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "AYACUCHO",
+    "PRODUCTO": "MANZANA",
+    "rendimiento_promedio": 2.1793,
+    "produccion_total": 921.8335,
+    "registros": 423
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "AYACUCHO",
+    "PRODUCTO": "MELOCOTON",
+    "rendimiento_promedio": 2.1855,
+    "produccion_total": 1455.5359,
+    "registros": 666
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "AYACUCHO",
+    "PRODUCTO": "NARANJA",
+    "rendimiento_promedio": 1.8897,
+    "produccion_total": 1122.505,
+    "registros": 594
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "AYACUCHO",
+    "PRODUCTO": "PACAE O GUABO",
+    "rendimiento_promedio": 2.228,
+    "produccion_total": 721.8662,
+    "registros": 324
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "AYACUCHO",
+    "PRODUCTO": "PALTA",
+    "rendimiento_promedio": 1.829,
+    "produccion_total": 1613.2129,
+    "registros": 882
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "AYACUCHO",
+    "PRODUCTO": "PAPA",
+    "rendimiento_promedio": 15.0626,
+    "produccion_total": 15996.4562,
+    "registros": 1062
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "AYACUCHO",
+    "PRODUCTO": "PASTO ELEFANTE",
+    "rendimiento_promedio": 2.6669,
+    "produccion_total": 144.0112,
+    "registros": 54
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "AYACUCHO",
+    "PRODUCTO": "PLATANO",
+    "rendimiento_promedio": 1.5248,
+    "produccion_total": 178.4006,
+    "registros": 117
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "AYACUCHO",
+    "PRODUCTO": "TUNA",
+    "rendimiento_promedio": 1.7958,
+    "produccion_total": 1697.0502,
+    "registros": 945
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "AYACUCHO",
+    "PRODUCTO": "YUCA",
+    "rendimiento_promedio": 13.8278,
+    "produccion_total": 1866.7561,
+    "registros": 135
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "CAJAMARCA",
+    "PRODUCTO": "ALFALFA",
+    "rendimiento_promedio": 3.0574,
+    "produccion_total": 1788.5646,
+    "registros": 585
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "CAJAMARCA",
+    "PRODUCTO": "CAFE",
+    "rendimiento_promedio": 0.6463,
+    "produccion_total": 354.7923,
+    "registros": 549
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "CAJAMARCA",
+    "PRODUCTO": "CHIRIMOYA",
+    "rendimiento_promedio": 1.9302,
+    "produccion_total": 555.9111,
+    "registros": 288
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "CAJAMARCA",
+    "PRODUCTO": "FRIJOL",
+    "rendimiento_promedio": 1.6073,
+    "produccion_total": 2368.3637,
+    "registros": 1107
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "CAJAMARCA",
+    "PRODUCTO": "GRANADILLA",
+    "rendimiento_promedio": 2.0373,
+    "produccion_total": 696.7523,
+    "registros": 342
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "CAJAMARCA",
+    "PRODUCTO": "LIMON",
+    "rendimiento_promedio": 1.3558,
+    "produccion_total": 488.0919,
+    "registros": 360
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "CAJAMARCA",
+    "PRODUCTO": "MAIZ AMARILLO DURO",
+    "rendimiento_promedio": 4.0181,
+    "produccion_total": 7936.989,
+    "registros": 873
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "CAJAMARCA",
+    "PRODUCTO": "MANGO",
+    "rendimiento_promedio": 2.8361,
+    "produccion_total": 587.0676,
+    "registros": 207
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "CAJAMARCA",
+    "PRODUCTO": "MANZANA",
+    "rendimiento_promedio": 2.3831,
+    "produccion_total": 85.7903,
+    "registros": 36
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "CAJAMARCA",
+    "PRODUCTO": "NARANJA",
+    "rendimiento_promedio": 1.1455,
+    "produccion_total": 597.9358,
+    "registros": 522
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "CAJAMARCA",
+    "PRODUCTO": "PACAE O GUABO",
+    "rendimiento_promedio": 1.2909,
+    "produccion_total": 383.3919,
+    "registros": 297
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "CAJAMARCA",
+    "PRODUCTO": "PALTA",
+    "rendimiento_promedio": 2.0615,
+    "produccion_total": 1057.5321,
+    "registros": 513
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "CAJAMARCA",
+    "PRODUCTO": "PAPA",
+    "rendimiento_promedio": 11.1167,
+    "produccion_total": 35402.5952,
+    "registros": 1044
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "CAJAMARCA",
+    "PRODUCTO": "PASTO ELEFANTE",
+    "rendimiento_promedio": 2.9996,
+    "produccion_total": 620.9255,
+    "registros": 207
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "CAJAMARCA",
+    "PRODUCTO": "PLATANO",
+    "rendimiento_promedio": 1.9016,
+    "produccion_total": 1266.4609,
+    "registros": 666
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "CAJAMARCA",
+    "PRODUCTO": "RYE GRASS",
+    "rendimiento_promedio": 8.3653,
+    "produccion_total": 6549.9925,
+    "registros": 783
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "CAJAMARCA",
+    "PRODUCTO": "TUNA",
+    "rendimiento_promedio": 1.5541,
+    "produccion_total": 167.8475,
+    "registros": 108
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "CAJAMARCA",
+    "PRODUCTO": "YUCA",
+    "rendimiento_promedio": 8.824,
+    "produccion_total": 41524.1883,
+    "registros": 819
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "CUSCO",
+    "PRODUCTO": "ALFALFA",
+    "rendimiento_promedio": 7.804,
+    "produccion_total": 6040.3089,
+    "registros": 774
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "CUSCO",
+    "PRODUCTO": "CAFE",
+    "rendimiento_promedio": 1.404,
+    "produccion_total": 189.5413,
+    "registros": 135
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "CUSCO",
+    "PRODUCTO": "CHIRIMOYA",
+    "rendimiento_promedio": 3.1678,
+    "produccion_total": 171.0589,
+    "registros": 54
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "CUSCO",
+    "PRODUCTO": "FRIJOL",
+    "rendimiento_promedio": 2.3702,
+    "produccion_total": 959.9374,
+    "registros": 405
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "CUSCO",
+    "PRODUCTO": "GRANADILLA",
+    "rendimiento_promedio": 3.0741,
+    "produccion_total": 221.3359,
+    "registros": 72
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "CUSCO",
+    "PRODUCTO": "LIMON",
+    "rendimiento_promedio": 2.3717,
+    "produccion_total": 213.4552,
+    "registros": 90
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "CUSCO",
+    "PRODUCTO": "MAIZ AMARILLO DURO",
+    "rendimiento_promedio": 3.4722,
+    "produccion_total": 775.7995,
+    "registros": 207
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "CUSCO",
+    "PRODUCTO": "MANGO",
+    "rendimiento_promedio": 2.6171,
+    "produccion_total": 211.9854,
+    "registros": 81
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "CUSCO",
+    "PRODUCTO": "MANZANA",
+    "rendimiento_promedio": 4.0626,
+    "produccion_total": 767.831,
+    "registros": 189
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "CUSCO",
+    "PRODUCTO": "MELOCOTON",
+    "rendimiento_promedio": 4.0305,
+    "produccion_total": 943.1278,
+    "registros": 234
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "CUSCO",
+    "PRODUCTO": "NARANJA",
+    "rendimiento_promedio": 2.4544,
+    "produccion_total": 375.5218,
+    "registros": 153
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "CUSCO",
+    "PRODUCTO": "PACAE O GUABO",
+    "rendimiento_promedio": 2.3627,
+    "produccion_total": 21.2647,
+    "registros": 9
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "CUSCO",
+    "PRODUCTO": "PALTA",
+    "rendimiento_promedio": 2.9662,
+    "produccion_total": 533.9179,
+    "registros": 180
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "CUSCO",
+    "PRODUCTO": "PAPA",
+    "rendimiento_promedio": 15.7361,
+    "produccion_total": 15153.845,
+    "registros": 963
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "CUSCO",
+    "PRODUCTO": "PLATANO",
+    "rendimiento_promedio": 1.4704,
+    "produccion_total": 198.4989,
+    "registros": 135
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "CUSCO",
+    "PRODUCTO": "RYE GRASS",
+    "rendimiento_promedio": 5.884,
+    "produccion_total": 1747.5535,
+    "registros": 297
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "CUSCO",
+    "PRODUCTO": "TUNA",
+    "rendimiento_promedio": 4.4487,
+    "produccion_total": 400.3817,
+    "registros": 90
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "CUSCO",
+    "PRODUCTO": "YUCA",
+    "rendimiento_promedio": 12.187,
+    "produccion_total": 30797.4794,
+    "registros": 189
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "HUANCAVELICA",
+    "PRODUCTO": "ALFALFA",
+    "rendimiento_promedio": 2.3467,
+    "produccion_total": 1795.2065,
+    "registros": 765
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "HUANCAVELICA",
+    "PRODUCTO": "CAFE",
+    "rendimiento_promedio": 0.7934,
+    "produccion_total": 42.843,
+    "registros": 54
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "HUANCAVELICA",
+    "PRODUCTO": "CHIRIMOYA",
+    "rendimiento_promedio": 1.0402,
+    "produccion_total": 252.7602,
+    "registros": 243
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "HUANCAVELICA",
+    "PRODUCTO": "FRIJOL",
+    "rendimiento_promedio": 1.9352,
+    "produccion_total": 1027.5939,
+    "registros": 531
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "HUANCAVELICA",
+    "PRODUCTO": "GRANADILLA",
+    "rendimiento_promedio": 1.9671,
+    "produccion_total": 88.518,
+    "registros": 45
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "HUANCAVELICA",
+    "PRODUCTO": "LIMON",
+    "rendimiento_promedio": 1.2232,
+    "produccion_total": 242.2027,
+    "registros": 198
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "HUANCAVELICA",
+    "PRODUCTO": "MAIZ AMARILLO DURO",
+    "rendimiento_promedio": 2.4285,
+    "produccion_total": 480.8348,
+    "registros": 198
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "HUANCAVELICA",
+    "PRODUCTO": "MANGO",
+    "rendimiento_promedio": 1.492,
+    "produccion_total": 120.849,
+    "registros": 81
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "HUANCAVELICA",
+    "PRODUCTO": "MANZANA",
+    "rendimiento_promedio": 1.0049,
+    "produccion_total": 289.4068,
+    "registros": 288
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "HUANCAVELICA",
+    "PRODUCTO": "MELOCOTON",
+    "rendimiento_promedio": 1.3467,
+    "produccion_total": 472.7003,
+    "registros": 351
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "HUANCAVELICA",
+    "PRODUCTO": "NARANJA",
+    "rendimiento_promedio": 1.1619,
+    "produccion_total": 271.8761,
+    "registros": 234
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "HUANCAVELICA",
+    "PRODUCTO": "PACAE O GUABO",
+    "rendimiento_promedio": 1.2189,
+    "produccion_total": 208.4307,
+    "registros": 171
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "HUANCAVELICA",
+    "PRODUCTO": "PALTA",
+    "rendimiento_promedio": 0.6854,
+    "produccion_total": 456.452,
+    "registros": 666
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "HUANCAVELICA",
+    "PRODUCTO": "PAPA",
+    "rendimiento_promedio": 12.4678,
+    "produccion_total": 12834.0107,
+    "registros": 891
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "HUANCAVELICA",
+    "PRODUCTO": "PLATANO",
+    "rendimiento_promedio": 0.8772,
+    "produccion_total": 150.0021,
+    "registros": 171
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "HUANCAVELICA",
+    "PRODUCTO": "RYE GRASS",
+    "rendimiento_promedio": 6.9108,
+    "produccion_total": 684.1673,
+    "registros": 99
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "HUANCAVELICA",
+    "PRODUCTO": "TUNA",
+    "rendimiento_promedio": 1.1724,
+    "produccion_total": 527.5809,
+    "registros": 450
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "HUANCAVELICA",
+    "PRODUCTO": "YUCA",
+    "rendimiento_promedio": 9.2833,
+    "produccion_total": 83.5495,
+    "registros": 9
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "HUANUCO",
+    "PRODUCTO": "ALFALFA",
+    "rendimiento_promedio": 1.9237,
+    "produccion_total": 882.9668,
+    "registros": 459
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "HUANUCO",
+    "PRODUCTO": "BRAQUEARIA",
+    "rendimiento_promedio": 2.7378,
+    "produccion_total": 295.6867,
+    "registros": 108
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "HUANUCO",
+    "PRODUCTO": "CAFE",
+    "rendimiento_promedio": 0.9632,
+    "produccion_total": 199.392,
+    "registros": 207
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "HUANUCO",
+    "PRODUCTO": "CHIRIMOYA",
+    "rendimiento_promedio": 1.2968,
+    "produccion_total": 128.3858,
+    "registros": 99
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "HUANUCO",
+    "PRODUCTO": "FRIJOL",
+    "rendimiento_promedio": 2.1548,
+    "produccion_total": 2353.497,
+    "registros": 459
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "HUANUCO",
+    "PRODUCTO": "GRANADILLA",
+    "rendimiento_promedio": 1.7182,
+    "produccion_total": 216.4952,
+    "registros": 126
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "HUANUCO",
+    "PRODUCTO": "LIMON",
+    "rendimiento_promedio": 1.2866,
+    "produccion_total": 312.6541,
+    "registros": 243
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "HUANUCO",
+    "PRODUCTO": "MAIZ AMARILLO DURO",
+    "rendimiento_promedio": 5.7749,
+    "produccion_total": 17758.4601,
+    "registros": 369
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "HUANUCO",
+    "PRODUCTO": "MANGO",
+    "rendimiento_promedio": 2.2646,
+    "produccion_total": 529.9243,
+    "registros": 234
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "HUANUCO",
+    "PRODUCTO": "MANZANA",
+    "rendimiento_promedio": 1.937,
+    "produccion_total": 122.0341,
+    "registros": 63
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "HUANUCO",
+    "PRODUCTO": "MELOCOTON",
+    "rendimiento_promedio": 1.4926,
+    "produccion_total": 282.1057,
+    "registros": 189
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "HUANUCO",
+    "PRODUCTO": "NARANJA",
+    "rendimiento_promedio": 1.4257,
+    "produccion_total": 282.2789,
+    "registros": 198
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "HUANUCO",
+    "PRODUCTO": "PACAE O GUABO",
+    "rendimiento_promedio": 1.6573,
+    "produccion_total": 328.1481,
+    "registros": 198
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "HUANUCO",
+    "PRODUCTO": "PALTA",
+    "rendimiento_promedio": 1.2799,
+    "produccion_total": 529.8948,
+    "registros": 414
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "HUANUCO",
+    "PRODUCTO": "PAPA",
+    "rendimiento_promedio": 17.9282,
+    "produccion_total": 92562.0889,
+    "registros": 702
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "HUANUCO",
+    "PRODUCTO": "PLATANO",
+    "rendimiento_promedio": 1.1015,
+    "produccion_total": 297.4125,
+    "registros": 270
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "HUANUCO",
+    "PRODUCTO": "RYE GRASS",
+    "rendimiento_promedio": 2.4249,
+    "produccion_total": 436.4871,
+    "registros": 180
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "HUANUCO",
+    "PRODUCTO": "TUNA",
+    "rendimiento_promedio": 1.3863,
+    "produccion_total": 174.6792,
+    "registros": 126
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "HUANUCO",
+    "PRODUCTO": "YUCA",
+    "rendimiento_promedio": 18.5869,
+    "produccion_total": 60190.0434,
+    "registros": 243
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "ICA",
+    "PRODUCTO": "ALFALFA",
+    "rendimiento_promedio": 2.6072,
+    "produccion_total": 844.7319,
+    "registros": 324
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "ICA",
+    "PRODUCTO": "CHIRIMOYA",
+    "rendimiento_promedio": 2.4714,
+    "produccion_total": 266.9131,
+    "registros": 108
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "ICA",
+    "PRODUCTO": "FRIJOL",
+    "rendimiento_promedio": 2.4436,
+    "produccion_total": 593.7982,
+    "registros": 243
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "ICA",
+    "PRODUCTO": "GRANADILLA",
+    "rendimiento_promedio": 2.9597,
+    "produccion_total": 106.5501,
+    "registros": 36
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "ICA",
+    "PRODUCTO": "LIMON",
+    "rendimiento_promedio": 5.1107,
+    "produccion_total": 919.9324,
+    "registros": 180
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "ICA",
+    "PRODUCTO": "MAIZ AMARILLO DURO",
+    "rendimiento_promedio": 10.6049,
+    "produccion_total": 94408.3341,
+    "registros": 351
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "ICA",
+    "PRODUCTO": "MANGO",
+    "rendimiento_promedio": 2.7249,
+    "produccion_total": 564.055,
+    "registros": 207
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "ICA",
+    "PRODUCTO": "MANZANA",
+    "rendimiento_promedio": 4.0514,
+    "produccion_total": 619.8699,
+    "registros": 153
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "ICA",
+    "PRODUCTO": "MELOCOTON",
+    "rendimiento_promedio": 3.0424,
+    "produccion_total": 328.5843,
+    "registros": 108
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "ICA",
+    "PRODUCTO": "NARANJA",
+    "rendimiento_promedio": 7.1298,
+    "produccion_total": 1796.6976,
+    "registros": 252
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "ICA",
+    "PRODUCTO": "PACAE O GUABO",
+    "rendimiento_promedio": 2.1177,
+    "produccion_total": 114.3561,
+    "registros": 54
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "ICA",
+    "PRODUCTO": "PALTA",
+    "rendimiento_promedio": 5.4976,
+    "produccion_total": 1830.6921,
+    "registros": 333
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "ICA",
+    "PRODUCTO": "PAPA",
+    "rendimiento_promedio": 20.747,
+    "produccion_total": 17501.8653,
+    "registros": 297
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "ICA",
+    "PRODUCTO": "PLATANO",
+    "rendimiento_promedio": 2.4004,
+    "produccion_total": 302.4467,
+    "registros": 126
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "ICA",
+    "PRODUCTO": "TUNA",
+    "rendimiento_promedio": 1.92,
+    "produccion_total": 414.726,
+    "registros": 216
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "ICA",
+    "PRODUCTO": "YUCA",
+    "rendimiento_promedio": 24.9717,
+    "produccion_total": 4907.8249,
+    "registros": 162
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "JUNIN",
+    "PRODUCTO": "ALFALFA",
+    "rendimiento_promedio": 2.2881,
+    "produccion_total": 1894.5276,
+    "registros": 828
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "JUNIN",
+    "PRODUCTO": "BRAQUEARIA",
+    "rendimiento_promedio": 2.8995,
+    "produccion_total": 391.4357,
+    "registros": 135
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "JUNIN",
+    "PRODUCTO": "CAFE",
+    "rendimiento_promedio": 0.9754,
+    "produccion_total": 210.6806,
+    "registros": 216
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "JUNIN",
+    "PRODUCTO": "CHIRIMOYA",
+    "rendimiento_promedio": 1.3385,
+    "produccion_total": 36.1387,
+    "registros": 27
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "JUNIN",
+    "PRODUCTO": "FRIJOL",
+    "rendimiento_promedio": 1.6392,
+    "produccion_total": 2401.8842,
+    "registros": 198
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "JUNIN",
+    "PRODUCTO": "GRANADILLA",
+    "rendimiento_promedio": 1.8176,
+    "produccion_total": 343.5245,
+    "registros": 189
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "JUNIN",
+    "PRODUCTO": "LIMON",
+    "rendimiento_promedio": 1.2276,
+    "produccion_total": 176.7778,
+    "registros": 144
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "JUNIN",
+    "PRODUCTO": "MAIZ AMARILLO DURO",
+    "rendimiento_promedio": 4.6101,
+    "produccion_total": 13253.488,
+    "registros": 198
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "JUNIN",
+    "PRODUCTO": "MANGO",
+    "rendimiento_promedio": 2.0251,
+    "produccion_total": 255.1569,
+    "registros": 126
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "JUNIN",
+    "PRODUCTO": "MANZANA",
+    "rendimiento_promedio": 2.1829,
+    "produccion_total": 235.757,
+    "registros": 108
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "JUNIN",
+    "PRODUCTO": "MELOCOTON",
+    "rendimiento_promedio": 2.318,
+    "produccion_total": 271.2006,
+    "registros": 117
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "JUNIN",
+    "PRODUCTO": "NARANJA",
+    "rendimiento_promedio": 1.5926,
+    "produccion_total": 214.999,
+    "registros": 135
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "JUNIN",
+    "PRODUCTO": "PACAE O GUABO",
+    "rendimiento_promedio": 1.4728,
+    "produccion_total": 212.0784,
+    "registros": 144
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "JUNIN",
+    "PRODUCTO": "PALTA",
+    "rendimiento_promedio": 1.752,
+    "produccion_total": 331.1195,
+    "registros": 189
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "JUNIN",
+    "PRODUCTO": "PAPA",
+    "rendimiento_promedio": 18.9198,
+    "produccion_total": 42896.4354,
+    "registros": 1062
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "JUNIN",
+    "PRODUCTO": "PASTO ELEFANTE",
+    "rendimiento_promedio": 2.1128,
+    "produccion_total": 304.2365,
+    "registros": 144
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "JUNIN",
+    "PRODUCTO": "PLATANO",
+    "rendimiento_promedio": 1.4174,
+    "produccion_total": 280.642,
+    "registros": 198
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "JUNIN",
+    "PRODUCTO": "RYE GRASS",
+    "rendimiento_promedio": 2.6076,
+    "produccion_total": 2346.8561,
+    "registros": 900
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "JUNIN",
+    "PRODUCTO": "TUNA",
+    "rendimiento_promedio": 1.7108,
+    "produccion_total": 107.78,
+    "registros": 63
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "JUNIN",
+    "PRODUCTO": "YUCA",
+    "rendimiento_promedio": 17.3774,
+    "produccion_total": 102302.4221,
+    "registros": 171
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "LA LIBERTAD",
+    "PRODUCTO": "ALFALFA",
+    "rendimiento_promedio": 2.5999,
+    "produccion_total": 1801.7428,
+    "registros": 693
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "LA LIBERTAD",
+    "PRODUCTO": "CAFE",
+    "rendimiento_promedio": 0.6618,
+    "produccion_total": 107.212,
+    "registros": 162
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "LA LIBERTAD",
+    "PRODUCTO": "CHIRIMOYA",
+    "rendimiento_promedio": 1.147,
+    "produccion_total": 340.6455,
+    "registros": 297
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "LA LIBERTAD",
+    "PRODUCTO": "FRIJOL",
+    "rendimiento_promedio": 2.3917,
+    "produccion_total": 1434.4897,
+    "registros": 603
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "LA LIBERTAD",
+    "PRODUCTO": "GRANADILLA",
+    "rendimiento_promedio": 1.8445,
+    "produccion_total": 298.816,
+    "registros": 162
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "LA LIBERTAD",
+    "PRODUCTO": "LIMON",
+    "rendimiento_promedio": 1.1518,
+    "produccion_total": 300.6162,
+    "registros": 261
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "LA LIBERTAD",
+    "PRODUCTO": "MAIZ AMARILLO DURO",
+    "rendimiento_promedio": 9.2127,
+    "produccion_total": 36203.0094,
+    "registros": 576
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "LA LIBERTAD",
+    "PRODUCTO": "MANGO",
+    "rendimiento_promedio": 2.8712,
+    "produccion_total": 878.5776,
+    "registros": 306
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "LA LIBERTAD",
+    "PRODUCTO": "MANZANA",
+    "rendimiento_promedio": 1.8184,
+    "produccion_total": 523.6928,
+    "registros": 288
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "LA LIBERTAD",
+    "PRODUCTO": "MELOCOTON",
+    "rendimiento_promedio": 1.8452,
+    "produccion_total": 215.8892,
+    "registros": 117
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "LA LIBERTAD",
+    "PRODUCTO": "NARANJA",
+    "rendimiento_promedio": 1.5943,
+    "produccion_total": 516.5614,
+    "registros": 324
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "LA LIBERTAD",
+    "PRODUCTO": "PACAE O GUABO",
+    "rendimiento_promedio": 1.5233,
+    "produccion_total": 383.8691,
+    "registros": 252
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "LA LIBERTAD",
+    "PRODUCTO": "PALTA",
+    "rendimiento_promedio": 2.0778,
+    "produccion_total": 1178.1057,
+    "registros": 567
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "LA LIBERTAD",
+    "PRODUCTO": "PAPA",
+    "rendimiento_promedio": 19.8642,
+    "produccion_total": 69420.6677,
+    "registros": 603
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "LA LIBERTAD",
+    "PRODUCTO": "PASTO ELEFANTE",
+    "rendimiento_promedio": 2.2003,
+    "produccion_total": 59.409,
+    "registros": 27
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "LA LIBERTAD",
+    "PRODUCTO": "PLATANO",
+    "rendimiento_promedio": 2.3729,
+    "produccion_total": 939.6794,
+    "registros": 396
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "LA LIBERTAD",
+    "PRODUCTO": "TUNA",
+    "rendimiento_promedio": 1.2083,
+    "produccion_total": 282.7384,
+    "registros": 234
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "LA LIBERTAD",
+    "PRODUCTO": "YUCA",
+    "rendimiento_promedio": 17.8769,
+    "produccion_total": 17353.1486,
+    "registros": 477
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "LAMBAYEQUE",
+    "PRODUCTO": "ALFALFA",
+    "rendimiento_promedio": 5.475,
+    "produccion_total": 1428.9802,
+    "registros": 261
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "LAMBAYEQUE",
+    "PRODUCTO": "CAFE",
+    "rendimiento_promedio": 0.8935,
+    "produccion_total": 32.167,
+    "registros": 36
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "LAMBAYEQUE",
+    "PRODUCTO": "CHIRIMOYA",
+    "rendimiento_promedio": 2.0071,
+    "produccion_total": 72.2543,
+    "registros": 36
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "LAMBAYEQUE",
+    "PRODUCTO": "FRIJOL",
+    "rendimiento_promedio": 1.5891,
+    "produccion_total": 544.1603,
+    "registros": 270
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "LAMBAYEQUE",
+    "PRODUCTO": "GRANADILLA",
+    "rendimiento_promedio": 5.2677,
+    "produccion_total": 142.2272,
+    "registros": 27
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "LAMBAYEQUE",
+    "PRODUCTO": "LIMON",
+    "rendimiento_promedio": 2.9735,
+    "produccion_total": 374.6573,
+    "registros": 126
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "LAMBAYEQUE",
+    "PRODUCTO": "MAIZ AMARILLO DURO",
+    "rendimiento_promedio": 8.724,
+    "produccion_total": 24097.0517,
+    "registros": 306
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "LAMBAYEQUE",
+    "PRODUCTO": "MANGO",
+    "rendimiento_promedio": 2.2075,
+    "produccion_total": 417.2184,
+    "registros": 189
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "LAMBAYEQUE",
+    "PRODUCTO": "MANZANA",
+    "rendimiento_promedio": 1.9413,
+    "produccion_total": 52.4143,
+    "registros": 27
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "LAMBAYEQUE",
+    "PRODUCTO": "MELOCOTON",
+    "rendimiento_promedio": 1.9477,
+    "produccion_total": 17.5289,
+    "registros": 9
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "LAMBAYEQUE",
+    "PRODUCTO": "NARANJA",
+    "rendimiento_promedio": 2.2844,
+    "produccion_total": 164.4779,
+    "registros": 72
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "LAMBAYEQUE",
+    "PRODUCTO": "PACAE O GUABO",
+    "rendimiento_promedio": 3.9136,
+    "produccion_total": 528.3422,
+    "registros": 135
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "LAMBAYEQUE",
+    "PRODUCTO": "PALTA",
+    "rendimiento_promedio": 3.7087,
+    "produccion_total": 467.2911,
+    "registros": 126
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "LAMBAYEQUE",
+    "PRODUCTO": "PAPA",
+    "rendimiento_promedio": 9.2196,
+    "produccion_total": 995.7209,
+    "registros": 108
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "LAMBAYEQUE",
+    "PRODUCTO": "PLATANO",
+    "rendimiento_promedio": 5.3998,
+    "produccion_total": 680.3705,
+    "registros": 126
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "LAMBAYEQUE",
+    "PRODUCTO": "TUNA",
+    "rendimiento_promedio": 1.447,
+    "produccion_total": 13.0234,
+    "registros": 9
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "LAMBAYEQUE",
+    "PRODUCTO": "YUCA",
+    "rendimiento_promedio": 13.9217,
+    "produccion_total": 5114.2458,
+    "registros": 189
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "LIMA",
+    "PRODUCTO": "ALFALFA",
+    "rendimiento_promedio": 6.7948,
+    "produccion_total": 7888.8122,
+    "registros": 1161
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "LIMA",
+    "PRODUCTO": "CHIRIMOYA",
+    "rendimiento_promedio": 2.4489,
+    "produccion_total": 1168.1095,
+    "registros": 477
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "LIMA",
+    "PRODUCTO": "FRIJOL",
+    "rendimiento_promedio": 7.4658,
+    "produccion_total": 7432.9935,
+    "registros": 576
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "LIMA",
+    "PRODUCTO": "GRANADILLA",
+    "rendimiento_promedio": 5.2159,
+    "produccion_total": 891.9268,
+    "registros": 171
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "LIMA",
+    "PRODUCTO": "LIMON",
+    "rendimiento_promedio": 3.2494,
+    "produccion_total": 175.4689,
+    "registros": 54
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "LIMA",
+    "PRODUCTO": "MAIZ AMARILLO DURO",
+    "rendimiento_promedio": 9.9745,
+    "produccion_total": 90534.8087,
+    "registros": 477
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "LIMA",
+    "PRODUCTO": "MANGO",
+    "rendimiento_promedio": 4.2308,
+    "produccion_total": 1028.0868,
+    "registros": 243
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "LIMA",
+    "PRODUCTO": "MANZANA",
+    "rendimiento_promedio": 3.9029,
+    "produccion_total": 3266.6872,
+    "registros": 837
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "LIMA",
+    "PRODUCTO": "MELOCOTON",
+    "rendimiento_promedio": 4.0717,
+    "produccion_total": 2858.3656,
+    "registros": 702
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "LIMA",
+    "PRODUCTO": "NARANJA",
+    "rendimiento_promedio": 7.5311,
+    "produccion_total": 1762.2793,
+    "registros": 234
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "LIMA",
+    "PRODUCTO": "PACAE O GUABO",
+    "rendimiento_promedio": 4.6096,
+    "produccion_total": 456.3488,
+    "registros": 99
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "LIMA",
+    "PRODUCTO": "PALTA",
+    "rendimiento_promedio": 3.629,
+    "produccion_total": 3658.0213,
+    "registros": 1008
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "LIMA",
+    "PRODUCTO": "PAPA",
+    "rendimiento_promedio": 16.6593,
+    "produccion_total": 18186.2842,
+    "registros": 1080
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "LIMA",
+    "PRODUCTO": "PASTO ELEFANTE",
+    "rendimiento_promedio": 5.1749,
+    "produccion_total": 279.4442,
+    "registros": 54
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "LIMA",
+    "PRODUCTO": "PLATANO",
+    "rendimiento_promedio": 4.2628,
+    "produccion_total": 1112.5811,
+    "registros": 261
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "LIMA",
+    "PRODUCTO": "RYE GRASS",
+    "rendimiento_promedio": 9.3577,
+    "produccion_total": 84.2191,
+    "registros": 9
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "LIMA",
+    "PRODUCTO": "TUNA",
+    "rendimiento_promedio": 4.1315,
+    "produccion_total": 1933.5316,
+    "registros": 468
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "LIMA",
+    "PRODUCTO": "YUCA",
+    "rendimiento_promedio": 27.9733,
+    "produccion_total": 13705.5115,
+    "registros": 270
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "LORETO",
+    "PRODUCTO": "BRAQUEARIA",
+    "rendimiento_promedio": 2.2653,
+    "produccion_total": 835.913,
+    "registros": 369
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "LORETO",
+    "PRODUCTO": "CAFE",
+    "rendimiento_promedio": 0.6421,
+    "produccion_total": 127.13,
+    "registros": 198
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "LORETO",
+    "PRODUCTO": "FRIJOL",
+    "rendimiento_promedio": 1.5179,
+    "produccion_total": 1665.1883,
+    "registros": 450
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "LORETO",
+    "PRODUCTO": "GRANADILLA",
+    "rendimiento_promedio": 1.9958,
+    "produccion_total": 287.3983,
+    "registros": 144
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "LORETO",
+    "PRODUCTO": "LIMON",
+    "rendimiento_promedio": 1.3229,
+    "produccion_total": 547.6605,
+    "registros": 414
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "LORETO",
+    "PRODUCTO": "MAIZ AMARILLO DURO",
+    "rendimiento_promedio": 3.4819,
+    "produccion_total": 93313.4698,
+    "registros": 459
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "LORETO",
+    "PRODUCTO": "MANGO",
+    "rendimiento_promedio": 1.5495,
+    "produccion_total": 502.0453,
+    "registros": 324
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "LORETO",
+    "PRODUCTO": "NARANJA",
+    "rendimiento_promedio": 1.3478,
+    "produccion_total": 582.2416,
+    "registros": 432
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "LORETO",
+    "PRODUCTO": "PACAE O GUABO",
+    "rendimiento_promedio": 1.3709,
+    "produccion_total": 468.8357,
+    "registros": 342
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "LORETO",
+    "PRODUCTO": "PALTA",
+    "rendimiento_promedio": 1.5334,
+    "produccion_total": 552.0238,
+    "registros": 360
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "LORETO",
+    "PRODUCTO": "PAPA",
+    "rendimiento_promedio": 9.8245,
+    "produccion_total": 4332.603,
+    "registros": 441
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "LORETO",
+    "PRODUCTO": "PASTO ELEFANTE",
+    "rendimiento_promedio": 1.8136,
+    "produccion_total": 571.2868,
+    "registros": 315
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "LORETO",
+    "PRODUCTO": "PLATANO",
+    "rendimiento_promedio": 1.1619,
+    "produccion_total": 533.3132,
+    "registros": 459
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "LORETO",
+    "PRODUCTO": "YUCA",
+    "rendimiento_promedio": 12.9473,
+    "produccion_total": 415247.6139,
+    "registros": 459
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "MADRE DE DIOS",
+    "PRODUCTO": "BRAQUEARIA",
+    "rendimiento_promedio": 3.821,
+    "produccion_total": 378.2807,
+    "registros": 99
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "MADRE DE DIOS",
+    "PRODUCTO": "CAFE",
+    "rendimiento_promedio": 0.4934,
+    "produccion_total": 48.8495,
+    "registros": 99
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "MADRE DE DIOS",
+    "PRODUCTO": "FRIJOL",
+    "rendimiento_promedio": 1.3169,
+    "produccion_total": 130.3762,
+    "registros": 99
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "MADRE DE DIOS",
+    "PRODUCTO": "LIMON",
+    "rendimiento_promedio": 1.1274,
+    "produccion_total": 111.614,
+    "registros": 99
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "MADRE DE DIOS",
+    "PRODUCTO": "MAIZ AMARILLO DURO",
+    "rendimiento_promedio": 3.8337,
+    "produccion_total": 3984.7432,
+    "registros": 99
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "MADRE DE DIOS",
+    "PRODUCTO": "MANGO",
+    "rendimiento_promedio": 2.0534,
+    "produccion_total": 203.2836,
+    "registros": 99
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "MADRE DE DIOS",
+    "PRODUCTO": "NARANJA",
+    "rendimiento_promedio": 1.2386,
+    "produccion_total": 122.6249,
+    "registros": 99
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "MADRE DE DIOS",
+    "PRODUCTO": "PALTA",
+    "rendimiento_promedio": 1.526,
+    "produccion_total": 151.0775,
+    "registros": 99
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "MADRE DE DIOS",
+    "PRODUCTO": "PAPA",
+    "rendimiento_promedio": 8.7312,
+    "produccion_total": 864.3863,
+    "registros": 99
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "MADRE DE DIOS",
+    "PRODUCTO": "PLATANO",
+    "rendimiento_promedio": 2.5677,
+    "produccion_total": 254.2003,
+    "registros": 99
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "MADRE DE DIOS",
+    "PRODUCTO": "YUCA",
+    "rendimiento_promedio": 17.8679,
+    "produccion_total": 18409.6414,
+    "registros": 99
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "MOQUEGUA",
+    "PRODUCTO": "ALFALFA",
+    "rendimiento_promedio": 2.9975,
+    "produccion_total": 485.5938,
+    "registros": 162
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "MOQUEGUA",
+    "PRODUCTO": "CHIRIMOYA",
+    "rendimiento_promedio": 2.8239,
+    "produccion_total": 76.2449,
+    "registros": 27
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "MOQUEGUA",
+    "PRODUCTO": "FRIJOL",
+    "rendimiento_promedio": 4.2958,
+    "produccion_total": 377.7551,
+    "registros": 54
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "MOQUEGUA",
+    "PRODUCTO": "GRANADILLA",
+    "rendimiento_promedio": 2.3294,
+    "produccion_total": 20.9643,
+    "registros": 9
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "MOQUEGUA",
+    "PRODUCTO": "LIMON",
+    "rendimiento_promedio": 3.8382,
+    "produccion_total": 207.2612,
+    "registros": 54
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "MOQUEGUA",
+    "PRODUCTO": "MAIZ AMARILLO DURO",
+    "rendimiento_promedio": 4.8005,
+    "produccion_total": 268.5512,
+    "registros": 45
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "MOQUEGUA",
+    "PRODUCTO": "MANGO",
+    "rendimiento_promedio": 3.3694,
+    "produccion_total": 121.2982,
+    "registros": 36
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "MOQUEGUA",
+    "PRODUCTO": "MANZANA",
+    "rendimiento_promedio": 3.3237,
+    "produccion_total": 418.7813,
+    "registros": 126
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "MOQUEGUA",
+    "PRODUCTO": "MELOCOTON",
+    "rendimiento_promedio": 3.0191,
+    "produccion_total": 326.0653,
+    "registros": 108
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "MOQUEGUA",
+    "PRODUCTO": "NARANJA",
+    "rendimiento_promedio": 3.4884,
+    "produccion_total": 219.7671,
+    "registros": 63
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "MOQUEGUA",
+    "PRODUCTO": "PACAE O GUABO",
+    "rendimiento_promedio": 2.6188,
+    "produccion_total": 164.9864,
+    "registros": 63
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "MOQUEGUA",
+    "PRODUCTO": "PALTA",
+    "rendimiento_promedio": 2.1366,
+    "produccion_total": 326.9029,
+    "registros": 153
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "MOQUEGUA",
+    "PRODUCTO": "PAPA",
+    "rendimiento_promedio": 18.801,
+    "produccion_total": 3045.7539,
+    "registros": 162
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "MOQUEGUA",
+    "PRODUCTO": "PLATANO",
+    "rendimiento_promedio": 1.4744,
+    "produccion_total": 13.2699,
+    "registros": 9
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "MOQUEGUA",
+    "PRODUCTO": "TUNA",
+    "rendimiento_promedio": 2.0546,
+    "produccion_total": 295.8666,
+    "registros": 144
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "MOQUEGUA",
+    "PRODUCTO": "YUCA",
+    "rendimiento_promedio": 9.9585,
+    "produccion_total": 89.6267,
+    "registros": 9
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "PASCO",
+    "PRODUCTO": "ALFALFA",
+    "rendimiento_promedio": 1.9662,
+    "produccion_total": 194.6545,
+    "registros": 99
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "PASCO",
+    "PRODUCTO": "BRAQUEARIA",
+    "rendimiento_promedio": 2.6511,
+    "produccion_total": 119.301,
+    "registros": 45
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "PASCO",
+    "PRODUCTO": "CAFE",
+    "rendimiento_promedio": 0.9565,
+    "produccion_total": 86.0828,
+    "registros": 90
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "PASCO",
+    "PRODUCTO": "CHIRIMOYA",
+    "rendimiento_promedio": 1.1988,
+    "produccion_total": 32.3685,
+    "registros": 27
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "PASCO",
+    "PRODUCTO": "FRIJOL",
+    "rendimiento_promedio": 1.7413,
+    "produccion_total": 609.1857,
+    "registros": 117
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "PASCO",
+    "PRODUCTO": "GRANADILLA",
+    "rendimiento_promedio": 2.3902,
+    "produccion_total": 193.6079,
+    "registros": 81
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "PASCO",
+    "PRODUCTO": "LIMON",
+    "rendimiento_promedio": 3.901,
+    "produccion_total": 70.2188,
+    "registros": 18
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "PASCO",
+    "PRODUCTO": "MAIZ AMARILLO DURO",
+    "rendimiento_promedio": 2.7675,
+    "produccion_total": 5113.9819,
+    "registros": 99
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "PASCO",
+    "PRODUCTO": "MANGO",
+    "rendimiento_promedio": 5.9692,
+    "produccion_total": 161.1688,
+    "registros": 27
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "PASCO",
+    "PRODUCTO": "MANZANA",
+    "rendimiento_promedio": 2.0131,
+    "produccion_total": 18.1177,
+    "registros": 9
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "PASCO",
+    "PRODUCTO": "MELOCOTON",
+    "rendimiento_promedio": 1.7614,
+    "produccion_total": 15.8525,
+    "registros": 9
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "PASCO",
+    "PRODUCTO": "NARANJA",
+    "rendimiento_promedio": 2.6141,
+    "produccion_total": 117.6357,
+    "registros": 45
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "PASCO",
+    "PRODUCTO": "PALTA",
+    "rendimiento_promedio": 1.6265,
+    "produccion_total": 175.6647,
+    "registros": 108
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "PASCO",
+    "PRODUCTO": "PAPA",
+    "rendimiento_promedio": 19.7129,
+    "produccion_total": 16336.266,
+    "registros": 234
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "PASCO",
+    "PRODUCTO": "PLATANO",
+    "rendimiento_promedio": 1.2763,
+    "produccion_total": 103.3785,
+    "registros": 81
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "PASCO",
+    "PRODUCTO": "RYE GRASS",
+    "rendimiento_promedio": 2.5183,
+    "produccion_total": 385.2997,
+    "registros": 153
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "PASCO",
+    "PRODUCTO": "TUNA",
+    "rendimiento_promedio": 1.8218,
+    "produccion_total": 65.5842,
+    "registros": 36
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "PASCO",
+    "PRODUCTO": "YUCA",
+    "rendimiento_promedio": 18.0069,
+    "produccion_total": 61410.0569,
+    "registros": 72
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "PIURA",
+    "PRODUCTO": "ALFALFA",
+    "rendimiento_promedio": 2.4549,
+    "produccion_total": 397.6943,
+    "registros": 162
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "PIURA",
+    "PRODUCTO": "CAFE",
+    "rendimiento_promedio": 0.4204,
+    "produccion_total": 75.6782,
+    "registros": 180
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "PIURA",
+    "PRODUCTO": "CHIRIMOYA",
+    "rendimiento_promedio": 0.6581,
+    "produccion_total": 118.4538,
+    "registros": 180
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "PIURA",
+    "PRODUCTO": "FRIJOL",
+    "rendimiento_promedio": 1.863,
+    "produccion_total": 905.4204,
+    "registros": 486
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "PIURA",
+    "PRODUCTO": "GRANADILLA",
+    "rendimiento_promedio": 1.7569,
+    "produccion_total": 332.0605,
+    "registros": 189
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "PIURA",
+    "PRODUCTO": "LIMON",
+    "rendimiento_promedio": 1.1435,
+    "produccion_total": 483.7113,
+    "registros": 423
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "PIURA",
+    "PRODUCTO": "MAIZ AMARILLO DURO",
+    "rendimiento_promedio": 5.2573,
+    "produccion_total": 2625.4547,
+    "registros": 495
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "PIURA",
+    "PRODUCTO": "MANGO",
+    "rendimiento_promedio": 2.7785,
+    "produccion_total": 975.2635,
+    "registros": 351
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "PIURA",
+    "PRODUCTO": "NARANJA",
+    "rendimiento_promedio": 1.1393,
+    "produccion_total": 348.6397,
+    "registros": 306
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "PIURA",
+    "PRODUCTO": "PACAE O GUABO",
+    "rendimiento_promedio": 0.9645,
+    "produccion_total": 243.0464,
+    "registros": 252
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "PIURA",
+    "PRODUCTO": "PALTA",
+    "rendimiento_promedio": 1.8292,
+    "produccion_total": 559.7323,
+    "registros": 306
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "PIURA",
+    "PRODUCTO": "PAPA",
+    "rendimiento_promedio": 10.531,
+    "produccion_total": 12742.7917,
+    "registros": 378
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "PIURA",
+    "PRODUCTO": "PASTO ELEFANTE",
+    "rendimiento_promedio": 3.2568,
+    "produccion_total": 1143.1196,
+    "registros": 351
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "PIURA",
+    "PRODUCTO": "PLATANO",
+    "rendimiento_promedio": 1.0654,
+    "produccion_total": 517.776,
+    "registros": 486
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "PIURA",
+    "PRODUCTO": "TUNA",
+    "rendimiento_promedio": 1.0594,
+    "produccion_total": 123.9486,
+    "registros": 117
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "PIURA",
+    "PRODUCTO": "YUCA",
+    "rendimiento_promedio": 7.1113,
+    "produccion_total": 3183.297,
+    "registros": 396
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "PUNO",
+    "PRODUCTO": "ALFALFA",
+    "rendimiento_promedio": 1.851,
+    "produccion_total": 1232.7495,
+    "registros": 666
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "PUNO",
+    "PRODUCTO": "CAFE",
+    "rendimiento_promedio": 0.8802,
+    "produccion_total": 95.0569,
+    "registros": 108
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "PUNO",
+    "PRODUCTO": "CHIRIMOYA",
+    "rendimiento_promedio": 1.8921,
+    "produccion_total": 17.029,
+    "registros": 9
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "PUNO",
+    "PRODUCTO": "FRIJOL",
+    "rendimiento_promedio": 1.7556,
+    "produccion_total": 189.604,
+    "registros": 108
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "PUNO",
+    "PRODUCTO": "GRANADILLA",
+    "rendimiento_promedio": 2.1385,
+    "produccion_total": 134.7229,
+    "registros": 63
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "PUNO",
+    "PRODUCTO": "LIMON",
+    "rendimiento_promedio": 2.3643,
+    "produccion_total": 85.1146,
+    "registros": 36
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "PUNO",
+    "PRODUCTO": "MAIZ AMARILLO DURO",
+    "rendimiento_promedio": 2.4699,
+    "produccion_total": 355.6677,
+    "registros": 144
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "PUNO",
+    "PRODUCTO": "MELOCOTON",
+    "rendimiento_promedio": 2.4359,
+    "produccion_total": 87.6933,
+    "registros": 36
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "PUNO",
+    "PRODUCTO": "NARANJA",
+    "rendimiento_promedio": 1.6276,
+    "produccion_total": 131.8336,
+    "registros": 81
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "PUNO",
+    "PRODUCTO": "PALTA",
+    "rendimiento_promedio": 1.7384,
+    "produccion_total": 125.165,
+    "registros": 72
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "PUNO",
+    "PRODUCTO": "PAPA",
+    "rendimiento_promedio": 15.6451,
+    "produccion_total": 14784.5947,
+    "registros": 945
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "PUNO",
+    "PRODUCTO": "PLATANO",
+    "rendimiento_promedio": 1.3414,
+    "produccion_total": 108.6557,
+    "registros": 81
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "PUNO",
+    "PRODUCTO": "YUCA",
+    "rendimiento_promedio": 18.4778,
+    "produccion_total": 1829.3064,
+    "registros": 99
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "SAN MARTIN",
+    "PRODUCTO": "BRAQUEARIA",
+    "rendimiento_promedio": 3.2941,
+    "produccion_total": 2253.1429,
+    "registros": 684
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "SAN MARTIN",
+    "PRODUCTO": "CAFE",
+    "rendimiento_promedio": 0.4213,
+    "produccion_total": 246.4407,
+    "registros": 585
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "SAN MARTIN",
+    "PRODUCTO": "CHIRIMOYA",
+    "rendimiento_promedio": 1.2475,
+    "produccion_total": 78.5913,
+    "registros": 63
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "SAN MARTIN",
+    "PRODUCTO": "FRIJOL",
+    "rendimiento_promedio": 1.3353,
+    "produccion_total": 2109.3679,
+    "registros": 693
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "SAN MARTIN",
+    "PRODUCTO": "LIMON",
+    "rendimiento_promedio": 1.5267,
+    "produccion_total": 975.5646,
+    "registros": 639
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "SAN MARTIN",
+    "PRODUCTO": "MAIZ AMARILLO DURO",
+    "rendimiento_promedio": 3.2275,
+    "produccion_total": 16478.3764,
+    "registros": 693
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "SAN MARTIN",
+    "PRODUCTO": "MANGO",
+    "rendimiento_promedio": 4.9479,
+    "produccion_total": 979.6864,
+    "registros": 198
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "SAN MARTIN",
+    "PRODUCTO": "NARANJA",
+    "rendimiento_promedio": 1.2525,
+    "produccion_total": 834.1598,
+    "registros": 666
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "SAN MARTIN",
+    "PRODUCTO": "PACAE O GUABO",
+    "rendimiento_promedio": 2.3529,
+    "produccion_total": 1079.9774,
+    "registros": 459
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "SAN MARTIN",
+    "PRODUCTO": "PALTA",
+    "rendimiento_promedio": 1.7806,
+    "produccion_total": 464.7265,
+    "registros": 261
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "SAN MARTIN",
+    "PRODUCTO": "PAPA",
+    "rendimiento_promedio": 8.2982,
+    "produccion_total": 4854.4254,
+    "registros": 585
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "SAN MARTIN",
+    "PRODUCTO": "PASTO ELEFANTE",
+    "rendimiento_promedio": 2.4073,
+    "produccion_total": 1386.5946,
+    "registros": 576
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "SAN MARTIN",
+    "PRODUCTO": "PLATANO",
+    "rendimiento_promedio": 1.083,
+    "produccion_total": 750.5338,
+    "registros": 693
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "SAN MARTIN",
+    "PRODUCTO": "YUCA",
+    "rendimiento_promedio": 18.8866,
+    "produccion_total": 78907.9408,
+    "registros": 693
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "TACNA",
+    "PRODUCTO": "ALFALFA",
+    "rendimiento_promedio": 3.0306,
+    "produccion_total": 709.159,
+    "registros": 234
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "TACNA",
+    "PRODUCTO": "FRIJOL",
+    "rendimiento_promedio": 7.033,
+    "produccion_total": 862.499,
+    "registros": 27
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "TACNA",
+    "PRODUCTO": "MAIZ AMARILLO DURO",
+    "rendimiento_promedio": 3.7801,
+    "produccion_total": 68.0417,
+    "registros": 18
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "TACNA",
+    "PRODUCTO": "MANZANA",
+    "rendimiento_promedio": 2.8225,
+    "produccion_total": 381.0315,
+    "registros": 135
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "TACNA",
+    "PRODUCTO": "MELOCOTON",
+    "rendimiento_promedio": 3.0833,
+    "produccion_total": 249.7463,
+    "registros": 81
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "TACNA",
+    "PRODUCTO": "NARANJA",
+    "rendimiento_promedio": 4.4342,
+    "produccion_total": 199.5371,
+    "registros": 45
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "TACNA",
+    "PRODUCTO": "PALTA",
+    "rendimiento_promedio": 6.4665,
+    "produccion_total": 756.5823,
+    "registros": 117
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "TACNA",
+    "PRODUCTO": "PAPA",
+    "rendimiento_promedio": 20.0626,
+    "produccion_total": 5060.124,
+    "registros": 225
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "TACNA",
+    "PRODUCTO": "PLATANO",
+    "rendimiento_promedio": 4.509,
+    "produccion_total": 40.5813,
+    "registros": 9
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "TACNA",
+    "PRODUCTO": "TUNA",
+    "rendimiento_promedio": 2.8991,
+    "produccion_total": 234.8288,
+    "registros": 81
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "TUMBES",
+    "PRODUCTO": "FRIJOL",
+    "rendimiento_promedio": 1.6741,
+    "produccion_total": 165.7397,
+    "registros": 99
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "TUMBES",
+    "PRODUCTO": "LIMON",
+    "rendimiento_promedio": 1.3615,
+    "produccion_total": 159.3008,
+    "registros": 117
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "TUMBES",
+    "PRODUCTO": "MAIZ AMARILLO DURO",
+    "rendimiento_promedio": 4.6156,
+    "produccion_total": 661.228,
+    "registros": 117
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "TUMBES",
+    "PRODUCTO": "MANGO",
+    "rendimiento_promedio": 2.1051,
+    "produccion_total": 227.3516,
+    "registros": 108
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "TUMBES",
+    "PRODUCTO": "NARANJA",
+    "rendimiento_promedio": 6.2819,
+    "produccion_total": 508.8367,
+    "registros": 81
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "TUMBES",
+    "PRODUCTO": "PAPA",
+    "rendimiento_promedio": 7.4081,
+    "produccion_total": 866.7527,
+    "registros": 117
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "TUMBES",
+    "PRODUCTO": "PASTO ELEFANTE",
+    "rendimiento_promedio": 2.322,
+    "produccion_total": 229.8781,
+    "registros": 99
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "TUMBES",
+    "PRODUCTO": "PLATANO",
+    "rendimiento_promedio": 1.2085,
+    "produccion_total": 141.3992,
+    "registros": 117
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "TUMBES",
+    "PRODUCTO": "YUCA",
+    "rendimiento_promedio": 16.3017,
+    "produccion_total": 3737.4527,
+    "registros": 117
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "UCAYALI",
+    "PRODUCTO": "CAFE",
+    "rendimiento_promedio": 0.5011,
+    "produccion_total": 72.1524,
+    "registros": 144
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "UCAYALI",
+    "PRODUCTO": "FRIJOL",
+    "rendimiento_promedio": 1.8342,
+    "produccion_total": 280.6314,
+    "registros": 153
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "UCAYALI",
+    "PRODUCTO": "GRANADILLA",
+    "rendimiento_promedio": 1.7896,
+    "produccion_total": 257.7016,
+    "registros": 144
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "UCAYALI",
+    "PRODUCTO": "LIMON",
+    "rendimiento_promedio": 1.3359,
+    "produccion_total": 204.3926,
+    "registros": 153
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "UCAYALI",
+    "PRODUCTO": "MAIZ AMARILLO DURO",
+    "rendimiento_promedio": 3.8573,
+    "produccion_total": 16724.9651,
+    "registros": 153
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "UCAYALI",
+    "PRODUCTO": "MANGO",
+    "rendimiento_promedio": 1.7182,
+    "produccion_total": 262.8863,
+    "registros": 153
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "UCAYALI",
+    "PRODUCTO": "NARANJA",
+    "rendimiento_promedio": 1.2658,
+    "produccion_total": 193.6677,
+    "registros": 153
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "UCAYALI",
+    "PRODUCTO": "PACAE O GUABO",
+    "rendimiento_promedio": 1.4502,
+    "produccion_total": 221.874,
+    "registros": 153
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "UCAYALI",
+    "PRODUCTO": "PALTA",
+    "rendimiento_promedio": 1.3867,
+    "produccion_total": 199.6884,
+    "registros": 144
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "UCAYALI",
+    "PRODUCTO": "PAPA",
+    "rendimiento_promedio": 9.0075,
+    "produccion_total": 1378.1545,
+    "registros": 153
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "UCAYALI",
+    "PRODUCTO": "PLATANO",
+    "rendimiento_promedio": 1.1175,
+    "produccion_total": 170.9736,
+    "registros": 153
+  },
+  {
+    "AÑO": 2026,
+    "DEPARTAMENTO": "UCAYALI",
+    "PRODUCTO": "YUCA",
+    "rendimiento_promedio": 14.6051,
+    "produccion_total": 68360.1486,
+    "registros": 153
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "ANCASH",
+    "PRODUCTO": "ALFALFA",
+    "rendimiento_promedio": 2.018,
+    "produccion_total": 4528.5011,
+    "registros": 2244
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "ANCASH",
+    "PRODUCTO": "BRAQUEARIA",
+    "rendimiento_promedio": 5.7634,
+    "produccion_total": 3250.5852,
+    "registros": 564
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "ANCASH",
+    "PRODUCTO": "CAFE",
+    "rendimiento_promedio": 0.5638,
+    "produccion_total": 392.412,
+    "registros": 696
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "ANCASH",
+    "PRODUCTO": "CHIRIMOYA",
+    "rendimiento_promedio": 1.2716,
+    "produccion_total": 320.4425,
+    "registros": 252
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "ANCASH",
+    "PRODUCTO": "FRIJOL",
+    "rendimiento_promedio": 1.3524,
+    "produccion_total": 2733.2837,
+    "registros": 1848
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "ANCASH",
+    "PRODUCTO": "GRANADILLA",
+    "rendimiento_promedio": 1.8665,
+    "produccion_total": 716.7221,
+    "registros": 384
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "ANCASH",
+    "PRODUCTO": "LIMON",
+    "rendimiento_promedio": 1.3186,
+    "produccion_total": 490.5009,
+    "registros": 372
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "ANCASH",
+    "PRODUCTO": "MAIZ AMARILLO DURO",
+    "rendimiento_promedio": 3.6731,
+    "produccion_total": 96771.4776,
+    "registros": 1284
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "ANCASH",
+    "PRODUCTO": "MANGO",
+    "rendimiento_promedio": 1.8171,
+    "produccion_total": 610.5555,
+    "registros": 336
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "ANCASH",
+    "PRODUCTO": "MANZANA",
+    "rendimiento_promedio": 1.9559,
+    "produccion_total": 797.9994,
+    "registros": 408
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "ANCASH",
+    "PRODUCTO": "MELOCOTON",
+    "rendimiento_promedio": 1.779,
+    "produccion_total": 875.2811,
+    "registros": 492
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "ANCASH",
+    "PRODUCTO": "NARANJA",
+    "rendimiento_promedio": 1.3975,
+    "produccion_total": 1056.5121,
+    "registros": 756
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "ANCASH",
+    "PRODUCTO": "PACAE O GUABO",
+    "rendimiento_promedio": 1.6405,
+    "produccion_total": 551.2049,
+    "registros": 336
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "ANCASH",
+    "PRODUCTO": "PALTA",
+    "rendimiento_promedio": 1.2575,
+    "produccion_total": 1327.9356,
+    "registros": 1056
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "ANCASH",
+    "PRODUCTO": "PAPA",
+    "rendimiento_promedio": 11.083,
+    "produccion_total": 49248.613,
+    "registros": 2832
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "ANCASH",
+    "PRODUCTO": "PASTO ELEFANTE",
+    "rendimiento_promedio": 1.9809,
+    "produccion_total": 1259.8384,
+    "registros": 636
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "ANCASH",
+    "PRODUCTO": "PLATANO",
+    "rendimiento_promedio": 2.2604,
+    "produccion_total": 2034.3447,
+    "registros": 900
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "ANCASH",
+    "PRODUCTO": "RYE GRASS",
+    "rendimiento_promedio": 3.046,
+    "produccion_total": 1571.7225,
+    "registros": 516
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "ANCASH",
+    "PRODUCTO": "TUNA",
+    "rendimiento_promedio": 1.5854,
+    "produccion_total": 152.1966,
+    "registros": 96
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "ANCASH",
+    "PRODUCTO": "YUCA",
+    "rendimiento_promedio": 14.0951,
+    "produccion_total": 157156.829,
+    "registros": 1080
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "APURIMAC",
+    "PRODUCTO": "ALFALFA",
+    "rendimiento_promedio": 2.6752,
+    "produccion_total": 2664.5039,
+    "registros": 996
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "APURIMAC",
+    "PRODUCTO": "CHIRIMOYA",
+    "rendimiento_promedio": 1.5692,
+    "produccion_total": 715.5696,
+    "registros": 456
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "APURIMAC",
+    "PRODUCTO": "FRIJOL",
+    "rendimiento_promedio": 2.2155,
+    "produccion_total": 1607.0722,
+    "registros": 684
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "APURIMAC",
+    "PRODUCTO": "GRANADILLA",
+    "rendimiento_promedio": 2.1189,
+    "produccion_total": 508.548,
+    "registros": 240
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "APURIMAC",
+    "PRODUCTO": "LIMON",
+    "rendimiento_promedio": 1.59,
+    "produccion_total": 553.311,
+    "registros": 348
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "APURIMAC",
+    "PRODUCTO": "MAIZ AMARILLO DURO",
+    "rendimiento_promedio": 2.6904,
+    "produccion_total": 1355.9416,
+    "registros": 504
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "APURIMAC",
+    "PRODUCTO": "MANGO",
+    "rendimiento_promedio": 2.0355,
+    "produccion_total": 366.3974,
+    "registros": 180
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "APURIMAC",
+    "PRODUCTO": "MANZANA",
+    "rendimiento_promedio": 2.0682,
+    "produccion_total": 1265.7147,
+    "registros": 612
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "APURIMAC",
+    "PRODUCTO": "MELOCOTON",
+    "rendimiento_promedio": 2.0411,
+    "produccion_total": 1690.0545,
+    "registros": 828
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "APURIMAC",
+    "PRODUCTO": "NARANJA",
+    "rendimiento_promedio": 1.4706,
+    "produccion_total": 617.6709,
+    "registros": 420
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "APURIMAC",
+    "PRODUCTO": "PACAE O GUABO",
+    "rendimiento_promedio": 1.8892,
+    "produccion_total": 453.398,
+    "registros": 240
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "APURIMAC",
+    "PRODUCTO": "PALTA",
+    "rendimiento_promedio": 1.634,
+    "produccion_total": 1156.8457,
+    "registros": 708
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "APURIMAC",
+    "PRODUCTO": "PAPA",
+    "rendimiento_promedio": 15.4712,
+    "produccion_total": 15969.2408,
+    "registros": 1008
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "APURIMAC",
+    "PRODUCTO": "PASTO ELEFANTE",
+    "rendimiento_promedio": 3.7895,
+    "produccion_total": 45.4744,
+    "registros": 12
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "APURIMAC",
+    "PRODUCTO": "PLATANO",
+    "rendimiento_promedio": 1.2164,
+    "produccion_total": 248.1529,
+    "registros": 204
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "APURIMAC",
+    "PRODUCTO": "RYE GRASS",
+    "rendimiento_promedio": 2.867,
+    "produccion_total": 1548.1989,
+    "registros": 540
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "APURIMAC",
+    "PRODUCTO": "TUNA",
+    "rendimiento_promedio": 1.7627,
+    "produccion_total": 1480.6392,
+    "registros": 840
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "APURIMAC",
+    "PRODUCTO": "YUCA",
+    "rendimiento_promedio": 11.8332,
+    "produccion_total": 3123.9567,
+    "registros": 264
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "AREQUIPA",
+    "PRODUCTO": "ALFALFA",
+    "rendimiento_promedio": 4.2525,
+    "produccion_total": 4949.902,
+    "registros": 1164
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "AREQUIPA",
+    "PRODUCTO": "CHIRIMOYA",
+    "rendimiento_promedio": 3.6551,
+    "produccion_total": 175.4427,
+    "registros": 48
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "AREQUIPA",
+    "PRODUCTO": "FRIJOL",
+    "rendimiento_promedio": 5.2521,
+    "produccion_total": 5304.847,
+    "registros": 408
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "AREQUIPA",
+    "PRODUCTO": "LIMON",
+    "rendimiento_promedio": 3.9566,
+    "produccion_total": 522.27,
+    "registros": 132
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "AREQUIPA",
+    "PRODUCTO": "MAIZ AMARILLO DURO",
+    "rendimiento_promedio": 6.2015,
+    "produccion_total": 967.4265,
+    "registros": 156
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "AREQUIPA",
+    "PRODUCTO": "MANGO",
+    "rendimiento_promedio": 4.2825,
+    "produccion_total": 205.559,
+    "registros": 48
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "AREQUIPA",
+    "PRODUCTO": "MANZANA",
+    "rendimiento_promedio": 6.2831,
+    "produccion_total": 3694.4448,
+    "registros": 588
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "AREQUIPA",
+    "PRODUCTO": "MELOCOTON",
+    "rendimiento_promedio": 4.711,
+    "produccion_total": 1582.8991,
+    "registros": 336
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "AREQUIPA",
+    "PRODUCTO": "NARANJA",
+    "rendimiento_promedio": 3.8233,
+    "produccion_total": 275.2744,
+    "registros": 72
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "AREQUIPA",
+    "PRODUCTO": "PACAE O GUABO",
+    "rendimiento_promedio": 4.22,
+    "produccion_total": 557.0393,
+    "registros": 132
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "AREQUIPA",
+    "PRODUCTO": "PALTA",
+    "rendimiento_promedio": 3.9879,
+    "produccion_total": 2009.9124,
+    "registros": 504
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "AREQUIPA",
+    "PRODUCTO": "PAPA",
+    "rendimiento_promedio": 17.2767,
+    "produccion_total": 87653.51,
+    "registros": 1068
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "AREQUIPA",
+    "PRODUCTO": "PLATANO",
+    "rendimiento_promedio": 3.6241,
+    "produccion_total": 86.9794,
+    "registros": 24
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "AREQUIPA",
+    "PRODUCTO": "RYE GRASS",
+    "rendimiento_promedio": 8.4965,
+    "produccion_total": 203.9156,
+    "registros": 24
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "AREQUIPA",
+    "PRODUCTO": "TUNA",
+    "rendimiento_promedio": 3.1114,
+    "produccion_total": 1717.4743,
+    "registros": 552
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "AREQUIPA",
+    "PRODUCTO": "YUCA",
+    "rendimiento_promedio": 14.6251,
+    "produccion_total": 2808.0272,
+    "registros": 192
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "AYACUCHO",
+    "PRODUCTO": "ALFALFA",
+    "rendimiento_promedio": 2.767,
+    "produccion_total": 3685.657,
+    "registros": 1332
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "AYACUCHO",
+    "PRODUCTO": "CAFE",
+    "rendimiento_promedio": 1.0245,
+    "produccion_total": 122.9418,
+    "registros": 120
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "AYACUCHO",
+    "PRODUCTO": "CHIRIMOYA",
+    "rendimiento_promedio": 1.4786,
+    "produccion_total": 319.3675,
+    "registros": 216
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "AYACUCHO",
+    "PRODUCTO": "FRIJOL",
+    "rendimiento_promedio": 2.1738,
+    "produccion_total": 2478.1014,
+    "registros": 1140
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "AYACUCHO",
+    "PRODUCTO": "GRANADILLA",
+    "rendimiento_promedio": 2.2328,
+    "produccion_total": 187.5575,
+    "registros": 84
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "AYACUCHO",
+    "PRODUCTO": "LIMON",
+    "rendimiento_promedio": 1.6842,
+    "produccion_total": 929.7011,
+    "registros": 552
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "AYACUCHO",
+    "PRODUCTO": "MAIZ AMARILLO DURO",
+    "rendimiento_promedio": 2.6751,
+    "produccion_total": 1219.824,
+    "registros": 456
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "AYACUCHO",
+    "PRODUCTO": "MANGO",
+    "rendimiento_promedio": 2.5255,
+    "produccion_total": 515.196,
+    "registros": 204
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "AYACUCHO",
+    "PRODUCTO": "MANZANA",
+    "rendimiento_promedio": 2.0871,
+    "produccion_total": 1177.102,
+    "registros": 564
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "AYACUCHO",
+    "PRODUCTO": "MELOCOTON",
+    "rendimiento_promedio": 2.0854,
+    "produccion_total": 1851.8079,
+    "registros": 888
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "AYACUCHO",
+    "PRODUCTO": "NARANJA",
+    "rendimiento_promedio": 1.6048,
+    "produccion_total": 1270.9942,
+    "registros": 792
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "AYACUCHO",
+    "PRODUCTO": "PACAE O GUABO",
+    "rendimiento_promedio": 1.9637,
+    "produccion_total": 848.336,
+    "registros": 432
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "AYACUCHO",
+    "PRODUCTO": "PALTA",
+    "rendimiento_promedio": 1.7391,
+    "produccion_total": 2045.1384,
+    "registros": 1176
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "AYACUCHO",
+    "PRODUCTO": "PAPA",
+    "rendimiento_promedio": 12.6002,
+    "produccion_total": 17841.9484,
+    "registros": 1416
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "AYACUCHO",
+    "PRODUCTO": "PASTO ELEFANTE",
+    "rendimiento_promedio": 2.3203,
+    "produccion_total": 167.0648,
+    "registros": 72
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "AYACUCHO",
+    "PRODUCTO": "PLATANO",
+    "rendimiento_promedio": 1.4296,
+    "produccion_total": 223.0161,
+    "registros": 156
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "AYACUCHO",
+    "PRODUCTO": "TUNA",
+    "rendimiento_promedio": 1.7518,
+    "produccion_total": 2207.2895,
+    "registros": 1260
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "AYACUCHO",
+    "PRODUCTO": "YUCA",
+    "rendimiento_promedio": 11.068,
+    "produccion_total": 1992.2454,
+    "registros": 180
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "CAJAMARCA",
+    "PRODUCTO": "ALFALFA",
+    "rendimiento_promedio": 1.9213,
+    "produccion_total": 1498.5772,
+    "registros": 780
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "CAJAMARCA",
+    "PRODUCTO": "CAFE",
+    "rendimiento_promedio": 0.8236,
+    "produccion_total": 602.8509,
+    "registros": 732
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "CAJAMARCA",
+    "PRODUCTO": "CHIRIMOYA",
+    "rendimiento_promedio": 1.6609,
+    "produccion_total": 637.7832,
+    "registros": 384
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "CAJAMARCA",
+    "PRODUCTO": "FRIJOL",
+    "rendimiento_promedio": 1.8327,
+    "produccion_total": 3630.4931,
+    "registros": 1476
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "CAJAMARCA",
+    "PRODUCTO": "GRANADILLA",
+    "rendimiento_promedio": 2.2059,
+    "produccion_total": 1005.9067,
+    "registros": 456
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "CAJAMARCA",
+    "PRODUCTO": "LIMON",
+    "rendimiento_promedio": 1.5664,
+    "produccion_total": 751.8686,
+    "registros": 480
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "CAJAMARCA",
+    "PRODUCTO": "MAIZ AMARILLO DURO",
+    "rendimiento_promedio": 2.8711,
+    "produccion_total": 7175.3387,
+    "registros": 1164
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "CAJAMARCA",
+    "PRODUCTO": "MANGO",
+    "rendimiento_promedio": 2.0219,
+    "produccion_total": 558.0377,
+    "registros": 276
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "CAJAMARCA",
+    "PRODUCTO": "MANZANA",
+    "rendimiento_promedio": 2.2609,
+    "produccion_total": 108.5229,
+    "registros": 48
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "CAJAMARCA",
+    "PRODUCTO": "NARANJA",
+    "rendimiento_promedio": 1.41,
+    "produccion_total": 981.377,
+    "registros": 696
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "CAJAMARCA",
+    "PRODUCTO": "PACAE O GUABO",
+    "rendimiento_promedio": 1.7029,
+    "produccion_total": 674.336,
+    "registros": 396
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "CAJAMARCA",
+    "PRODUCTO": "PALTA",
+    "rendimiento_promedio": 1.5447,
+    "produccion_total": 1056.5514,
+    "registros": 684
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "CAJAMARCA",
+    "PRODUCTO": "PAPA",
+    "rendimiento_promedio": 11.1084,
+    "produccion_total": 42212.2169,
+    "registros": 1392
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "CAJAMARCA",
+    "PRODUCTO": "PASTO ELEFANTE",
+    "rendimiento_promedio": 2.0098,
+    "produccion_total": 554.7184,
+    "registros": 276
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "CAJAMARCA",
+    "PRODUCTO": "PLATANO",
+    "rendimiento_promedio": 1.146,
+    "produccion_total": 1017.6594,
+    "registros": 888
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "CAJAMARCA",
+    "PRODUCTO": "RYE GRASS",
+    "rendimiento_promedio": 4.4023,
+    "produccion_total": 4596.0366,
+    "registros": 1044
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "CAJAMARCA",
+    "PRODUCTO": "TUNA",
+    "rendimiento_promedio": 1.6379,
+    "produccion_total": 235.8575,
+    "registros": 144
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "CAJAMARCA",
+    "PRODUCTO": "YUCA",
+    "rendimiento_promedio": 8.6507,
+    "produccion_total": 53096.6708,
+    "registros": 1092
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "CUSCO",
+    "PRODUCTO": "ALFALFA",
+    "rendimiento_promedio": 4.6675,
+    "produccion_total": 4816.8951,
+    "registros": 1032
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "CUSCO",
+    "PRODUCTO": "CAFE",
+    "rendimiento_promedio": 1.5408,
+    "produccion_total": 277.339,
+    "registros": 180
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "CUSCO",
+    "PRODUCTO": "CHIRIMOYA",
+    "rendimiento_promedio": 2.5138,
+    "produccion_total": 180.9909,
+    "registros": 72
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "CUSCO",
+    "PRODUCTO": "FRIJOL",
+    "rendimiento_promedio": 2.5147,
+    "produccion_total": 1357.9479,
+    "registros": 540
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "CUSCO",
+    "PRODUCTO": "GRANADILLA",
+    "rendimiento_promedio": 3.0666,
+    "produccion_total": 294.3929,
+    "registros": 96
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "CUSCO",
+    "PRODUCTO": "LIMON",
+    "rendimiento_promedio": 2.6442,
+    "produccion_total": 317.301,
+    "registros": 120
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "CUSCO",
+    "PRODUCTO": "MAIZ AMARILLO DURO",
+    "rendimiento_promedio": 3.0675,
+    "produccion_total": 918.5685,
+    "registros": 276
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "CUSCO",
+    "PRODUCTO": "MANGO",
+    "rendimiento_promedio": 2.7355,
+    "produccion_total": 295.4292,
+    "registros": 108
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "CUSCO",
+    "PRODUCTO": "MANZANA",
+    "rendimiento_promedio": 3.2312,
+    "produccion_total": 814.2506,
+    "registros": 252
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "CUSCO",
+    "PRODUCTO": "MELOCOTON",
+    "rendimiento_promedio": 2.9785,
+    "produccion_total": 929.2803,
+    "registros": 312
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "CUSCO",
+    "PRODUCTO": "NARANJA",
+    "rendimiento_promedio": 2.4586,
+    "produccion_total": 501.5535,
+    "registros": 204
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "CUSCO",
+    "PRODUCTO": "PACAE O GUABO",
+    "rendimiento_promedio": 2.4697,
+    "produccion_total": 29.6368,
+    "registros": 12
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "CUSCO",
+    "PRODUCTO": "PALTA",
+    "rendimiento_promedio": 2.0762,
+    "produccion_total": 498.2868,
+    "registros": 240
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "CUSCO",
+    "PRODUCTO": "PAPA",
+    "rendimiento_promedio": 13.5059,
+    "produccion_total": 17341.5378,
+    "registros": 1284
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "CUSCO",
+    "PRODUCTO": "PLATANO",
+    "rendimiento_promedio": 1.9299,
+    "produccion_total": 347.3776,
+    "registros": 180
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "CUSCO",
+    "PRODUCTO": "RYE GRASS",
+    "rendimiento_promedio": 3.2384,
+    "produccion_total": 1282.4197,
+    "registros": 396
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "CUSCO",
+    "PRODUCTO": "TUNA",
+    "rendimiento_promedio": 3.0504,
+    "produccion_total": 366.0481,
+    "registros": 120
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "CUSCO",
+    "PRODUCTO": "YUCA",
+    "rendimiento_promedio": 10.7309,
+    "produccion_total": 34459.3624,
+    "registros": 252
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "HUANCAVELICA",
+    "PRODUCTO": "ALFALFA",
+    "rendimiento_promedio": 1.9949,
+    "produccion_total": 2034.7475,
+    "registros": 1020
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "HUANCAVELICA",
+    "PRODUCTO": "CAFE",
+    "rendimiento_promedio": 0.8852,
+    "produccion_total": 63.7331,
+    "registros": 72
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "HUANCAVELICA",
+    "PRODUCTO": "CHIRIMOYA",
+    "rendimiento_promedio": 1.1933,
+    "produccion_total": 386.6435,
+    "registros": 324
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "HUANCAVELICA",
+    "PRODUCTO": "FRIJOL",
+    "rendimiento_promedio": 1.6994,
+    "produccion_total": 1203.1854,
+    "registros": 708
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "HUANCAVELICA",
+    "PRODUCTO": "GRANADILLA",
+    "rendimiento_promedio": 2.0595,
+    "produccion_total": 123.57,
+    "registros": 60
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "HUANCAVELICA",
+    "PRODUCTO": "LIMON",
+    "rendimiento_promedio": 1.4485,
+    "produccion_total": 382.3921,
+    "registros": 264
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "HUANCAVELICA",
+    "PRODUCTO": "MAIZ AMARILLO DURO",
+    "rendimiento_promedio": 1.8169,
+    "produccion_total": 479.6512,
+    "registros": 264
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "HUANCAVELICA",
+    "PRODUCTO": "MANGO",
+    "rendimiento_promedio": 1.7953,
+    "produccion_total": 193.8922,
+    "registros": 108
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "HUANCAVELICA",
+    "PRODUCTO": "MANZANA",
+    "rendimiento_promedio": 1.361,
+    "produccion_total": 522.6365,
+    "registros": 384
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "HUANCAVELICA",
+    "PRODUCTO": "MELOCOTON",
+    "rendimiento_promedio": 1.626,
+    "produccion_total": 760.9886,
+    "registros": 468
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "HUANCAVELICA",
+    "PRODUCTO": "NARANJA",
+    "rendimiento_promedio": 1.2952,
+    "produccion_total": 404.0905,
+    "registros": 312
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "HUANCAVELICA",
+    "PRODUCTO": "PACAE O GUABO",
+    "rendimiento_promedio": 1.6444,
+    "produccion_total": 374.9206,
+    "registros": 228
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "HUANCAVELICA",
+    "PRODUCTO": "PALTA",
+    "rendimiento_promedio": 1.2663,
+    "produccion_total": 1124.5162,
+    "registros": 888
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "HUANCAVELICA",
+    "PRODUCTO": "PAPA",
+    "rendimiento_promedio": 11.415,
+    "produccion_total": 15476.626,
+    "registros": 1188
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "HUANCAVELICA",
+    "PRODUCTO": "PLATANO",
+    "rendimiento_promedio": 1.1012,
+    "produccion_total": 251.0704,
+    "registros": 228
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "HUANCAVELICA",
+    "PRODUCTO": "RYE GRASS",
+    "rendimiento_promedio": 5.6538,
+    "produccion_total": 746.3054,
+    "registros": 132
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "HUANCAVELICA",
+    "PRODUCTO": "TUNA",
+    "rendimiento_promedio": 1.5005,
+    "produccion_total": 900.33,
+    "registros": 600
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "HUANCAVELICA",
+    "PRODUCTO": "YUCA",
+    "rendimiento_promedio": 9.5552,
+    "produccion_total": 114.6626,
+    "registros": 12
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "HUANUCO",
+    "PRODUCTO": "ALFALFA",
+    "rendimiento_promedio": 2.0734,
+    "produccion_total": 1268.9421,
+    "registros": 612
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "HUANUCO",
+    "PRODUCTO": "BRAQUEARIA",
+    "rendimiento_promedio": 2.7946,
+    "produccion_total": 402.4213,
+    "registros": 144
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "HUANUCO",
+    "PRODUCTO": "CAFE",
+    "rendimiento_promedio": 0.9732,
+    "produccion_total": 268.6157,
+    "registros": 276
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "HUANUCO",
+    "PRODUCTO": "CHIRIMOYA",
+    "rendimiento_promedio": 1.522,
+    "produccion_total": 200.8998,
+    "registros": 132
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "HUANUCO",
+    "PRODUCTO": "FRIJOL",
+    "rendimiento_promedio": 1.9368,
+    "produccion_total": 2876.1885,
+    "registros": 612
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "HUANUCO",
+    "PRODUCTO": "GRANADILLA",
+    "rendimiento_promedio": 2.0525,
+    "produccion_total": 344.8186,
+    "registros": 168
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "HUANUCO",
+    "PRODUCTO": "LIMON",
+    "rendimiento_promedio": 1.5133,
+    "produccion_total": 490.3029,
+    "registros": 324
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "HUANUCO",
+    "PRODUCTO": "MAIZ AMARILLO DURO",
+    "rendimiento_promedio": 3.2133,
+    "produccion_total": 12814.4087,
+    "registros": 492
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "HUANUCO",
+    "PRODUCTO": "MANGO",
+    "rendimiento_promedio": 2.3661,
+    "produccion_total": 738.235,
+    "registros": 312
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "HUANUCO",
+    "PRODUCTO": "MANZANA",
+    "rendimiento_promedio": 1.9243,
+    "produccion_total": 161.6425,
+    "registros": 84
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "HUANUCO",
+    "PRODUCTO": "MELOCOTON",
+    "rendimiento_promedio": 1.9896,
+    "produccion_total": 501.3734,
+    "registros": 252
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "HUANUCO",
+    "PRODUCTO": "NARANJA",
+    "rendimiento_promedio": 1.4166,
+    "produccion_total": 373.992,
+    "registros": 264
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "HUANUCO",
+    "PRODUCTO": "PACAE O GUABO",
+    "rendimiento_promedio": 1.7647,
+    "produccion_total": 465.8915,
+    "registros": 264
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "HUANUCO",
+    "PRODUCTO": "PALTA",
+    "rendimiento_promedio": 1.621,
+    "produccion_total": 894.7771,
+    "registros": 552
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "HUANUCO",
+    "PRODUCTO": "PAPA",
+    "rendimiento_promedio": 14.8148,
+    "produccion_total": 92316.3592,
+    "registros": 936
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "HUANUCO",
+    "PRODUCTO": "PLATANO",
+    "rendimiento_promedio": 1.2329,
+    "produccion_total": 443.8518,
+    "registros": 360
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "HUANUCO",
+    "PRODUCTO": "RYE GRASS",
+    "rendimiento_promedio": 2.5976,
+    "produccion_total": 623.4265,
+    "registros": 240
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "HUANUCO",
+    "PRODUCTO": "TUNA",
+    "rendimiento_promedio": 1.5293,
+    "produccion_total": 256.9141,
+    "registros": 168
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "HUANUCO",
+    "PRODUCTO": "YUCA",
+    "rendimiento_promedio": 12.5277,
+    "produccion_total": 54009.8573,
+    "registros": 324
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "ICA",
+    "PRODUCTO": "ALFALFA",
+    "rendimiento_promedio": 2.5485,
+    "produccion_total": 1100.9631,
+    "registros": 432
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "ICA",
+    "PRODUCTO": "CHIRIMOYA",
+    "rendimiento_promedio": 2.0889,
+    "produccion_total": 300.7979,
+    "registros": 144
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "ICA",
+    "PRODUCTO": "FRIJOL",
+    "rendimiento_promedio": 2.4842,
+    "produccion_total": 804.8736,
+    "registros": 324
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "ICA",
+    "PRODUCTO": "GRANADILLA",
+    "rendimiento_promedio": 3.0255,
+    "produccion_total": 145.2248,
+    "registros": 48
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "ICA",
+    "PRODUCTO": "LIMON",
+    "rendimiento_promedio": 2.4744,
+    "produccion_total": 593.8455,
+    "registros": 240
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "ICA",
+    "PRODUCTO": "MAIZ AMARILLO DURO",
+    "rendimiento_promedio": 5.7842,
+    "produccion_total": 67058.9284,
+    "registros": 468
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "ICA",
+    "PRODUCTO": "MANGO",
+    "rendimiento_promedio": 2.7484,
+    "produccion_total": 758.5662,
+    "registros": 276
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "ICA",
+    "PRODUCTO": "MANZANA",
+    "rendimiento_promedio": 2.8757,
+    "produccion_total": 586.6421,
+    "registros": 204
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "ICA",
+    "PRODUCTO": "MELOCOTON",
+    "rendimiento_promedio": 3.0524,
+    "produccion_total": 439.5455,
+    "registros": 144
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "ICA",
+    "PRODUCTO": "NARANJA",
+    "rendimiento_promedio": 3.2263,
+    "produccion_total": 1084.0265,
+    "registros": 336
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "ICA",
+    "PRODUCTO": "PACAE O GUABO",
+    "rendimiento_promedio": 2.3591,
+    "produccion_total": 169.8543,
+    "registros": 72
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "ICA",
+    "PRODUCTO": "PALTA",
+    "rendimiento_promedio": 2.4604,
+    "produccion_total": 1092.399,
+    "registros": 444
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "ICA",
+    "PRODUCTO": "PAPA",
+    "rendimiento_promedio": 14.4249,
+    "produccion_total": 16867.7495,
+    "registros": 396
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "ICA",
+    "PRODUCTO": "PLATANO",
+    "rendimiento_promedio": 2.2343,
+    "produccion_total": 375.3596,
+    "registros": 168
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "ICA",
+    "PRODUCTO": "TUNA",
+    "rendimiento_promedio": 2.0223,
+    "produccion_total": 582.4131,
+    "registros": 288
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "ICA",
+    "PRODUCTO": "YUCA",
+    "rendimiento_promedio": 18.5263,
+    "produccion_total": 4798.1645,
+    "registros": 216
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "JUNIN",
+    "PRODUCTO": "ALFALFA",
+    "rendimiento_promedio": 2.5484,
+    "produccion_total": 2813.3805,
+    "registros": 1104
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "JUNIN",
+    "PRODUCTO": "BRAQUEARIA",
+    "rendimiento_promedio": 2.8295,
+    "produccion_total": 509.3065,
+    "registros": 180
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "JUNIN",
+    "PRODUCTO": "CAFE",
+    "rendimiento_promedio": 1.0099,
+    "produccion_total": 290.8577,
+    "registros": 288
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "JUNIN",
+    "PRODUCTO": "CHIRIMOYA",
+    "rendimiento_promedio": 1.558,
+    "produccion_total": 56.0895,
+    "registros": 36
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "JUNIN",
+    "PRODUCTO": "FRIJOL",
+    "rendimiento_promedio": 1.8282,
+    "produccion_total": 3421.6752,
+    "registros": 264
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "JUNIN",
+    "PRODUCTO": "GRANADILLA",
+    "rendimiento_promedio": 2.1779,
+    "produccion_total": 548.8434,
+    "registros": 252
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "JUNIN",
+    "PRODUCTO": "LIMON",
+    "rendimiento_promedio": 1.6634,
+    "produccion_total": 319.3772,
+    "registros": 192
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "JUNIN",
+    "PRODUCTO": "MAIZ AMARILLO DURO",
+    "rendimiento_promedio": 3.0895,
+    "produccion_total": 11455.4149,
+    "registros": 264
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "JUNIN",
+    "PRODUCTO": "MANGO",
+    "rendimiento_promedio": 2.1584,
+    "produccion_total": 362.613,
+    "registros": 168
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "JUNIN",
+    "PRODUCTO": "MANZANA",
+    "rendimiento_promedio": 2.0905,
+    "produccion_total": 301.0332,
+    "registros": 144
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "JUNIN",
+    "PRODUCTO": "MELOCOTON",
+    "rendimiento_promedio": 2.0584,
+    "produccion_total": 321.1162,
+    "registros": 156
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "JUNIN",
+    "PRODUCTO": "NARANJA",
+    "rendimiento_promedio": 1.663,
+    "produccion_total": 299.3434,
+    "registros": 180
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "JUNIN",
+    "PRODUCTO": "PACAE O GUABO",
+    "rendimiento_promedio": 1.8582,
+    "produccion_total": 356.7667,
+    "registros": 192
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "JUNIN",
+    "PRODUCTO": "PALTA",
+    "rendimiento_promedio": 1.8942,
+    "produccion_total": 477.3297,
+    "registros": 252
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "JUNIN",
+    "PRODUCTO": "PAPA",
+    "rendimiento_promedio": 14.399,
+    "produccion_total": 43225.0688,
+    "registros": 1416
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "JUNIN",
+    "PRODUCTO": "PASTO ELEFANTE",
+    "rendimiento_promedio": 2.2599,
+    "produccion_total": 433.8964,
+    "registros": 192
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "JUNIN",
+    "PRODUCTO": "PLATANO",
+    "rendimiento_promedio": 1.4716,
+    "produccion_total": 388.5005,
+    "registros": 264
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "JUNIN",
+    "PRODUCTO": "RYE GRASS",
+    "rendimiento_promedio": 2.6922,
+    "produccion_total": 3230.6383,
+    "registros": 1200
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "JUNIN",
+    "PRODUCTO": "TUNA",
+    "rendimiento_promedio": 1.725,
+    "produccion_total": 144.9014,
+    "registros": 84
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "JUNIN",
+    "PRODUCTO": "YUCA",
+    "rendimiento_promedio": 12.1234,
+    "produccion_total": 91263.1982,
+    "registros": 228
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "LA LIBERTAD",
+    "PRODUCTO": "ALFALFA",
+    "rendimiento_promedio": 2.0622,
+    "produccion_total": 1905.4718,
+    "registros": 924
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "LA LIBERTAD",
+    "PRODUCTO": "CAFE",
+    "rendimiento_promedio": 0.9433,
+    "produccion_total": 203.7575,
+    "registros": 216
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "LA LIBERTAD",
+    "PRODUCTO": "CHIRIMOYA",
+    "rendimiento_promedio": 1.4967,
+    "produccion_total": 592.6863,
+    "registros": 396
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "LA LIBERTAD",
+    "PRODUCTO": "FRIJOL",
+    "rendimiento_promedio": 2.0716,
+    "produccion_total": 1691.5292,
+    "registros": 804
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "LA LIBERTAD",
+    "PRODUCTO": "GRANADILLA",
+    "rendimiento_promedio": 2.2416,
+    "produccion_total": 484.1809,
+    "registros": 216
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "LA LIBERTAD",
+    "PRODUCTO": "LIMON",
+    "rendimiento_promedio": 1.7197,
+    "produccion_total": 598.441,
+    "registros": 348
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "LA LIBERTAD",
+    "PRODUCTO": "MAIZ AMARILLO DURO",
+    "rendimiento_promedio": 6.0923,
+    "produccion_total": 29198.9306,
+    "registros": 768
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "LA LIBERTAD",
+    "PRODUCTO": "MANGO",
+    "rendimiento_promedio": 2.0539,
+    "produccion_total": 838.0059,
+    "registros": 408
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "LA LIBERTAD",
+    "PRODUCTO": "MANZANA",
+    "rendimiento_promedio": 2.0186,
+    "produccion_total": 775.151,
+    "registros": 384
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "LA LIBERTAD",
+    "PRODUCTO": "MELOCOTON",
+    "rendimiento_promedio": 2.0649,
+    "produccion_total": 322.1262,
+    "registros": 156
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "LA LIBERTAD",
+    "PRODUCTO": "NARANJA",
+    "rendimiento_promedio": 1.627,
+    "produccion_total": 702.8434,
+    "registros": 432
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "LA LIBERTAD",
+    "PRODUCTO": "PACAE O GUABO",
+    "rendimiento_promedio": 1.8878,
+    "produccion_total": 634.3023,
+    "registros": 336
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "LA LIBERTAD",
+    "PRODUCTO": "PALTA",
+    "rendimiento_promedio": 1.5845,
+    "produccion_total": 1197.8818,
+    "registros": 756
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "LA LIBERTAD",
+    "PRODUCTO": "PAPA",
+    "rendimiento_promedio": 15.3184,
+    "produccion_total": 68557.6773,
+    "registros": 804
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "LA LIBERTAD",
+    "PRODUCTO": "PASTO ELEFANTE",
+    "rendimiento_promedio": 2.277,
+    "produccion_total": 81.9709,
+    "registros": 36
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "LA LIBERTAD",
+    "PRODUCTO": "PLATANO",
+    "rendimiento_promedio": 1.7016,
+    "produccion_total": 898.4572,
+    "registros": 528
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "LA LIBERTAD",
+    "PRODUCTO": "TUNA",
+    "rendimiento_promedio": 1.5807,
+    "produccion_total": 493.1925,
+    "registros": 312
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "LA LIBERTAD",
+    "PRODUCTO": "YUCA",
+    "rendimiento_promedio": 12.9165,
+    "produccion_total": 15735.2097,
+    "registros": 636
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "LAMBAYEQUE",
+    "PRODUCTO": "ALFALFA",
+    "rendimiento_promedio": 2.5654,
+    "produccion_total": 892.7706,
+    "registros": 348
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "LAMBAYEQUE",
+    "PRODUCTO": "CAFE",
+    "rendimiento_promedio": 0.9344,
+    "produccion_total": 44.8515,
+    "registros": 48
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "LAMBAYEQUE",
+    "PRODUCTO": "CHIRIMOYA",
+    "rendimiento_promedio": 1.712,
+    "produccion_total": 82.1744,
+    "registros": 48
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "LAMBAYEQUE",
+    "PRODUCTO": "FRIJOL",
+    "rendimiento_promedio": 1.7516,
+    "produccion_total": 766.0522,
+    "registros": 360
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "LAMBAYEQUE",
+    "PRODUCTO": "GRANADILLA",
+    "rendimiento_promedio": 2.1948,
+    "produccion_total": 79.0111,
+    "registros": 36
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "LAMBAYEQUE",
+    "PRODUCTO": "LIMON",
+    "rendimiento_promedio": 2.1579,
+    "produccion_total": 362.526,
+    "registros": 168
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "LAMBAYEQUE",
+    "PRODUCTO": "MAIZ AMARILLO DURO",
+    "rendimiento_promedio": 5.3584,
+    "produccion_total": 17920.9607,
+    "registros": 408
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "LAMBAYEQUE",
+    "PRODUCTO": "MANGO",
+    "rendimiento_promedio": 1.9944,
+    "produccion_total": 502.5959,
+    "registros": 252
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "LAMBAYEQUE",
+    "PRODUCTO": "MANZANA",
+    "rendimiento_promedio": 2.0768,
+    "produccion_total": 74.764,
+    "registros": 36
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "LAMBAYEQUE",
+    "PRODUCTO": "MELOCOTON",
+    "rendimiento_promedio": 2.0146,
+    "produccion_total": 24.1756,
+    "registros": 12
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "LAMBAYEQUE",
+    "PRODUCTO": "NARANJA",
+    "rendimiento_promedio": 1.6519,
+    "produccion_total": 158.5865,
+    "registros": 96
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "LAMBAYEQUE",
+    "PRODUCTO": "PACAE O GUABO",
+    "rendimiento_promedio": 2.7043,
+    "produccion_total": 486.7683,
+    "registros": 180
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "LAMBAYEQUE",
+    "PRODUCTO": "PALTA",
+    "rendimiento_promedio": 1.9932,
+    "produccion_total": 334.8613,
+    "registros": 168
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "LAMBAYEQUE",
+    "PRODUCTO": "PAPA",
+    "rendimiento_promedio": 9.8145,
+    "produccion_total": 1413.2874,
+    "registros": 144
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "LAMBAYEQUE",
+    "PRODUCTO": "PLATANO",
+    "rendimiento_promedio": 3.4115,
+    "produccion_total": 573.1383,
+    "registros": 168
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "LAMBAYEQUE",
+    "PRODUCTO": "TUNA",
+    "rendimiento_promedio": 1.5914,
+    "produccion_total": 19.0965,
+    "registros": 12
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "LAMBAYEQUE",
+    "PRODUCTO": "YUCA",
+    "rendimiento_promedio": 11.4522,
+    "produccion_total": 5607.9616,
+    "registros": 252
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "LIMA",
+    "PRODUCTO": "ALFALFA",
+    "rendimiento_promedio": 5.2419,
+    "produccion_total": 8114.502,
+    "registros": 1548
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "LIMA",
+    "PRODUCTO": "CHIRIMOYA",
+    "rendimiento_promedio": 2.9289,
+    "produccion_total": 1862.8031,
+    "registros": 636
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "LIMA",
+    "PRODUCTO": "FRIJOL",
+    "rendimiento_promedio": 4.8532,
+    "produccion_total": 6467.6585,
+    "registros": 768
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "LIMA",
+    "PRODUCTO": "GRANADILLA",
+    "rendimiento_promedio": 5.4044,
+    "produccion_total": 1232.2088,
+    "registros": 228
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "LIMA",
+    "PRODUCTO": "LIMON",
+    "rendimiento_promedio": 3.4495,
+    "produccion_total": 248.3604,
+    "registros": 72
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "LIMA",
+    "PRODUCTO": "MAIZ AMARILLO DURO",
+    "rendimiento_promedio": 6.2808,
+    "produccion_total": 73011.0472,
+    "registros": 636
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "LIMA",
+    "PRODUCTO": "MANGO",
+    "rendimiento_promedio": 4.1655,
+    "produccion_total": 1349.6257,
+    "registros": 324
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "LIMA",
+    "PRODUCTO": "MANZANA",
+    "rendimiento_promedio": 4.6798,
+    "produccion_total": 5222.6983,
+    "registros": 1116
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "LIMA",
+    "PRODUCTO": "MELOCOTON",
+    "rendimiento_promedio": 4.6871,
+    "produccion_total": 4387.1123,
+    "registros": 936
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "LIMA",
+    "PRODUCTO": "NARANJA",
+    "rendimiento_promedio": 3.477,
+    "produccion_total": 1084.8153,
+    "registros": 312
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "LIMA",
+    "PRODUCTO": "PACAE O GUABO",
+    "rendimiento_promedio": 3.2908,
+    "produccion_total": 434.3865,
+    "registros": 132
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "LIMA",
+    "PRODUCTO": "PALTA",
+    "rendimiento_promedio": 2.8825,
+    "produccion_total": 3874.0578,
+    "registros": 1344
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "LIMA",
+    "PRODUCTO": "PAPA",
+    "rendimiento_promedio": 16.3892,
+    "produccion_total": 23838.8883,
+    "registros": 1440
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "LIMA",
+    "PRODUCTO": "PASTO ELEFANTE",
+    "rendimiento_promedio": 4.0954,
+    "produccion_total": 294.8679,
+    "registros": 72
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "LIMA",
+    "PRODUCTO": "PLATANO",
+    "rendimiento_promedio": 3.5807,
+    "produccion_total": 1246.0963,
+    "registros": 348
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "LIMA",
+    "PRODUCTO": "RYE GRASS",
+    "rendimiento_promedio": 7.9006,
+    "produccion_total": 94.8072,
+    "registros": 12
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "LIMA",
+    "PRODUCTO": "TUNA",
+    "rendimiento_promedio": 4.4283,
+    "produccion_total": 2763.2771,
+    "registros": 624
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "LIMA",
+    "PRODUCTO": "YUCA",
+    "rendimiento_promedio": 15.9489,
+    "produccion_total": 10325.0841,
+    "registros": 360
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "LORETO",
+    "PRODUCTO": "BRAQUEARIA",
+    "rendimiento_promedio": 2.297,
+    "produccion_total": 1130.121,
+    "registros": 492
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "LORETO",
+    "PRODUCTO": "CAFE",
+    "rendimiento_promedio": 0.6142,
+    "produccion_total": 162.1378,
+    "registros": 264
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "LORETO",
+    "PRODUCTO": "FRIJOL",
+    "rendimiento_promedio": 1.4675,
+    "produccion_total": 2145.1859,
+    "registros": 600
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "LORETO",
+    "PRODUCTO": "GRANADILLA",
+    "rendimiento_promedio": 2.0216,
+    "produccion_total": 388.1561,
+    "registros": 192
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "LORETO",
+    "PRODUCTO": "LIMON",
+    "rendimiento_promedio": 1.4002,
+    "produccion_total": 772.9226,
+    "registros": 552
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "LORETO",
+    "PRODUCTO": "MAIZ AMARILLO DURO",
+    "rendimiento_promedio": 2.2634,
+    "produccion_total": 80140.7961,
+    "registros": 612
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "LORETO",
+    "PRODUCTO": "MANGO",
+    "rendimiento_promedio": 1.6946,
+    "produccion_total": 732.053,
+    "registros": 432
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "LORETO",
+    "PRODUCTO": "NARANJA",
+    "rendimiento_promedio": 1.325,
+    "produccion_total": 763.2102,
+    "registros": 576
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "LORETO",
+    "PRODUCTO": "PACAE O GUABO",
+    "rendimiento_promedio": 1.5044,
+    "produccion_total": 686.0145,
+    "registros": 456
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "LORETO",
+    "PRODUCTO": "PALTA",
+    "rendimiento_promedio": 1.4966,
+    "produccion_total": 718.3845,
+    "registros": 480
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "LORETO",
+    "PRODUCTO": "PAPA",
+    "rendimiento_promedio": 9.6445,
+    "produccion_total": 5670.9531,
+    "registros": 588
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "LORETO",
+    "PRODUCTO": "PASTO ELEFANTE",
+    "rendimiento_promedio": 1.7874,
+    "produccion_total": 750.6882,
+    "registros": 420
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "LORETO",
+    "PRODUCTO": "PLATANO",
+    "rendimiento_promedio": 1.0581,
+    "produccion_total": 647.5729,
+    "registros": 612
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "LORETO",
+    "PRODUCTO": "YUCA",
+    "rendimiento_promedio": 10.522,
+    "produccion_total": 449970.0637,
+    "registros": 612
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "MADRE DE DIOS",
+    "PRODUCTO": "BRAQUEARIA",
+    "rendimiento_promedio": 3.3391,
+    "produccion_total": 440.7577,
+    "registros": 132
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "MADRE DE DIOS",
+    "PRODUCTO": "CAFE",
+    "rendimiento_promedio": 0.617,
+    "produccion_total": 81.4474,
+    "registros": 132
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "MADRE DE DIOS",
+    "PRODUCTO": "FRIJOL",
+    "rendimiento_promedio": 1.4283,
+    "produccion_total": 188.5304,
+    "registros": 132
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "MADRE DE DIOS",
+    "PRODUCTO": "LIMON",
+    "rendimiento_promedio": 1.4037,
+    "produccion_total": 185.2882,
+    "registros": 132
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "MADRE DE DIOS",
+    "PRODUCTO": "MAIZ AMARILLO DURO",
+    "rendimiento_promedio": 2.621,
+    "produccion_total": 3670.6578,
+    "registros": 132
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "MADRE DE DIOS",
+    "PRODUCTO": "MANGO",
+    "rendimiento_promedio": 2.286,
+    "produccion_total": 301.7464,
+    "registros": 132
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "MADRE DE DIOS",
+    "PRODUCTO": "NARANJA",
+    "rendimiento_promedio": 1.3391,
+    "produccion_total": 176.7576,
+    "registros": 132
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "MADRE DE DIOS",
+    "PRODUCTO": "PALTA",
+    "rendimiento_promedio": 1.5566,
+    "produccion_total": 205.4692,
+    "registros": 132
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "MADRE DE DIOS",
+    "PRODUCTO": "PAPA",
+    "rendimiento_promedio": 9.2989,
+    "produccion_total": 1227.4581,
+    "registros": 132
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "MADRE DE DIOS",
+    "PRODUCTO": "PLATANO",
+    "rendimiento_promedio": 2.237,
+    "produccion_total": 295.2784,
+    "registros": 132
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "MADRE DE DIOS",
+    "PRODUCTO": "YUCA",
+    "rendimiento_promedio": 11.8168,
+    "produccion_total": 16187.6493,
+    "registros": 132
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "MOQUEGUA",
+    "PRODUCTO": "ALFALFA",
+    "rendimiento_promedio": 2.8022,
+    "produccion_total": 605.2785,
+    "registros": 216
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "MOQUEGUA",
+    "PRODUCTO": "CHIRIMOYA",
+    "rendimiento_promedio": 2.091,
+    "produccion_total": 75.2775,
+    "registros": 36
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "MOQUEGUA",
+    "PRODUCTO": "FRIJOL",
+    "rendimiento_promedio": 2.8081,
+    "produccion_total": 331.0333,
+    "registros": 72
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "MOQUEGUA",
+    "PRODUCTO": "GRANADILLA",
+    "rendimiento_promedio": 2.4106,
+    "produccion_total": 28.9272,
+    "registros": 12
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "MOQUEGUA",
+    "PRODUCTO": "LIMON",
+    "rendimiento_promedio": 2.548,
+    "produccion_total": 183.4534,
+    "registros": 72
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "MOQUEGUA",
+    "PRODUCTO": "MAIZ AMARILLO DURO",
+    "rendimiento_promedio": 3.3253,
+    "produccion_total": 249.2411,
+    "registros": 60
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "MOQUEGUA",
+    "PRODUCTO": "MANGO",
+    "rendimiento_promedio": 2.3573,
+    "produccion_total": 113.1481,
+    "registros": 48
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "MOQUEGUA",
+    "PRODUCTO": "MANZANA",
+    "rendimiento_promedio": 2.5496,
+    "produccion_total": 428.3276,
+    "registros": 168
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "MOQUEGUA",
+    "PRODUCTO": "MELOCOTON",
+    "rendimiento_promedio": 2.943,
+    "produccion_total": 423.7955,
+    "registros": 144
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "MOQUEGUA",
+    "PRODUCTO": "NARANJA",
+    "rendimiento_promedio": 2.2367,
+    "produccion_total": 187.8831,
+    "registros": 84
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "MOQUEGUA",
+    "PRODUCTO": "PACAE O GUABO",
+    "rendimiento_promedio": 2.8553,
+    "produccion_total": 239.843,
+    "registros": 84
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "MOQUEGUA",
+    "PRODUCTO": "PALTA",
+    "rendimiento_promedio": 1.5671,
+    "produccion_total": 319.6933,
+    "registros": 204
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "MOQUEGUA",
+    "PRODUCTO": "PAPA",
+    "rendimiento_promedio": 14.2686,
+    "produccion_total": 3082.0109,
+    "registros": 216
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "MOQUEGUA",
+    "PRODUCTO": "PLATANO",
+    "rendimiento_promedio": 1.6608,
+    "produccion_total": 19.9299,
+    "registros": 12
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "MOQUEGUA",
+    "PRODUCTO": "TUNA",
+    "rendimiento_promedio": 2.6347,
+    "produccion_total": 505.8677,
+    "registros": 192
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "MOQUEGUA",
+    "PRODUCTO": "YUCA",
+    "rendimiento_promedio": 10.2587,
+    "produccion_total": 123.104,
+    "registros": 12
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "PASCO",
+    "PRODUCTO": "ALFALFA",
+    "rendimiento_promedio": 2.0914,
+    "produccion_total": 276.0645,
+    "registros": 132
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "PASCO",
+    "PRODUCTO": "BRAQUEARIA",
+    "rendimiento_promedio": 2.896,
+    "produccion_total": 173.7581,
+    "registros": 60
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "PASCO",
+    "PRODUCTO": "CAFE",
+    "rendimiento_promedio": 1.0074,
+    "produccion_total": 120.8892,
+    "registros": 120
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "PASCO",
+    "PRODUCTO": "CHIRIMOYA",
+    "rendimiento_promedio": 1.7332,
+    "produccion_total": 62.3949,
+    "registros": 36
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "PASCO",
+    "PRODUCTO": "FRIJOL",
+    "rendimiento_promedio": 1.8986,
+    "produccion_total": 859.3212,
+    "registros": 156
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "PASCO",
+    "PRODUCTO": "GRANADILLA",
+    "rendimiento_promedio": 2.2739,
+    "produccion_total": 245.581,
+    "registros": 108
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "PASCO",
+    "PRODUCTO": "LIMON",
+    "rendimiento_promedio": 1.8005,
+    "produccion_total": 43.212,
+    "registros": 24
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "PASCO",
+    "PRODUCTO": "MAIZ AMARILLO DURO",
+    "rendimiento_promedio": 2.5929,
+    "produccion_total": 6033.1847,
+    "registros": 132
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "PASCO",
+    "PRODUCTO": "MANGO",
+    "rendimiento_promedio": 2.1342,
+    "produccion_total": 76.8317,
+    "registros": 36
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "PASCO",
+    "PRODUCTO": "MANZANA",
+    "rendimiento_promedio": 2.0921,
+    "produccion_total": 25.1048,
+    "registros": 12
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "PASCO",
+    "PRODUCTO": "MELOCOTON",
+    "rendimiento_promedio": 1.7951,
+    "produccion_total": 21.5409,
+    "registros": 12
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "PASCO",
+    "PRODUCTO": "NARANJA",
+    "rendimiento_promedio": 1.922,
+    "produccion_total": 115.3197,
+    "registros": 60
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "PASCO",
+    "PRODUCTO": "PALTA",
+    "rendimiento_promedio": 1.7229,
+    "produccion_total": 248.0947,
+    "registros": 144
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "PASCO",
+    "PRODUCTO": "PAPA",
+    "rendimiento_promedio": 14.8724,
+    "produccion_total": 16036.0467,
+    "registros": 312
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "PASCO",
+    "PRODUCTO": "PLATANO",
+    "rendimiento_promedio": 1.5055,
+    "produccion_total": 162.591,
+    "registros": 108
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "PASCO",
+    "PRODUCTO": "RYE GRASS",
+    "rendimiento_promedio": 2.585,
+    "produccion_total": 527.3433,
+    "registros": 204
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "PASCO",
+    "PRODUCTO": "TUNA",
+    "rendimiento_promedio": 1.7064,
+    "produccion_total": 81.9079,
+    "registros": 48
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "PASCO",
+    "PRODUCTO": "YUCA",
+    "rendimiento_promedio": 12.3921,
+    "produccion_total": 57455.5468,
+    "registros": 96
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "PIURA",
+    "PRODUCTO": "ALFALFA",
+    "rendimiento_promedio": 1.597,
+    "produccion_total": 344.9587,
+    "registros": 216
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "PIURA",
+    "PRODUCTO": "CAFE",
+    "rendimiento_promedio": 0.5234,
+    "produccion_total": 125.6241,
+    "registros": 240
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "PIURA",
+    "PRODUCTO": "CHIRIMOYA",
+    "rendimiento_promedio": 0.8807,
+    "produccion_total": 211.3587,
+    "registros": 240
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "PIURA",
+    "PRODUCTO": "FRIJOL",
+    "rendimiento_promedio": 1.5219,
+    "produccion_total": 986.2152,
+    "registros": 648
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "PIURA",
+    "PRODUCTO": "GRANADILLA",
+    "rendimiento_promedio": 1.8941,
+    "produccion_total": 477.3123,
+    "registros": 252
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "PIURA",
+    "PRODUCTO": "LIMON",
+    "rendimiento_promedio": 1.1897,
+    "produccion_total": 670.9875,
+    "registros": 564
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "PIURA",
+    "PRODUCTO": "MAIZ AMARILLO DURO",
+    "rendimiento_promedio": 3.158,
+    "produccion_total": 2103.2992,
+    "registros": 660
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "PIURA",
+    "PRODUCTO": "MANGO",
+    "rendimiento_promedio": 1.7778,
+    "produccion_total": 831.9958,
+    "registros": 468
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "PIURA",
+    "PRODUCTO": "NARANJA",
+    "rendimiento_promedio": 1.6877,
+    "produccion_total": 688.5847,
+    "registros": 408
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "PIURA",
+    "PRODUCTO": "PACAE O GUABO",
+    "rendimiento_promedio": 1.1455,
+    "produccion_total": 384.8863,
+    "registros": 336
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "PIURA",
+    "PRODUCTO": "PALTA",
+    "rendimiento_promedio": 1.2483,
+    "produccion_total": 509.319,
+    "registros": 408
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "PIURA",
+    "PRODUCTO": "PAPA",
+    "rendimiento_promedio": 9.7597,
+    "produccion_total": 14518.1033,
+    "registros": 504
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "PIURA",
+    "PRODUCTO": "PASTO ELEFANTE",
+    "rendimiento_promedio": 1.7419,
+    "produccion_total": 815.2082,
+    "registros": 468
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "PIURA",
+    "PRODUCTO": "PLATANO",
+    "rendimiento_promedio": 1.2367,
+    "produccion_total": 801.3868,
+    "registros": 648
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "PIURA",
+    "PRODUCTO": "TUNA",
+    "rendimiento_promedio": 1.1952,
+    "produccion_total": 186.447,
+    "registros": 156
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "PIURA",
+    "PRODUCTO": "YUCA",
+    "rendimiento_promedio": 6.9083,
+    "produccion_total": 4272.8691,
+    "registros": 528
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "PUNO",
+    "PRODUCTO": "ALFALFA",
+    "rendimiento_promedio": 2.146,
+    "produccion_total": 1905.6786,
+    "registros": 888
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "PUNO",
+    "PRODUCTO": "CAFE",
+    "rendimiento_promedio": 1.0484,
+    "produccion_total": 150.9699,
+    "registros": 144
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "PUNO",
+    "PRODUCTO": "CHIRIMOYA",
+    "rendimiento_promedio": 1.6038,
+    "produccion_total": 19.2455,
+    "registros": 12
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "PUNO",
+    "PRODUCTO": "FRIJOL",
+    "rendimiento_promedio": 1.9157,
+    "produccion_total": 275.8611,
+    "registros": 144
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "PUNO",
+    "PRODUCTO": "GRANADILLA",
+    "rendimiento_promedio": 2.3165,
+    "produccion_total": 194.5864,
+    "registros": 84
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "PUNO",
+    "PRODUCTO": "LIMON",
+    "rendimiento_promedio": 1.8569,
+    "produccion_total": 89.1298,
+    "registros": 48
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "PUNO",
+    "PRODUCTO": "MAIZ AMARILLO DURO",
+    "rendimiento_promedio": 2.5056,
+    "produccion_total": 481.0847,
+    "registros": 192
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "PUNO",
+    "PRODUCTO": "MELOCOTON",
+    "rendimiento_promedio": 2.1199,
+    "produccion_total": 101.7548,
+    "registros": 48
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "PUNO",
+    "PRODUCTO": "NARANJA",
+    "rendimiento_promedio": 1.7292,
+    "produccion_total": 186.7563,
+    "registros": 108
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "PUNO",
+    "PRODUCTO": "PALTA",
+    "rendimiento_promedio": 1.8501,
+    "produccion_total": 177.6056,
+    "registros": 96
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "PUNO",
+    "PRODUCTO": "PAPA",
+    "rendimiento_promedio": 13.3827,
+    "produccion_total": 16862.1619,
+    "registros": 1260
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "PUNO",
+    "PRODUCTO": "PLATANO",
+    "rendimiento_promedio": 1.5406,
+    "produccion_total": 166.3821,
+    "registros": 108
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "PUNO",
+    "PRODUCTO": "YUCA",
+    "rendimiento_promedio": 11.5525,
+    "produccion_total": 1524.9266,
+    "registros": 132
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "SAN MARTIN",
+    "PRODUCTO": "BRAQUEARIA",
+    "rendimiento_promedio": 2.8426,
+    "produccion_total": 2592.4605,
+    "registros": 912
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "SAN MARTIN",
+    "PRODUCTO": "CAFE",
+    "rendimiento_promedio": 0.5953,
+    "produccion_total": 464.3669,
+    "registros": 780
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "SAN MARTIN",
+    "PRODUCTO": "CHIRIMOYA",
+    "rendimiento_promedio": 1.2967,
+    "produccion_total": 108.9194,
+    "registros": 84
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "SAN MARTIN",
+    "PRODUCTO": "FRIJOL",
+    "rendimiento_promedio": 1.3979,
+    "produccion_total": 2937.1276,
+    "registros": 924
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "SAN MARTIN",
+    "PRODUCTO": "LIMON",
+    "rendimiento_promedio": 1.5844,
+    "produccion_total": 1349.9131,
+    "registros": 852
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "SAN MARTIN",
+    "PRODUCTO": "MAIZ AMARILLO DURO",
+    "rendimiento_promedio": 2.3149,
+    "produccion_total": 15159.6023,
+    "registros": 924
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "SAN MARTIN",
+    "PRODUCTO": "MANGO",
+    "rendimiento_promedio": 2.2364,
+    "produccion_total": 590.3977,
+    "registros": 264
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "SAN MARTIN",
+    "PRODUCTO": "NARANJA",
+    "rendimiento_promedio": 1.2772,
+    "produccion_total": 1134.1331,
+    "registros": 888
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "SAN MARTIN",
+    "PRODUCTO": "PACAE O GUABO",
+    "rendimiento_promedio": 2.1665,
+    "produccion_total": 1325.9055,
+    "registros": 612
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "SAN MARTIN",
+    "PRODUCTO": "PALTA",
+    "rendimiento_promedio": 1.6956,
+    "produccion_total": 590.0713,
+    "registros": 348
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "SAN MARTIN",
+    "PRODUCTO": "PAPA",
+    "rendimiento_promedio": 9.0905,
+    "produccion_total": 7090.6112,
+    "registros": 780
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "SAN MARTIN",
+    "PRODUCTO": "PASTO ELEFANTE",
+    "rendimiento_promedio": 1.7907,
+    "produccion_total": 1375.2473,
+    "registros": 768
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "SAN MARTIN",
+    "PRODUCTO": "PLATANO",
+    "rendimiento_promedio": 1.0877,
+    "produccion_total": 1005.0596,
+    "registros": 924
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "SAN MARTIN",
+    "PRODUCTO": "YUCA",
+    "rendimiento_promedio": 12.7661,
+    "produccion_total": 69957.9191,
+    "registros": 924
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "TACNA",
+    "PRODUCTO": "ALFALFA",
+    "rendimiento_promedio": 2.8158,
+    "produccion_total": 878.5271,
+    "registros": 312
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "TACNA",
+    "PRODUCTO": "FRIJOL",
+    "rendimiento_promedio": 3.5852,
+    "produccion_total": 591.2109,
+    "registros": 36
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "TACNA",
+    "PRODUCTO": "MAIZ AMARILLO DURO",
+    "rendimiento_promedio": 3.3349,
+    "produccion_total": 80.0372,
+    "registros": 24
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "TACNA",
+    "PRODUCTO": "MANZANA",
+    "rendimiento_promedio": 3.6305,
+    "produccion_total": 653.4863,
+    "registros": 180
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "TACNA",
+    "PRODUCTO": "MELOCOTON",
+    "rendimiento_promedio": 3.3597,
+    "produccion_total": 362.8501,
+    "registros": 108
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "TACNA",
+    "PRODUCTO": "NARANJA",
+    "rendimiento_promedio": 2.5909,
+    "produccion_total": 155.4533,
+    "registros": 60
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "TACNA",
+    "PRODUCTO": "PALTA",
+    "rendimiento_promedio": 2.8342,
+    "produccion_total": 442.1392,
+    "registros": 156
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "TACNA",
+    "PRODUCTO": "PAPA",
+    "rendimiento_promedio": 15.3879,
+    "produccion_total": 5171.8008,
+    "registros": 300
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "TACNA",
+    "PRODUCTO": "PLATANO",
+    "rendimiento_promedio": 2.6657,
+    "produccion_total": 31.9881,
+    "registros": 12
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "TACNA",
+    "PRODUCTO": "TUNA",
+    "rendimiento_promedio": 2.7524,
+    "produccion_total": 297.2625,
+    "registros": 108
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "TUMBES",
+    "PRODUCTO": "FRIJOL",
+    "rendimiento_promedio": 1.4263,
+    "produccion_total": 188.2746,
+    "registros": 132
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "TUMBES",
+    "PRODUCTO": "LIMON",
+    "rendimiento_promedio": 1.3362,
+    "produccion_total": 208.4496,
+    "registros": 156
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "TUMBES",
+    "PRODUCTO": "MAIZ AMARILLO DURO",
+    "rendimiento_promedio": 2.7655,
+    "produccion_total": 504.8318,
+    "registros": 156
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "TUMBES",
+    "PRODUCTO": "MANGO",
+    "rendimiento_promedio": 2.2776,
+    "produccion_total": 327.9783,
+    "registros": 144
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "TUMBES",
+    "PRODUCTO": "NARANJA",
+    "rendimiento_promedio": 2.3214,
+    "produccion_total": 250.7138,
+    "registros": 108
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "TUMBES",
+    "PRODUCTO": "PAPA",
+    "rendimiento_promedio": 8.2351,
+    "produccion_total": 1284.6801,
+    "registros": 156
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "TUMBES",
+    "PRODUCTO": "PASTO ELEFANTE",
+    "rendimiento_promedio": 2.0877,
+    "produccion_total": 275.5755,
+    "registros": 132
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "TUMBES",
+    "PRODUCTO": "PLATANO",
+    "rendimiento_promedio": 1.1044,
+    "produccion_total": 172.2808,
+    "registros": 156
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "TUMBES",
+    "PRODUCTO": "YUCA",
+    "rendimiento_promedio": 11.0141,
+    "produccion_total": 3055.7407,
+    "registros": 156
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "UCAYALI",
+    "PRODUCTO": "CAFE",
+    "rendimiento_promedio": 0.5814,
+    "produccion_total": 111.631,
+    "registros": 192
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "UCAYALI",
+    "PRODUCTO": "FRIJOL",
+    "rendimiento_promedio": 1.5362,
+    "produccion_total": 313.3839,
+    "registros": 204
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "UCAYALI",
+    "PRODUCTO": "GRANADILLA",
+    "rendimiento_promedio": 1.8893,
+    "produccion_total": 362.7432,
+    "registros": 192
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "UCAYALI",
+    "PRODUCTO": "LIMON",
+    "rendimiento_promedio": 1.4067,
+    "produccion_total": 286.9674,
+    "registros": 204
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "UCAYALI",
+    "PRODUCTO": "MAIZ AMARILLO DURO",
+    "rendimiento_promedio": 2.4679,
+    "produccion_total": 14136.1303,
+    "registros": 204
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "UCAYALI",
+    "PRODUCTO": "MANGO",
+    "rendimiento_promedio": 1.798,
+    "produccion_total": 366.782,
+    "registros": 204
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "UCAYALI",
+    "PRODUCTO": "NARANJA",
+    "rendimiento_promedio": 1.3426,
+    "produccion_total": 273.8857,
+    "registros": 204
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "UCAYALI",
+    "PRODUCTO": "PACAE O GUABO",
+    "rendimiento_promedio": 1.4726,
+    "produccion_total": 300.4058,
+    "registros": 204
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "UCAYALI",
+    "PRODUCTO": "PALTA",
+    "rendimiento_promedio": 1.4501,
+    "produccion_total": 278.4251,
+    "registros": 192
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "UCAYALI",
+    "PRODUCTO": "PAPA",
+    "rendimiento_promedio": 9.2603,
+    "produccion_total": 1889.1005,
+    "registros": 204
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "UCAYALI",
+    "PRODUCTO": "PLATANO",
+    "rendimiento_promedio": 1.1726,
+    "produccion_total": 239.2112,
+    "registros": 204
+  },
+  {
+    "AÑO": 2027,
+    "DEPARTAMENTO": "UCAYALI",
+    "PRODUCTO": "YUCA",
+    "rendimiento_promedio": 10.9514,
+    "produccion_total": 68311.2008,
+    "registros": 204
+  }
+]
